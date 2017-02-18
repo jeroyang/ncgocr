@@ -10,4 +10,4 @@ __author__ = 'Chia-Jung, Yang'
 __email__ = 'jeroyang@gmail.com'
 __version__ = '0.1.0'
 
-from mcgocr import mcgocr
+#from mcgocr.mcgocr import *

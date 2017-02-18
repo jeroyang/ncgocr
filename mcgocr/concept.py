@@ -5,9 +5,18 @@ from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
 from builtins import *
 
+import datetime
+import time
 import re
-from collections import namedtuple
+import pickle
+
+from collections import namedtuple, defaultdict
+from functools import partial
+
+import progressbar
+
 from mcgocr import gopattern
+
 
 Trunk = namedtuple('Trunk', 'text type start end')
 Term = namedtuple('Term', 'lemma ref')
@@ -133,11 +142,11 @@ def split_pattern(trunk, regex_in):
     return pre_terms
     
     
-def evidence_split(goid, label):
+def evidence_split(goid, label, regex_in):
     """
     Given a goid and one of its label, return a list of terms
     """
-    pre_terms = [e for t in split_trunk(label) for e in split_pattern(t)]
+    pre_terms = [e for t in split_trunk(label) for e in split_pattern(t, regex_in)]
     evidences = []
     for pre_term in pre_terms:
         if pre_term[0] is Pattern:
@@ -208,6 +217,9 @@ class ClusterBook(object):
     def __repr__(self):
         return 'ClusterBook <{} clusters, {} terms>'.format(len(self.clusters), len(self.index.keys()))
     
+    def preferred_term(self, term):
+        return self.index[term].primary_term
+    
     def add(self, cluster):
         self.clusters.add(cluster)
         for term in cluster:
@@ -237,6 +249,27 @@ class ClusterBook(object):
                 primary_term = term
                 cluster = Cluster(primary_term, [term])
                 self.add(cluster)
+                
+    def simplify(self, theshold):
+        """
+        Return a new clusterbook, in which, a pair of the clusters has a 
+        similarity greater than the theshold will be merged together
+        """
+        result = ClusterBook()
+        Z = len(self.clusters)**2//10000
+        with progressbar.ProgressBar(max_value=Z) as bar:
+            for i, cluster in enumerate(self.clusters):
+                if len(result.clusters) == 0:
+                    result.add(cluster)
+                for already_cluster in result.clusters:
+                    if sim(cluster, already_cluster) >= theshold:
+                        result.merge(already_cluster, cluster)
+                        break
+                else:
+                    result.add(cluster)
+                bar.update(i**2//10000)
+        return result
+        
         
 def has_common(cluster1, cluster2):
     set1 = set([t.lemma for t in cluster1.terms])
@@ -259,7 +292,7 @@ def sim(cluster1, cluster2):
         
 class GoData(dict):
     def __init__(self, obo_path):
-        
+        self._date = None
         self._read(obo_path)
         
         self.goid2mindepth = dict()
@@ -269,20 +302,25 @@ class GoData(dict):
         self.goid2above = dict()
         self.goid2below = dict()
         self.goid2density = dict()
+        self.clusterbook = None
+        self._raw_clusterbook = ClusterBook()
         self._calculate_density()
         
         self.biological_process = partial(self._get_namespace, 'biological_process')
         self.cellular_component = partial(self._get_namespace, 'cellular_component')
         self.molecular_function = partial(self._get_namespace, 'molecular_function')
-    
+        
     def _read(self, obo_path):
         """Read GO data from OBO file"""
         
         with open(obo_path) as f:
             text = f.read()
         blocks = text.split('\n\n')
-        term_blocks = filter(lambda block:block[0:6]=='[Term]', 
-                             blocks)
+        basic_data = blocks[0]
+        term_blocks = filter(lambda block:block[0:6]=='[Term]', blocks)
+        
+        dt = tuple(i.partition(': ')[2] for i in basic_data.split('\n') if i.partition(':')[0]=='date')[0]
+        self.date = datetime.datetime(*time.strptime(dt, "%d:%m:%Y %H:%M")[:6])
         
         for term_block in term_blocks:
             goid = None
@@ -370,7 +408,71 @@ class GoData(dict):
         for goid, concept in self.items():
             if concept.namespace == namespace:
                 yield concept
+    
+    def _digest(self, pattern_regex):
+        """
+        Digest the labels of concepts, write the statements, 
+        and aggregate clusters, save into the self.clusterbook
+        """
+        with progressbar.ProgressBar(max_value=len(self)) as bar:
+            
+            for j, (goid, concept) in enumerate(self.items()):
+                for i, label in enumerate(concept.labels):
+                    statid = '%'.join([goid, str(i).zfill(3)])
+                    evidences = evidence_split(goid, label, pattern_regex)
+                    terms = [evidence.term for evidence in evidences]
+                    statement = Statement(statid, evidences)
+
+                    if len(concept.statements) == 0:
+                        concept.statements.append(statement)
+                        self._raw_clusterbook.add_terms(terms)
+                        continue 
+
+                    for already_statement in concept.statements:
+                        try:
+                            eq_terms = statement.eq_terms(already_statement)
+                            for term1, term2 in eq_terms:
+                                self._raw_clusterbook.merge_term(term1, term2)
+                            break
+                            
+                        except ValueError:
+                            pass
+                    else:
+                        concept.statements.append(statement)
+                        self._raw_clusterbook.add_terms(terms)
+                bar.update(j)
                 
+        if self.clusterbook is None:
+            self.clusterbook = self._raw_clusterbook
+    
+    def _rewrite_statements(self):
+        for goid, concept in self.items():
+            statements = concept.statements
+            new_statements = []
+            for statement in statements:
+                statid = statement.statid
+                old_evidences = statement.evidences
+                new_evidences = []
+                for old_evidence in old_evidences:
+                    old_term = old_evidence.term
+                    text = old_term.lemma
+                    new_term = self.clusterbook.preferred_term(old_term)
+                    start = old_evidence.start
+                    end = old_evidence.end
+                    new_evidences.append(Evidence(new_term, text, start, end))
+
+                new_statements.append(Statement(statid, new_evidences))
+            concept.statements = new_statements
+            
+    def compression(self, theshold):
+        simple_book = self._raw_clusterbook.simplify(theshold)
+        self.clusterbook = simple_book
+        self._rewrite_statements()
+        
+    def save(self, filepath):
+        with open(filepath, 'wb') as f:
+            pickle.dump(self, f, protocol=2)
+    
 class Concept(object):
     def __init__(self, goid, name, namespace, synonym_list, parent_list, density=-1):
         self.goid = goid
@@ -378,7 +480,7 @@ class Concept(object):
         self.namespace = namespace
         self.ns = {'biological_process': 'BP', 
                   'cellular_component': 'CC', 
-                  'molecular_function': 'MF'}[self.namespace]
+                  'molecular_function': 'MF'}[namespace]
         self.synonym_list = synonym_list
         self.labels = [name] + synonym_list
         self.parent_list = parent_list
@@ -387,3 +489,4 @@ class Concept(object):
         
     def __repr__(self):
         return 'Concept<{} {} {}>'.format(self.goid, self.ns, self.name)
+        
