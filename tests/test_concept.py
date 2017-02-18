@@ -282,3 +282,4 @@ class TestConcept(unittest.TestCase):
     def test_init(self):
         self.assertEqual(self.concept.ns, 'BP')
         self.assertEqual(self.concept.density, -1)
+        

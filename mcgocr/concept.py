@@ -15,7 +15,7 @@ from functools import partial
 
 import progressbar
 
-from mcgocr import gopattern
+from mcgocr.pattern_regex import regex_in
 
 
 Trunk = namedtuple('Trunk', 'text type start end')
@@ -309,6 +309,15 @@ class GoData(dict):
         self.biological_process = partial(self._get_namespace, 'biological_process')
         self.cellular_component = partial(self._get_namespace, 'cellular_component')
         self.molecular_function = partial(self._get_namespace, 'molecular_function')
+        self._digest()
+        
+    def __repr__(self):
+        template = "GoData<{} concepts, {} statements, on {}>"
+        concept_count = len(self)
+        statement_count = sum([len(s.statements) for s in self.values()])
+        datestr = self.date.strftime('%Y/%m/%d')
+        
+        return template.format(concept_count, statement_count, datestr )
         
     def _read(self, obo_path):
         """Read GO data from OBO file"""
@@ -409,7 +418,7 @@ class GoData(dict):
             if concept.namespace == namespace:
                 yield concept
     
-    def _digest(self, pattern_regex):
+    def _digest(self, regex_in=regex_in):
         """
         Digest the labels of concepts, write the statements, 
         and aggregate clusters, save into the self.clusterbook
@@ -419,7 +428,7 @@ class GoData(dict):
             for j, (goid, concept) in enumerate(self.items()):
                 for i, label in enumerate(concept.labels):
                     statid = '%'.join([goid, str(i).zfill(3)])
-                    evidences = evidence_split(goid, label, pattern_regex)
+                    evidences = evidence_split(goid, label, regex_in)
                     terms = [evidence.term for evidence in evidences]
                     statement = Statement(statid, evidences)
 
@@ -489,4 +498,5 @@ class Concept(object):
         
     def __repr__(self):
         return 'Concept<{} {} {}>'.format(self.goid, self.ns, self.name)
-        
+
+            
