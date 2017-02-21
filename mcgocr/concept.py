@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+This module read the GO.OBO and do the essential proccesses
+"""
 
 from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
@@ -481,6 +484,12 @@ class GoData(dict):
     def save(self, filepath):
         with open(filepath, 'wb') as f:
             pickle.dump(self, f, protocol=2)
+            
+    @classmethod
+    def load(cls, filepath):
+        with open(filepath, 'rb') as f:
+            godata = pickle.load(f)
+            return godata
     
 class Concept(object):
     def __init__(self, goid, name, namespace, synonym_list, parent_list, density=-1):
