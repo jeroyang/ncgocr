@@ -52,4 +52,14 @@ class TestIndex(unittest.TestCase):
         self.assertEqual(self.index0['m'], set())
         self.assertNotIn('m', self.index0)
 
-
+class TextFunctions2(unittest.TestCase):
+    def test_nearest_evidences(self):
+        positional_index = {'a': {(1, 1), (3, 3)}, 
+                            'b': {(2, 2), (5, 5)}, 
+                            'c': {(4, 4)}}
+        wanted_terms = ['a', 'b']
+        current_position = 3
+        result = ex.nearest_evidences(current_position, wanted_terms, positional_index)
+        wanted = [2, 3]
+        self.assertEqual(result, wanted)
+        

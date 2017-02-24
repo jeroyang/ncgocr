@@ -9,8 +9,8 @@ import re
 
 from acora import AcoraBuilder
 
-from mcgocr.pattern_regex import regex_out
 from mcgocr.concept import Entity, Pattern, Constraint, Evidence
+
 
 
 Grounds = namedtuple('Grounds', 'evidences sentence')
@@ -85,8 +85,8 @@ class SolidExtractor(object):
         return grounds
                     
 class SoftExtractor(object):
-    def __init__(self, pattern_regex):
-        self.pattern_ex = re.compile(pattern_regex)
+    def __init__(self, regex_out):
+        self.pattern_ex = re.compile(regex_out)
     
     def findall(self, sentence):
         ex = self.pattern_ex
@@ -123,3 +123,82 @@ class JoinExtractor(object):
         evidences = self.findall(sentence)
         grounds = Grounds(evidences, sentence)
         return grounds        
+
+
+def nearest_evidences(current_position, wanted_terms, position_index):
+    found_evidences = []
+    for term in wanted_terms:
+        positional_evidences = position_index[term]
+        if len(positional_evidences) > 0:
+            distance_evidence = [(abs(current_position - position), evidence) 
+                for position, evidence in positional_evidences]
+            distance_evidence.sort(key=lambda it:it[0])
+            found_evidences.append(distance_evidence[0][1])
+            found_evidences.sort()
+    return found_evidences
+
+def only_has_pattern(statement):
+    if all([isinstance(term, Pattern) for term in statement.terms()]):
+        return True
+    return False
+    
+class CandidateReconizer(object):
+    def __init__(self, godata):
+        stat_index = extractor.Index()
+        for goid, concept in godata.items():
+            for statement in concept.statements:
+                for term in statement.terms():
+                    if isinstance(term, Entity):
+                        stat_index[term].add(statement)
+                    elif isinstance(term, Constraint):
+                        stat_index[term].add(statement)
+                    elif only_has_pattern(statement):
+                        stat_index[term].add(statement)
+        stat_index.use_default = False
+        self.stat_index = stat_index
+    
+    def generate(self, grounds):
+        """
+        This function looks so complex because I only want to report the nearest evidence
+        Maybe there is a more elegant way, but I have no idea, currently. 
+        """
+        stat_index = self.stat_index
+        result_candidates = []
+        
+        positional_evidences = list(enumerate(grounds.evidences))
+        
+        #The first loop, build the positional_index
+        position_index = defaultdict(list)
+        for position, evidence in positional_evidences:
+            position_index[evidence.term].append((position, evidence))
+        
+        #The second loop, gathering evidences
+        for position, evidence in positional_evidences:
+            statements = stat_index[evidence.term]
+            for statement in statements:
+                wanted_terms = statement.terms()
+                found_evidences = nearest_evidences(position, wanted_terms, position_index)
+                candidate = Candidate(statement, found_evidences)
+                result_candidates.append(candidate)
+        return result_candidates
+
+class CandidateExtractor(object):
+    def __init__(self, godata):
+        term_index = extractor.Index()
+        for cluster in godata.clusterbook.clusters:
+            for term in cluster.terms:
+                term_index[term.lemma].add(cluster.primary_term)
+        self.term_index = term_index
+        
+        regex_out = self.godata._regex_out
+        solid_extractor = SolidExtractor(term_index)
+        soft_extractor = SoftExtractor(regex_out)
+        self.extractor = JoinExtractor([solid_extractor, soft_extractor])
+        self.recognizer = CandidateReconizer(godata)
+        
+    def extract(self, sentence):
+        grounds = self.extractor.to_grounds(sentence)
+        candidates = self.recognizer.generate(grounds)
+        return candidates
+        
+        

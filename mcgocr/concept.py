@@ -18,7 +18,7 @@ from functools import partial
 
 import progressbar
 
-from mcgocr.pattern_regex import regex_in
+from mcgocr import pattern_regex
 
 
 Trunk = namedtuple('Trunk', 'text type start end')
@@ -75,8 +75,6 @@ class Statement(namedtuple('Statement', 'statid evidences')):
                 terms.append((other_term, this_term))
         return terms
     
-
-
 
 def _clean(entity_frag):
     """
@@ -294,7 +292,9 @@ def sim(cluster1, cluster2):
         
         
 class GoData(dict):
-    def __init__(self, obo_path):
+    def __init__(self, obo_path, pattern_regex=pattern_regex):
+        self._regex_in = pattern_regex.regex_in
+        self._regex_out = pattern_regex.regex_out
         self._date = None
         self._read(obo_path)
         
@@ -421,11 +421,13 @@ class GoData(dict):
             if concept.namespace == namespace:
                 yield concept
     
-    def _digest(self, regex_in=regex_in):
+    def _digest(self):
         """
         Digest the labels of concepts, write the statements, 
         and aggregate clusters, save into the self.clusterbook
         """
+        regex_in=self._regex_in
+        
         with progressbar.ProgressBar(max_value=len(self)) as bar:
             
             for j, (goid, concept) in enumerate(self.items()):
