@@ -15,6 +15,17 @@ Sentence = namedtuple('Sentence', 'text offset docid')
 Grounds = namedtuple('Grounds', 'evidences sentence')
 Candidate = namedtuple('Candidate', 'statement density evidences grounds')
 
+class Bag(set):
+    def __init__(self, iterable=[]):
+        self |= set(iterable)
+        
+    def __repr__(self):
+        template = '{}<{} items>'
+        text = template.format(self.__class__.__name__,
+                               len(self))
+        return text
+        
+
 class Corpus(list):
     def __init__(self, title='', sentences=None):
         self.title = title

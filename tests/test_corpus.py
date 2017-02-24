@@ -16,7 +16,7 @@ import unittest
 
 from experiment import corpus as c
 
-class TextCorpus(unittest.TestCase):
+class TestCorpus(unittest.TestCase):
     
     def setUp(self):
         self.corpus_a = c.Corpus(title='testing_a')
