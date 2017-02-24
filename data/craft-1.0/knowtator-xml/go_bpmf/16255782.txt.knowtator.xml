@@ -1,0 +1,2715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16255782.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1473597" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25842" end="25852" />
+    <spannedText>Expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1473599" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26132" end="26142" />
+    <spannedText>Expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1473601" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27234" end="27247" />
+    <span start="27253" end="27257" />
+    <spannedText>expression of ... gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477622" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26337" end="26347" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477624" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26322" end="26333" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477626" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26322" end="26333" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477628" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26374" end="26395" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477630" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26374" end="26395" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477633" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26374" end="26387" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477636" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27081" end="27102" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477638" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27081" end="27102" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477641" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27081" end="27094" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477644" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27128" end="27139" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477646" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27128" end="27139" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477648" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27143" end="27153" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477650" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27538" end="27559" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477652" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27538" end="27559" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477655" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27538" end="27551" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477658" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27575" end="27586" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477660" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27575" end="27586" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477662" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27590" end="27600" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479326" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5965" end="5967" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479328" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5965" end="5967" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1481750" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3365" end="3399" />
+    <spannedText>modification of nucleic acid bases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370000" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6" end="26" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470003" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="824" end="845" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490005" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="936" end="957" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_510007" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1043" end="1063" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_510009" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1219" end="1240" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_510011" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1425" end="1445" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_520011" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3450" end="3456" />
+    <spannedText>repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_520066" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="43" end="54" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530068" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="43" end="54" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530071" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="416" end="427" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530073" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="416" end="427" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530075" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="702" end="713" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530077" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="702" end="713" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530079" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="759" end="770" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530081" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="759" end="770" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530083" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1103" end="1114" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530085" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1103" end="1114" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530088" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1274" end="1285" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530090" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1274" end="1285" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530093" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1504" end="1515" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530095" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1504" end="1515" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530098" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2229" end="2240" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530100" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2229" end="2240" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530103" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2405" end="2416" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530105" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2405" end="2416" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_510013" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1818" end="1838" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530107" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2710" end="2721" />
+    <spannedText>Antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_540109" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2710" end="2721" />
+    <spannedText>Antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_540111" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3012" end="3023" />
+    <spannedText>Antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_540113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3012" end="3023" />
+    <spannedText>Antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_540115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3691" end="3702" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550117" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3691" end="3702" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550119" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3842" end="3853" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550121" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3842" end="3853" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550123" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3975" end="3986" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550125" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3975" end="3986" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4427" end="4438" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550129" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4427" end="4438" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550132" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4890" end="4901" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550134" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4890" end="4901" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550137" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8570" end="8581" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550139" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8570" end="8581" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550141" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8757" end="8768" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550143" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8757" end="8768" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550146" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9163" end="9174" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550148" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9163" end="9174" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550150" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10762" end="10773" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550152" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10762" end="10773" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550155" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11598" end="11609" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550157" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11598" end="11609" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550159" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11789" end="11800" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550161" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11789" end="11800" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550163" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13616" end="13627" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550165" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13616" end="13627" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550167" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14124" end="14135" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550169" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14124" end="14135" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550172" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14321" end="14332" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14321" end="14332" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550176" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14787" end="14798" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550178" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14787" end="14798" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550181" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14907" end="14918" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550183" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14907" end="14918" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550185" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15020" end="15031" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550187" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15020" end="15031" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550189" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15325" end="15336" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550191" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15325" end="15336" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550194" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16401" end="16412" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550196" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16401" end="16412" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550198" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16648" end="16659" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550200" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16648" end="16659" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550202" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16970" end="16981" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550204" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16970" end="16981" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550206" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17291" end="17302" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550208" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17291" end="17302" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550210" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17474" end="17485" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550212" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17474" end="17485" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550214" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18358" end="18369" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550216" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18582" end="18593" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550218" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18582" end="18593" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550220" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18813" end="18824" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550222" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18813" end="18824" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550224" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19029" end="19040" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550226" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19029" end="19040" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550228" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21444" end="21455" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550230" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21444" end="21455" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550233" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22551" end="22562" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550235" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22551" end="22562" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550238" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22686" end="22697" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550240" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22686" end="22697" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_540015" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2150" end="2170" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_580017" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4223" end="4243" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_580019" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4475" end="4496" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_580021" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4641" end="4661" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_590019" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5965" end="5967" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_590023" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8536" end="8557" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_590025" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8718" end="8739" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600027" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9126" end="9147" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600029" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9559" end="9579" />
+    <spannedText>Transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610031" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10049" end="10069" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640033" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10173" end="10194" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640035" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10399" end="10420" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650037" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10504" end="10525" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650039" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11882" end="11903" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650041" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13130" end="13151" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_660041" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17622" end="17643" />
+    <spannedText>heterodimer formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_660043" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13664" end="13685" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_660045" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14552" end="14573" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_660047" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15070" end="15090" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_670049" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17538" end="17558" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_670010" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17711" end="17716" />
+    <spannedText>forms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_670047" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18225" end="18228" />
+    <spannedText>die</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_670051" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20725" end="20746" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680053" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24237" end="24257" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680055" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24373" end="24393" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680057" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26932" end="26952" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680059" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6" end="26" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680061" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="824" end="845" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680063" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="936" end="957" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690053" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19233" end="19241" />
+    <spannedText>regulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690056" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19436" end="19449" />
+    <spannedText>up-regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690060" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20666" end="20675" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680065" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1043" end="1063" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690067" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1219" end="1240" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690069" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1425" end="1445" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690071" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1818" end="1838" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700066" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22423" end="22432" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700073" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2150" end="2170" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700075" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4223" end="4243" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700077" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4475" end="4496" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700079" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4641" end="4661" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700081" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8536" end="8557" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700083" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8718" end="8739" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700085" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9126" end="9147" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700087" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9559" end="9579" />
+    <spannedText>Transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700089" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10049" end="10069" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700091" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10173" end="10194" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700093" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10399" end="10420" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700095" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10504" end="10525" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700097" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11882" end="11903" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700099" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13130" end="13151" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700101" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13664" end="13685" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700103" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14552" end="14573" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700105" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15070" end="15090" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700107" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17538" end="17558" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700109" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20725" end="20746" />
+    <spannedText>transcription factors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700111" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24237" end="24257" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24373" end="24393" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26932" end="26952" />
+    <spannedText>transcription factor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700117" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="885" end="895" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700119" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2809" end="2818" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700072" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2197" end="2207" />
+    <spannedText>regulating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710074" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22520" end="22529" />
+    <spannedText>regulates</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710077" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22993" end="22995" />
+    <spannedText>TF</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710079" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22993" end="22995" />
+    <spannedText>TF</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710082" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24237" end="24250" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710086" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24373" end="24386" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710090" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26932" end="26945" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700125" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8940" end="8953" />
+    <span start="8959" end="8963" />
+    <spannedText>expression of ... gene</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10531" end="10540" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710129" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12572" end="12582" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710131" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13394" end="13404" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710133" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13448" end="13458" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710145" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="799" end="808" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710150" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2391" end="2401" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710152" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4188" end="4197" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710154" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4269" end="4279" />
+    <spannedText>regulatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710156" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4409" end="4419" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710158" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4543" end="4553" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710160" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4694" end="4704" />
+    <spannedText>regulatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710162" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13598" end="13608" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710164" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13729" end="13739" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710166" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14400" end="14409" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710168" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15055" end="15064" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710171" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16936" end="16962" />
+    <spannedText>transcriptional regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16936" end="16951" />
+    <spannedText>transcriptional</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710177" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17062" end="17072" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710179" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17255" end="17265" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710181" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17850" end="17859" />
+    <spannedText>regulated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710187" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18567" end="18577" />
+    <spannedText>regulating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710197" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21158" end="21168" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710199" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21398" end="21408" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710207" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22633" end="22643" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710215" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3074" end="3082" />
+    <spannedText>produced</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710217" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3107" end="3132" />
+    <spannedText>metabolism of xenobiotics</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710220" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3194" end="3202" />
+    <spannedText>produced</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710222" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22848" end="22856" />
+    <spannedText>produces</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710224" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3213" end="3232" />
+    <spannedText>cellular metabolism</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710226" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3298" end="3322" />
+    <spannedText>denaturation of proteins</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710228" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3324" end="3337" />
+    <spannedText>cross-linking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710234" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19453" end="19461" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710236" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5845" end="5864" />
+    <spannedText>reverse transcribed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710239" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5877" end="5898" />
+    <spannedText>reverse transcriptase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710241" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5877" end="5898" />
+    <spannedText>reverse transcriptase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710271" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9842" end="9861" />
+    <spannedText>transcription start</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710274" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14691" end="14696" />
+    <spannedText>binds</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710280" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18206" end="18211" />
+    <spannedText>birth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710283" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19109" end="19119" />
+    <spannedText>controlled</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710285" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19517" end="19528" />
+    <spannedText>replicating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710287" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26889" end="26900" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710289" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26889" end="26900" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_710291" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26904" end="26914" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12166" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6" end="19" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12168" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="59" end="69" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12170" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="658" end="668" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12172" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="775" end="785" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="824" end="837" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12176" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="936" end="949" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12178" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1043" end="1056" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12180" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1219" end="1232" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12182" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1290" end="1300" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12184" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1425" end="1438" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12186" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1519" end="1529" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12188" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1818" end="1831" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12190" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2150" end="2163" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12192" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2208" end="2221" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12194" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2245" end="2255" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12196" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2421" end="2431" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12198" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2513" end="2518" />
+    <spannedText>death</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12200" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2567" end="2573" />
+    <spannedText>deaths</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12202" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2726" end="2736" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12204" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3431" end="3441" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12206" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3990" end="4000" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12208" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4223" end="4236" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12210" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4443" end="4453" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12212" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4475" end="4488" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12214" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4641" end="4654" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12216" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4910" end="4920" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12218" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8536" end="8549" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12220" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8586" end="8596" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12222" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8718" end="8731" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12224" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8772" end="8782" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12226" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9126" end="9139" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12228" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9178" end="9188" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12230" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9559" end="9572" />
+    <spannedText>Transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12232" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9842" end="9855" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12234" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10049" end="10062" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12236" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10173" end="10186" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12238" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10399" end="10412" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12240" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10504" end="10517" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12242" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10782" end="10792" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12244" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11613" end="11623" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12246" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11804" end="11814" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12248" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11882" end="11895" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12250" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13130" end="13143" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12252" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13240" end="13255" />
+    <spannedText>gene expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12254" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13632" end="13642" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12256" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13664" end="13677" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12258" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14140" end="14150" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12260" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14336" end="14346" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12262" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14552" end="14565" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12264" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14802" end="14812" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12266" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14923" end="14933" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12268" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15035" end="15045" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12270" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15070" end="15083" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12272" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15340" end="15350" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12274" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16416" end="16426" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12276" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16663" end="16673" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12278" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16985" end="16995" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12280" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17307" end="17317" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12282" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17493" end="17503" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12284" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17538" end="17551" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12286" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17606" end="17617" />
+    <spannedText>DNA binding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12288" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17829" end="17842" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12290" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18598" end="18608" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12292" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18798" end="18808" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12294" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19014" end="19024" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12296" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19242" end="19255" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12298" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19259" end="19269" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12300" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19420" end="19430" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12302" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19490" end="19500" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12304" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20676" end="20689" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12306" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20725" end="20738" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12308" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21460" end="21470" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12310" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22440" end="22453" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12312" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22530" end="22543" />
+    <spannedText>transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12314" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22566" end="22576" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_12316" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22705" end="22715" />
+    <spannedText>DNA repair</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_Instance_650041">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650039">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650037">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_660041">
+    <mentionClass id="GO:0046982">protein heterodimerization activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_660047">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_660043">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_660045">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_520011">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477624">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477622">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_540015">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_540115">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_540113">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_540111">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370000">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_540109">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490005">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710291">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710289">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710287">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_520066">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12314">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640035">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12312">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12310">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12308">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640033">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12306">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12304">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12302">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12300">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610031">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12316">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12286">
+    <mentionClass id="GO:0003677">DNA binding ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550204">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530077">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12284">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550202">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530079">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12290">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550200">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530073">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12288">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550198">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530075">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12294">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550196">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530085">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_590025">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12292">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550194">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530088">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_590023">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12298">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550191">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530081">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12296">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550189">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530083">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12270">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550187">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12268">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550185">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12274">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550183">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12272">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550181">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12278">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550178">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530068">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12276">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550176">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530071">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12282">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550174">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12280">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550172">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12252">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550167">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710129">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12254">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550169">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710127">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12256">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550163">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710133">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12258">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550165">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710131">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12260">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550159">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710150">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12262">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550161">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710145">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12264">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550155">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710154">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12266">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550157">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710152">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12236">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550150">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1473597">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530098">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710077">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12238">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550152">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1473599">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530095">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710074">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12240">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550146">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1473601">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530093">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710082">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12242">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550148">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530090">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_590019">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710079">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12244">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550141">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530107">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710090">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12246">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550143">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530105">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710086">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12248">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550137">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530103">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12250">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550139">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530100">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12226">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710179">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550129">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680063">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12224">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710181">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550127">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680065">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12222">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710174">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550134">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680059">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12220">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710177">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550132">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680061">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12234">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710199">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550121">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680055">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12232">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710207">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550119">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680057">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12230">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710187">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550125">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12228">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710197">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550123">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680053">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12210">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710160">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12208">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710162">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12206">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550117">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710156">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12204">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710158">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12218">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710168">
+    <mentionClass id="GO:0045449">regulation of transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470003">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12216">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710171">
+    <mentionClass id="GO:0045449">regulation of transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12214">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710164">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700125">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12212">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710166">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700119">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12192">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710271">
+    <mentionClass id="GO:0006352">transcription initiation (RNA polymerase complex assembly at promoter)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700115">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12194">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710241">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700117">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12188">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710239">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700111">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12190">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710236">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700113">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12200">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710285">
+    <mentionClass id="GO:0006260">DNA replication ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700107">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12202">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710283">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700109">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12196">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710280">
+    <mentionClass id="GO:0007567">parturition (giving birth)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700103">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12198">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710274">
+    <mentionClass id="GO:0005488">binding ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700105">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12176">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710222">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700099">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12178">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710220">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_510007">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700101">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12172">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710217">
+    <mentionClass id="GO:0006805">xenobiotic metabolic process (xenobiotic metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700095">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12174">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710215">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700097">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12184">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710234">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_510013">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700091">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12186">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710228">
+    <mentionClass id="GO:0018149">peptide cross-linking ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700093">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12180">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710226">
+    <mentionClass id="GO:0030164">protein denaturation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_510009">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700087">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12182">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_710224">
+    <mentionClass id="GO:0044237">cellular metabolic process (cellular metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_510011">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700089">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12166">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700075">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700073">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12170">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700079">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_12168">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700077">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700081">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700085">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1481750">
+    <mentionClass id="GO:0006304">DNA modification ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700083">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_580017">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700072">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700066">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477662">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_670049">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477660">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_670051">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477658">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477655">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477652">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477650">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477648">
+    <mentionClass id="GO:0006281">DNA repair ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477646">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_670047">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477644">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477641">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477638">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477636">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477633">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477630">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477628">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477626">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550240">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600027">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_670010">
+    <mentionClass id="GO:0022607">cellular component assembly (cell structure assembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550222">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690056">
+    <mentionClass id="GO:0048518">positive regulation of biological process ({up regulation of biological process, up-regulation of biological process, positive regulation of physiological process, upregulation of biological process})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550224">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600029">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690053">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550226">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_580019">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690067">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550228">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_580021">
+    <mentionClass id="GO:0003700">transcription factor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690060">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550230">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690071">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550233">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690069">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550235">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550238">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550206">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550208">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550210">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550212">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550214">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550216">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550218">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479328">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550220">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479326">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+</annotations>
+

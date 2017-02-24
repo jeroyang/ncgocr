@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="17022820.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1000028" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="463" end="471" />
+    <spannedText>regulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1020030" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3841" end="3849" />
+    <spannedText>regulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1040032" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16879" end="16889" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1050031" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5279" end="5288" />
+    <spannedText>generated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1060034" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34815" end="34825" />
+    <spannedText>regulatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1070034" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6911" end="6922" />
+    <spannedText>haemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1070036" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7038" end="7049" />
+    <span start="7056" end="7065" />
+    <spannedText>plasminogen ... activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1080038" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7051" end="7054" />
+    <span start="7056" end="7065" />
+    <spannedText>Plg ... activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1130052" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3248" end="3274" />
+    <spannedText>platelet surface receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1130054" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3276" end="3311" />
+    <spannedText>methylenetetrahydrofalate reductase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1130056" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3276" end="3311" />
+    <spannedText>methylenetetrahydrofalate reductase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1130058" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3325" end="3346" />
+    <spannedText>nitric oxide synthase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1130060" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3325" end="3346" />
+    <spannedText>nitric oxide synthase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1140046" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7636" end="7644" />
+    <spannedText>Breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1150049" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7739" end="7743" />
+    <spannedText>bred</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1150054" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7977" end="7980" />
+    <spannedText>fed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1150066" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9903" end="9914" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1150068" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9903" end="9914" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1150073" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3226" end="3238" />
+    <spannedText>fibrinolytic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1160076" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4671" end="4693" />
+    <spannedText>fibrinolytic functions</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1160079" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9928" end="9940" />
+    <spannedText>fibrinolytic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1160082" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10645" end="10666" />
+    <spannedText>fibrinolytic activity</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1160085" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16360" end="16372" />
+    <spannedText>fibrinolytic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1160088" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17996" end="18017" />
+    <spannedText>fibrinolytic activity</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170080" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10828" end="10839" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170082" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10828" end="10839" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170084" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10862" end="10869" />
+    <spannedText>plasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170086" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10862" end="10869" />
+    <spannedText>plasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170091" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23903" end="23924" />
+    <spannedText>fibrinolytic activity</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170094" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24208" end="24229" />
+    <spannedText>Fibrinolytic activity</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170097" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27754" end="27766" />
+    <spannedText>fibrinolytic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170110" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4766" end="4774" />
+    <spannedText>modulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170112" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30064" end="30072" />
+    <spannedText>modulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1170114" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35410" end="35418" />
+    <spannedText>modulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180096" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17238" end="17248" />
+    <spannedText>Factor VII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180098" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17238" end="17248" />
+    <spannedText>Factor VII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180102" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17335" end="17346" />
+    <spannedText>Factors XII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180104" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17321" end="17346" />
+    <spannedText>activation of Factors XII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180107" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17335" end="17346" />
+    <spannedText>Factors XII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180109" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17335" end="17342" />
+    <span start="17348" end="17350" />
+    <spannedText>Factors ... XI</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180111" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17335" end="17342" />
+    <span start="17348" end="17350" />
+    <spannedText>Factors ... XI</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17335" end="17342" />
+    <span start="17352" end="17354" />
+    <spannedText>Factors ... IX</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1180115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17335" end="17342" />
+    <span start="17352" end="17354" />
+    <spannedText>Factors ... IX</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190118" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17405" end="17413" />
+    <spannedText>Factor X</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190120" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17405" end="17413" />
+    <spannedText>Factor X</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190122" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17461" end="17469" />
+    <spannedText>thrombin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190124" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17461" end="17469" />
+    <spannedText>thrombin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190126" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7038" end="7049" />
+    <span start="7056" end="7065" />
+    <spannedText>plasminogen ... activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190128" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7051" end="7054" />
+    <span start="7056" end="7065" />
+    <spannedText>Plg ... activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190130" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36204" end="36225" />
+    <spannedText>plasminogen activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190132" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7237" end="7246" />
+    <spannedText>generated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190134" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7313" end="7322" />
+    <spannedText>generated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190136" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7443" end="7452" />
+    <spannedText>reproduce</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190138" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10688" end="10699" />
+    <spannedText>degradation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190140" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14232" end="14251" />
+    <spannedText>hemostatic activity</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190150" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22473" end="22480" />
+    <spannedText>produce</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190152" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33291" end="33313" />
+    <spannedText>metabolism of collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190154" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33291" end="33304" />
+    <span start="33338" end="33346" />
+    <spannedText>metabolism of ... proteins</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190156" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34594" end="34603" />
+    <spannedText>proteases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190158" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34594" end="34603" />
+    <spannedText>proteases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190160" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35596" end="35607" />
+    <spannedText>haemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190162" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36252" end="36273" />
+    <spannedText>plasminogen activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190164" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36252" end="36273" />
+    <spannedText>plasminogen activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1190166" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36291" end="36312" />
+    <spannedText>plasminogen activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200135" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4558" end="4572" />
+    <spannedText>Clot formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200141" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17492" end="17506" />
+    <spannedText>clot formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200143" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17193" end="17222" />
+    <spannedText>extrinsic coagulation pathway</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200147" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18042" end="18053" />
+    <spannedText>anitplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200149" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18042" end="18053" />
+    <spannedText>anitplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200151" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18433" end="18443" />
+    <spannedText>denaturing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200153" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19733" end="19741" />
+    <spannedText>adhesive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200162" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23807" end="23818" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200164" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23807" end="23818" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200167" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23929" end="23940" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200169" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23929" end="23940" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200172" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24307" end="24318" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24307" end="24318" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200183" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30637" end="30640" />
+    <spannedText>FIX</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200185" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30637" end="30640" />
+    <spannedText>FIX</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200187" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30914" end="30922" />
+    <spannedText>protease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200189" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30914" end="30922" />
+    <spannedText>protease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200191" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30914" end="30941" />
+    <spannedText>protease-activated receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200193" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30914" end="30941" />
+    <spannedText>protease-activated receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200195" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33502" end="33513" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200197" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33502" end="33513" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200199" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33964" end="33975" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200201" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33964" end="33975" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200203" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34740" end="34751" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200205" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34740" end="34751" />
+    <spannedText>antiplasmin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200207" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36204" end="36225" />
+    <spannedText>plasminogen activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200209" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36291" end="36312" />
+    <spannedText>plasminogen activator</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1200211" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37045" end="37054" />
+    <spannedText>developed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476204" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="881" end="891" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476206" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8951" end="8961" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476208" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9138" end="9148" />
+    <spannedText>Blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476210" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12978" end="12988" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476212" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13128" end="13138" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476214" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29273" end="29283" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476216" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29654" end="29664" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476839" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3850" end="3868" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476842" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8311" end="8331" />
+    <spannedText>thrombosis formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476845" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12248" end="12266" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476848" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19771" end="19789" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476851" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25970" end="25988" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476854" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29013" end="29031" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476857" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29886" end="29904" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476860" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30105" end="30123" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476863" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30771" end="30789" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476866" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31236" end="31254" />
+    <spannedText>thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476869" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35104" end="35124" />
+    <spannedText>thrombosis formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476872" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3850" end="3858" />
+    <span start="3873" end="3878" />
+    <spannedText>thrombus ... lysis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476875" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4558" end="4562" />
+    <span start="4577" end="4582" />
+    <spannedText>Clot ... lysis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477445" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5317" end="5325" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477448" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7499" end="7507" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477452" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36834" end="36842" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477456" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36965" end="36973" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477564" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7739" end="7743" />
+    <spannedText>bred</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479953" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17470" end="17480" />
+    <spannedText>generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1481465" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2068" end="2079" />
+    <spannedText>haemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1482510" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="355" end="372" />
+    <spannedText>vessel remodeling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1482513" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4376" end="4393" />
+    <spannedText>vessel remodeling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1482517" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27495" end="27512" />
+    <spannedText>vessel remodeling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370563" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30048" end="30058" />
+    <spannedText>clot lysis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373167" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2804" end="2822" />
+    <spannedText>Thrombus formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373171" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="57" end="67" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="91" end="101" />
+    <spannedText>Thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373177" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="472" end="482" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373180" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="543" end="553" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373183" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="748" end="758" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373186" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="984" end="994" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373190" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1230" end="1248" />
+    <spannedText>Thrombus occlusion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373193" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2053" end="2063" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373196" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2450" end="2460" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373199" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2558" end="2568" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373202" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3069" end="3079" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373205" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3438" end="3448" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373208" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3519" end="3529" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373211" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3581" end="3591" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373214" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3713" end="3723" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373219" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3920" end="3930" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373222" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4469" end="4479" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373225" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4546" end="4556" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373228" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4611" end="4621" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373231" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6302" end="6315" />
+    <spannedText>prothrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373234" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6534" end="6547" />
+    <spannedText>prothrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373238" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6927" end="6937" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373241" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12361" end="12371" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373244" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12505" end="12523" />
+    <spannedText>thrombus occlusion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373247" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14732" end="14742" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373250" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20955" end="20965" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373253" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27271" end="27281" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373256" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27615" end="27625" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373259" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27885" end="27895" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373262" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28778" end="28788" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373265" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35581" end="35591" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373268" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35759" end="35769" />
+    <spannedText>thrombosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373271" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36010" end="36020" />
+    <spannedText>thrombotic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373517" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="109" end="114" />
+    <spannedText>fatal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_374242" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31221" end="31228" />
+    <spannedText>promote</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_680000" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30" end="38" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_790002" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="626" end="634" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_790004" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1183" end="1191" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_890008" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3092" end="3101" />
+    <spannedText>responses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_910010" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4138" end="4147" />
+    <spannedText>responses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_900009" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2414" end="2425" />
+    <span start="2435" end="2441" />
+    <spannedText>response to ... injury</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_910012" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27626" end="27634" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_920014" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27767" end="27776" />
+    <spannedText>responses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_930016" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27896" end="27904" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_930018" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31209" end="31217" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_930020" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30230" end="30240" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_940018" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3248" end="3274" />
+    <spannedText>platelet surface receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_940020" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3352" end="3363" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_950022" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3352" end="3363" />
+    <spannedText>antioxidant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35246" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="42" end="52" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35248" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="487" end="497" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35250" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="558" end="568" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35252" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="763" end="773" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35254" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="999" end="1009" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35256" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1457" end="1468" />
+    <spannedText>Coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35258" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3205" end="3216" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35260" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4654" end="4665" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35262" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6046" end="6054" />
+    <spannedText>behavior</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35264" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6410" end="6421" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35266" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6426" end="6438" />
+    <spannedText>fibrinolysis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35268" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6573" end="6584" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35270" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9882" end="9893" />
+    <spannedText>Coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35272" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10263" end="10274" />
+    <spannedText>Coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35274" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14705" end="14715" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35276" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16928" end="16945" />
+    <spannedText>blood coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35278" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17002" end="17013" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35282" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17659" end="17678" />
+    <spannedText>coagulation pathway</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35284" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17733" end="17744" />
+    <spannedText>Coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35286" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20940" end="20950" />
+    <spannedText>hemostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35288" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28011" end="28022" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35290" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29782" end="29793" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35292" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30007" end="30023" />
+    <spannedText>plasmin activity</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35294" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30257" end="30268" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35296" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30494" end="30513" />
+    <spannedText>coagulation pathway</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_35298" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31375" end="31386" />
+    <spannedText>coagulation</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_new_Instance_35274">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35272">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_940018">
+    <mentionClass id="GO:0001621">platelet ADP receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35278">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35276">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35284">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_940020">
+    <mentionClass id="GO:0016209">antioxidant activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35282">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35288">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35286">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35258">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477445">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35256">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35262">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35260">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35266">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35264">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477456">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35270">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477452">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35268">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477448">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_920014">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35290">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1060034">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35292">
+    <mentionClass id="GO:0004283">plasmin activity ({fibrinolysin activity, serum tryptase activity, actase activity, fibrinase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35294">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35296">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35298">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479953">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1160076">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1160082">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1160079">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1160088">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373517">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1160085">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476204">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476208">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477564">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476206">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1050031">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370563">
+    <mentionClass id="GO:0050819">negative regulation of coagulation ({negative regulation of clotting., down regulation of coagulation, downregulation of coagulation, down-regulation of coagulation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476212">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476210">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476216">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476214">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476872">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476875">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476866">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476869">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476860">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476863">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1080038">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180115">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476857">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476854">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180111">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476851">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180113">
+    <mentionClass id="GO:0003803">coagulation factor IXa activity ({Christmas factor activity, blood coagulation factor IX activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476848">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476845">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476842">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_890008">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476839">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180098">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180096">
+    <mentionClass id="GO:0003802">coagulation factor VIIa activity (blood coagulation factor VII activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180104">
+    <mentionClass id="GO:0002542">Factor XII activation (Hageman factor activation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180102">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180109">
+    <mentionClass id="GO:0003805">coagulation factor XIa activity ({plasma thromboplastin antecedent activity, blood coagulation factor XI activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1180107">
+    <mentionClass id="GO:0003806">coagulation factor XIIa activity ({blood coagulation factor XII activity, hageman factor activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1040032">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35252">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_900009">
+    <mentionClass id="GO:0009611">response to wounding (physiological response to wounding)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35254">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35248">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35250">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_35246">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_680000">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1150049">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_374242">
+    <mentionClass id="GO:0048518">positive regulation of biological process ({up regulation of biological process, up-regulation of biological process, positive regulation of physiological process, upregulation of biological process})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1150054">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1150066">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1150068">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200211">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200209">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200207">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_930020">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200205">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200203">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1140046">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170082">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200201">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170084">
+    <mentionClass id="GO:0004283">plasmin activity ({fibrinolysin activity, serum tryptase activity, actase activity, fibrinase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1000028">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_790002">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200199">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_790004">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200197">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170080">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170094">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170097">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170086">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170091">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170114">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_930016">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_930018">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170110">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1170112">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200164">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1070036">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200167">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1070034">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200169">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200172">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200151">
+    <mentionClass id="GO:0030164">protein denaturation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200153">
+    <mentionClass id="GO:0022610">biological adhesion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200162">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200189">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200191">
+    <mentionClass id="GO:0001648">proteinase activated receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200193">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200195">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200174">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200183">
+    <mentionClass id="GO:0003803">coagulation factor IXa activity ({Christmas factor activity, blood coagulation factor IX activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1482517">
+    <mentionClass id="GO:0001974">blood vessel remodeling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200185">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1482513">
+    <mentionClass id="GO:0001974">blood vessel remodeling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200187">
+    <mentionClass id="GO:0008233">peptidase activity ({hydrolase, acting on peptide bonds, protease activity, peptide hydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1482510">
+    <mentionClass id="GO:0001974">blood vessel remodeling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1150073">
+    <mentionClass id="GO:0042730">fibrinolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200143">
+    <mentionClass id="GO:0007598">blood coagulation, extrinsic pathway ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200141">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1130052">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200149">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200147">
+    <mentionClass id="GO:0030568">plasmin inhibitor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1130058">
+    <mentionClass id="GO:0004517">nitric-oxide synthase activity ({nitric-oxide synthetase activity, NADPH-diaphorase activity, nitric oxide synthase activity, NO synthase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1130060">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1130054">
+    <mentionClass id="GO:0033738">methylenetetrahydrofolate reductase (ferredoxin) activity ({5-methyltetrahydrofolate:ferredoxin oxidoreductase activity, methylenetetrahydrofolate reductase (ferredoxin) activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1481465">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1200135">
+    <mentionClass id="GO:0050817">coagulation (clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1130056">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_910012">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_910010">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373171">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373174">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373177">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373180">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373167">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_950022">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190130">
+    <mentionClass id="GO:0008243">plasminogen activator activity (abbokinase activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373205">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190132">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373202">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190134">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373199">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190136">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373196">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190138">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373193">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190140">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373190">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190150">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373186">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190152">
+    <mentionClass id="GO:0032963">collagen metabolic process (collagen metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373183">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373231">
+    <mentionClass id="GO:0030194">positive regulation of blood coagulation ({up-regulation of blood coagulation, up regulation of blood coagulation, upregulation of blood coagulation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190154">
+    <mentionClass id="GO:0019538">protein metabolic process ({protein metabolic process and modification, protein metabolism and modification, protein metabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373228">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190156">
+    <mentionClass id="GO:0008233">peptidase activity ({hydrolase, acting on peptide bonds, protease activity, peptide hydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373225">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190158">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373222">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190160">
+    <mentionClass id="GO:0007599">hemostasis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373219">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190162">
+    <mentionClass id="GO:0008243">plasminogen activator activity (abbokinase activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373214">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190164">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373211">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190166">
+    <mentionClass id="GO:0008243">plasminogen activator activity (abbokinase activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1020030">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373208">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373253">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373256">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373247">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373250">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373241">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373244">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373234">
+    <mentionClass id="GO:0030194">positive regulation of blood coagulation ({up-regulation of blood coagulation, up regulation of blood coagulation, upregulation of blood coagulation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373238">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373271">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190120">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190118">
+    <mentionClass id="GO:0003804">coagulation factor Xa activity ({blood coagulation factor X activity, Stuart factor activity, thrombokinase activity, prothrombinase activity, prothrombase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373265">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190124">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373268">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190122">
+    <mentionClass id="GO:0003809">thrombin activity ({thrombase activity, fibrinogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373259">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190128">
+    <mentionClass id="GO:0008243">plasminogen activator activity (abbokinase activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373262">
+    <mentionClass id="GO:0007596">blood coagulation (blood clotting)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1190126">
+    <mentionClass id="GO:0008243">plasminogen activator activity (abbokinase activity)</mentionClass>
+  </classMention>
+</annotations>
+

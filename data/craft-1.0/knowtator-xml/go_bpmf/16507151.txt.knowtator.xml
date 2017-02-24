@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16507151.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1474989" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15413" end="15432" />
+    <spannedText>antibody production</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1475090" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15413" end="15432" />
+    <spannedText>antibody production</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477420" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12429" end="12437" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477423" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12610" end="12618" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477525" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4533" end="4537" />
+    <spannedText>bred</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478320" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7870" end="7879" />
+    <spannedText>annealing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1481818" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5542" end="5546" />
+    <spannedText>mate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1485195" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8030" end="8039" />
+    <spannedText>extension</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372550" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9602" end="9612" />
+    <spannedText>conjugated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_450000" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="53" end="57" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_520002" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="365" end="376" />
+    <spannedText>controlling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600004" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="434" end="438" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610006" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="558" end="562" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620011" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="672" end="684" />
+    <spannedText>reproductive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640013" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1063" end="1074" />
+    <spannedText>controlling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640015" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1075" end="1084" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690018" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1437" end="1444" />
+    <spannedText>control</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_690020" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1458" end="1462" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700023" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1535" end="1544" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_700026" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1798" end="1810" />
+    <spannedText>reproductive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_740029" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1998" end="2007" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_750010" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2991" end="2999" />
+    <spannedText>hormonal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_770012" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2991" end="2999" />
+    <spannedText>hormonal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_760032" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2135" end="2144" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_780035" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2290" end="2299" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_780038" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3004" end="3014" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_780041" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3133" end="3142" />
+    <spannedText>Pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_790044" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3157" end="3166" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_790047" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3278" end="3287" />
+    <spannedText>Pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_800050" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3543" end="3552" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_810053" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3918" end="3930" />
+    <spannedText>reproductive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_810055" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4184" end="4191" />
+    <spannedText>control</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_830057" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4202" end="4206" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_830062" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4702" end="4705" />
+    <spannedText>fed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_840065" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4768" end="4776" />
+    <spannedText>breeding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_840068" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5319" end="5331" />
+    <spannedText>reproductive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_840071" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5426" end="5430" />
+    <spannedText>mate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_850075" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5626" end="5637" />
+    <spannedText>pregnancies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860080" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6483" end="6495" />
+    <spannedText>inflammation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860082" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6531" end="6543" />
+    <spannedText>inflammation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860094" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7834" end="7846" />
+    <spannedText>denaturation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860096" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7870" end="7879" />
+    <spannedText>annealing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860098" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7904" end="7918" />
+    <spannedText>polymerization</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860100" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8030" end="8039" />
+    <spannedText>extension</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860102" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9591" end="9601" />
+    <spannedText>peroxidase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860104" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9591" end="9601" />
+    <spannedText>peroxidase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860107" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10508" end="10517" />
+    <spannedText>Pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860110" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10828" end="10839" />
+    <spannedText>pregnancies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10998" end="11009" />
+    <spannedText>pregnancies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860118" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11182" end="11193" />
+    <spannedText>pregnancies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860121" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11277" end="11286" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11387" end="11395" />
+    <spannedText>pregnant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860130" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11469" end="11477" />
+    <spannedText>pregnant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860141" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12916" end="12928" />
+    <spannedText>inflammatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860147" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13027" end="13034" />
+    <spannedText>control</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860149" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13051" end="13055" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860151" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13220" end="13232" />
+    <spannedText>reproductive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860154" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14094" end="14103" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860157" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14242" end="14251" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860160" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14418" end="14426" />
+    <spannedText>delivery</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860166" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16105" end="16117" />
+    <spannedText>inflammation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860168" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16637" end="16646" />
+    <spannedText>regulates</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860171" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16830" end="16839" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860175" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17158" end="17168" />
+    <spannedText>deliveries</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860179" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17190" end="17199" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860182" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17239" end="17250" />
+    <spannedText>pregnancies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860185" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17312" end="17321" />
+    <spannedText>pregnancy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_860188" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17368" end="17380" />
+    <spannedText>inflammatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_37924" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5126" end="5138" />
+    <spannedText>reproduction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_37926" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5365" end="5371" />
+    <spannedText>mating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_37928" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5469" end="5475" />
+    <spannedText>mating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_37930" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5581" end="5587" />
+    <spannedText>mating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_37936" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12554" end="12566" />
+    <spannedText>reproduction</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_Instance_860185">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860188">
+    <mentionClass id="GO:0006954">inflammatory response ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_850075">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860179">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_780035">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1474989">
+    <mentionClass id="GO:0002378">immunoglobulin biosynthetic process ({antibody biosynthetic process, antibody biosynthesis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860182">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_780038">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860171">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372550">
+    <mentionClass id="GO:0043412">biopolymer modification ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860175">
+    <mentionClass id="GO:0007567">parturition (giving birth)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860166">
+    <mentionClass id="GO:0006954">inflammatory response ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860168">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860157">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860160">
+    <mentionClass id="GO:0007567">parturition (giving birth)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860151">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477423">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860154">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477420">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_740029">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860147">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_780041">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860149">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620011">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860130">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860141">
+    <mentionClass id="GO:0006954">inflammatory response ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_830062">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_830057">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_37936">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_810055">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_810053">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700023">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_700026">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1485195">
+    <mentionClass id="GO:0006354">RNA elongation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_37930">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690018">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_520002">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_37928">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_690020">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_37926">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_37924">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600004">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_750010">
+    <mentionClass id="GO:0005179">hormone activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_770012">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478320">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1475090">
+    <mentionClass id="GO:0002377">immunoglobulin production (antibody production)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_450000">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_790047">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_790044">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_800050">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_840071">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_840068">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610006">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_840065">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860080">
+    <mentionClass id="GO:0006954">inflammatory response ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860082">
+    <mentionClass id="GO:0006954">inflammatory response ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860094">
+    <mentionClass id="GO:0032508">DNA duplex unwinding ({duplex DNA melting, DNA unwinding})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477525">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860096">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860098">
+    <mentionClass id="GO:0022616">DNA strand elongation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860100">
+    <mentionClass id="GO:0022616">DNA strand elongation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_760032">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640015">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860102">
+    <mentionClass id="GO:0004601">peroxidase activity ({oxyperoxidase activity, peroxidase reaction, donor:hydrogen-peroxide oxidoreductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860104">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860107">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640013">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860110">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860113">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860118">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860121">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1481818">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_860127">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+</annotations>
+

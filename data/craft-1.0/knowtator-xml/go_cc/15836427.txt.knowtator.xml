@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15836427.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_184444" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1364" end="1368" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184446" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1430" end="1434" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184448" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1574" end="1578" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184450" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2689" end="2693" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184452" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7145" end="7149" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184454" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8238" end="8242" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184456" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18238" end="18242" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184458" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18818" end="18822" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184460" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18845" end="18850" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184462" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19114" end="19118" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184464" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19323" end="19327" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184466" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22115" end="22119" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184468" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22967" end="22971" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184470" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22983" end="22991" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184472" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27730" end="27738" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184474" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28311" end="28316" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184476" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28732" end="28737" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184478" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28844" end="28852" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184480" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29348" end="29356" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184482" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29377" end="29382" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184484" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29925" end="29930" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184486" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30507" end="30511" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184488" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30669" end="30674" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184490" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31034" end="31038" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184492" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31233" end="31238" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184494" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32731" end="32736" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184496" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34324" end="34329" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184498" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34476" end="34481" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184500" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37211" end="37216" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184502" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="38528" end="38533" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184504" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="40794" end="40799" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184506" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="48559" end="48563" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184508" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="48610" end="48614" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184510" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="50160" end="50164" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184512" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1072" end="1080" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184514" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13864" end="13872" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_290156" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32940" end="32945" />
+    <spannedText>Cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_290158" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36449" end="36453" />
+    <spannedText>Cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_290160" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="50585" end="50589" />
+    <spannedText>Cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26030" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="613" end="631" />
+    <spannedText>axonal projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26035" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1160" end="1164" />
+    <spannedText>axon</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26040" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1187" end="1195" />
+    <spannedText>terminal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26052" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4781" end="4792" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26062" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6213" end="6224" />
+    <spannedText>Projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26065" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6361" end="6372" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26072" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6770" end="6781" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26077" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8238" end="8249" />
+    <spannedText>cell bodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26082" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8755" end="8766" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26087" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8883" end="8894" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26090" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8898" end="8904" />
+    <spannedText>axonal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26095" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8960" end="8964" />
+    <spannedText>axon</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26102" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9210" end="9221" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26107" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9401" end="9410" />
+    <spannedText>terminals</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26112" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9482" end="9490" />
+    <spannedText>synapses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26115" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9582" end="9595" />
+    <spannedText>intracellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26120" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10130" end="10138" />
+    <spannedText>synapses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26125" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10344" end="10361" />
+    <spannedText>Axonal Projection</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26132" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10823" end="10831" />
+    <spannedText>membrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26135" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10883" end="10904" />
+    <span start="10909" end="10916" />
+    <spannedText>axonal projections of ... neurons</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26142" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11311" end="11322" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26147" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11611" end="11622" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26152" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11947" end="11958" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26157" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12551" end="12562" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26162" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12846" end="12857" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26167" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12924" end="12929" />
+    <spannedText>axons</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26172" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13052" end="13056" />
+    <spannedText>axon</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26177" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13530" end="13541" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26182" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13675" end="13686" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26235" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23621" end="23627" />
+    <spannedText>axonal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26250" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24787" end="24805" />
+    <spannedText>axonal projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26262" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24902" end="24913" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26267" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24971" end="24982" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26272" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25122" end="25133" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26277" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25297" end="25308" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26280" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25424" end="25429" />
+    <spannedText>axons</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26290" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26976" end="26987" />
+    <spannedText>chromosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26307" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28148" end="28166" />
+    <spannedText>axonal projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26342" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33384" end="33394" />
+    <spannedText>Antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26347" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33980" end="33993" />
+    <spannedText>neurofilament</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26350" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34680" end="34694" />
+    <span start="34703" end="34710" />
+    <spannedText>projections of ... neurons</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26357" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35095" end="35105" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26362" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36373" end="36383" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26365" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36886" end="36899" />
+    <spannedText>intracellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26370" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="38231" end="38244" />
+    <spannedText>intracellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26377" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="42044" end="42054" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26382" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="42708" end="42716" />
+    <spannedText>membrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26387" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="44537" end="44548" />
+    <spannedText>Projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26392" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="44643" end="44654" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26397" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="45263" end="45274" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26402" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="45565" end="45576" />
+    <spannedText>Projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26407" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="45680" end="45691" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26412" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="46015" end="46026" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26417" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="46235" end="46246" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26422" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="46675" end="46686" />
+    <spannedText>projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26427" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="47039" end="47057" />
+    <spannedText>axonal projections</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26430" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="47577" end="47590" />
+    <spannedText>neurofilament</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26435" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="47604" end="47621" />
+    <spannedText>axonal extensions</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26440" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="47958" end="47971" />
+    <spannedText>neurofilament</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26445" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="48008" end="48025" />
+    <spannedText>axonal extensions</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26460" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="49218" end="49228" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_26470" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="51746" end="51766" />
+    <spannedText>neuronal projections</spannedText>
+  </annotation>
+  <classMention id="cellular_component_new_Instance_26460">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51151" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51151">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_26445">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26470">
+    <mentionClass id="GO:0043005">neuron projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_290156">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_290160">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_290158">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184510">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26397">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184512">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26402">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184506">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26387">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184508">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26392">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184502">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26377">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51149" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51149">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_184504">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26382">
+    <mentionClass id="GO:0016020">membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184498">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26365">
+    <mentionClass id="GO:0005622">intracellular</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184500">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26370">
+    <mentionClass id="GO:0005622">intracellular</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184494">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26435">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26440">
+    <mentionClass id="GO:0005883">neurofilament</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184496">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184490">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26427">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184492">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26430">
+    <mentionClass id="GO:0005883">neurofilament</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184486">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26417">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184488">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26422">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184482">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26407">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184484">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26412">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26290">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26280">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26277">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26272">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26267">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26262">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26250">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26235">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26362">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51148" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51148">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_26357">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51147" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51147">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_26350">
+    <mentionClass id="GO:0043005">neuron projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26347">
+    <mentionClass id="GO:0005883">neurofilament</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26342">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51146" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51146">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_184514">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26307">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26107">
+    <mentionClass id="GO:0043679">nerve terminal</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26112">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26115">
+    <mentionClass id="GO:0005622">intracellular</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26120">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26125">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26132">
+    <mentionClass id="GO:0016020">membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26135">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26142">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26147">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26152">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26157">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26162">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26167">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26172">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26177">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26182">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26030">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26040">
+    <mentionClass id="GO:0043679">nerve terminal</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26035">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26062">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26052">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26072">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26065">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26082">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26077">
+    <mentionClass id="GO:0043025">cell soma</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26090">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26087">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26102">
+    <mentionClass id="GO:0042995">cell projection</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_26095">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184462">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184464">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184458">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184460">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184454">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184456">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184450">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184452">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184478">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184480">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184474">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184476">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184470">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184472">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184466">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184468">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184448">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184446">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184444">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+</annotations>
+

@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15938754.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477135" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3011" end="3018" />
+    <spannedText>respond</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477137" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22614" end="22622" />
+    <spannedText>response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477354" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24869" end="24873" />
+    <spannedText>bred</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1481137" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22417" end="22437" />
+    <spannedText>signaling mechanisms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1484168" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14384" end="14395" />
+    <spannedText>termination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1484171" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14384" end="14395" />
+    <spannedText>termination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1485257" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18545" end="18556" />
+    <spannedText>consumption</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371810" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2054" end="2067" />
+    <spannedText>sweet-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371812" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2131" end="2145" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371814" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="144" end="158" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371817" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1867" end="1879" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371819" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2408" end="2413" />
+    <span start="2450" end="2455" />
+    <spannedText>sweet ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371821" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2415" end="2421" />
+    <span start="2450" end="2455" />
+    <spannedText>bitter ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371825" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2439" end="2448" />
+    <span start="2450" end="2455" />
+    <spannedText>glutamate ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371828" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2378" end="2387" />
+    <span start="2405" end="2407" />
+    <span start="2439" end="2448" />
+    <span start="2450" end="2455" />
+    <spannedText>detection ... of ... glutamate ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371831" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2466" end="2472" />
+    <span start="2482" end="2489" />
+    <spannedText>sweet- ... tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371833" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2426" end="2431" />
+    <span start="2450" end="2455" />
+    <spannedText>umami ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371835" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2476" end="2489" />
+    <spannedText>umami-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371837" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2518" end="2532" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371839" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2715" end="2727" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371841" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4663" end="4677" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371844" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11402" end="11416" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371848" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17876" end="17890" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371850" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18446" end="18451" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371852" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18560" end="18574" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371854" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18626" end="18631" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371857" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19234" end="19246" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371860" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23698" end="23712" />
+    <spannedText>bitter-tasting</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371862" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30723" end="30728" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371867" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="131" end="140" />
+    <spannedText>detection</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371871" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11375" end="11384" />
+    <spannedText>detection</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371878" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27673" end="27679" />
+    <spannedText>detect</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371880" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27801" end="27807" />
+    <spannedText>detect</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_450033" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2378" end="2387" />
+    <span start="2405" end="2413" />
+    <span start="2450" end="2455" />
+    <spannedText>detection ... of sweet ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_450036" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2378" end="2387" />
+    <span start="2405" end="2407" />
+    <span start="2415" end="2421" />
+    <span start="2450" end="2455" />
+    <spannedText>detection ... of ... bitter ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_450039" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2378" end="2387" />
+    <span start="2405" end="2407" />
+    <span start="2426" end="2431" />
+    <span start="2450" end="2455" />
+    <spannedText>detection ... of ... umami ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460042" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4836" end="4848" />
+    <span start="4855" end="4869" />
+    <spannedText>detection of ... bitter stimuli</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460048" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17837" end="17843" />
+    <spannedText>detect</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460050" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19209" end="19218" />
+    <span start="19231" end="19254" />
+    <spannedText>detection ... of bitter taste stimuli</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460057" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="176" end="185" />
+    <spannedText>gustatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460059" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1981" end="1990" />
+    <spannedText>gustatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460061" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2329" end="2338" />
+    <spannedText>gustatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460063" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17795" end="17804" />
+    <spannedText>gustatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460065" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="315" end="330" />
+    <spannedText>taste receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460067" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="376" end="390" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460069" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2294" end="2308" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460071" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4482" end="4496" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460073" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11099" end="11114" />
+    <spannedText>taste receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460075" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11331" end="11345" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460077" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11961" end="11982" />
+    <spannedText>bitter taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460079" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18058" end="18072" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470042" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3146" end="3158" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470044" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3934" end="3946" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470046" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3994" end="4005" />
+    <spannedText>consumption</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470048" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4058" end="4067" />
+    <spannedText>ingestive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470050" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4171" end="4183" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470052" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4275" end="4287" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470054" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4472" end="4481" />
+    <spannedText>stimulate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470061" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5690" end="5702" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470063" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5717" end="5728" />
+    <spannedText>consumption</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470065" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5787" end="5796" />
+    <spannedText>ingestive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470077" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11043" end="11062" />
+    <span start="11075" end="11084" />
+    <spannedText>natural killer cell ... receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470081" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19128" end="19142" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470083" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19615" end="19629" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470080" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11961" end="11973" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_470085" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="352" end="361" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480087" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2263" end="2272" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480089" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3064" end="3074" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480091" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11317" end="11327" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480093" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13139" end="13149" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480095" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19114" end="19124" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480085" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15032" end="15039" />
+    <spannedText>digests</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490091" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15353" end="15372" />
+    <spannedText>restriction enzymes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490093" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15353" end="15372" />
+    <spannedText>restriction enzymes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490095" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15885" end="15892" />
+    <spannedText>digests</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480097" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24332" end="24342" />
+    <spannedText>expressing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490099" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="459" end="467" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490101" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="315" end="330" />
+    <spannedText>taste receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490103" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="376" end="390" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490105" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2294" end="2308" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490107" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4482" end="4496" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490109" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11099" end="11114" />
+    <spannedText>taste receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490111" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11331" end="11345" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11961" end="11982" />
+    <spannedText>bitter taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18058" end="18072" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490117" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19128" end="19142" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490119" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19615" end="19629" />
+    <spannedText>taste receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490121" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="459" end="467" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490123" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="495" end="518" />
+    <spannedText>transduction mechanisms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490125" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1610" end="1630" />
+    <spannedText>transduction cascade</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2392" end="2404" />
+    <spannedText>transduction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490129" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4376" end="4388" />
+    <spannedText>transduction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490131" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17986" end="17998" />
+    <spannedText>transduction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490133" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21742" end="21765" />
+    <spannedText>transduction mechanisms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490135" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23859" end="23871" />
+    <spannedText>transduction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490137" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="651" end="661" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490139" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3962" end="3972" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490141" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17113" end="17125" />
+    <spannedText>behaviorally</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490143" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21099" end="21109" />
+    <spannedText>Behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490145" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21598" end="21608" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490147" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24507" end="24519" />
+    <spannedText>behaviorally</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490149" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25493" end="25503" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490151" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30016" end="30026" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490153" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31616" end="31626" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490155" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="686" end="697" />
+    <spannedText>recombinant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490157" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3756" end="3767" />
+    <spannedText>recombinant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490159" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5021" end="5032" />
+    <spannedText>recombinant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490161" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9916" end="9935" />
+    <spannedText>recombination event</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490163" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16331" end="16351" />
+    <spannedText>recombination events</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490165" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20544" end="20563" />
+    <spannedText>recombination event</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490167" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20942" end="20956" />
+    <spannedText>recombinations</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490169" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21041" end="21055" />
+    <spannedText>recombinations</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490171" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24633" end="24644" />
+    <spannedText>recombinant</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490173" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1909" end="1918" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490175" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11024" end="11032" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490179" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13009" end="13017" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490181" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14763" end="14772" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490183" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15432" end="15441" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490185" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17926" end="17935" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490187" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19350" end="19359" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490189" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20243" end="20251" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490191" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21239" end="21247" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490193" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22399" end="22407" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490195" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22541" end="22550" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490197" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22883" end="22891" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490199" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23911" end="23920" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490201" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24229" end="24238" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490203" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1909" end="1918" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490205" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11024" end="11032" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490207" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11043" end="11062" />
+    <span start="11075" end="11084" />
+    <spannedText>natural killer cell ... receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490209" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13009" end="13017" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490211" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14763" end="14772" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490213" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15432" end="15441" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490215" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17926" end="17935" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490217" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19350" end="19359" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490219" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20243" end="20251" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490221" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21239" end="21247" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490223" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22399" end="22407" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490225" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22541" end="22550" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490227" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22883" end="22891" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490229" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23911" end="23920" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490231" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24229" end="24238" />
+    <spannedText>receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490233" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="71" end="76" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490235" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="315" end="320" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490237" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="376" end="381" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490239" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="662" end="667" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490241" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="776" end="781" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490245" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1520" end="1525" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490247" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1573" end="1578" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490249" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1693" end="1698" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490257" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2294" end="2299" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490275" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4482" end="4487" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490279" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4898" end="4903" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490281" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4954" end="4959" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490283" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5242" end="5247" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490285" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5614" end="5619" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490287" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5643" end="5648" />
+    <spannedText>Taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490291" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5970" end="5975" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490293" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5995" end="6000" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490295" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6253" end="6258" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490297" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6776" end="6781" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490299" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7506" end="7511" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490301" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7944" end="7949" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490305" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8535" end="8540" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490307" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8831" end="8836" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490309" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9351" end="9356" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490311" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9527" end="9532" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490313" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10274" end="10279" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490315" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11099" end="11104" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490317" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11331" end="11336" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490321" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11528" end="11533" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490325" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12654" end="12659" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490327" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13384" end="13389" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490335" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15552" end="15557" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490337" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15622" end="15627" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490339" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15756" end="15761" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490341" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16634" end="16639" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490345" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17213" end="17218" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490347" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17507" end="17512" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490351" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18058" end="18063" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490353" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18277" end="18282" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490361" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18735" end="18740" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490365" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19128" end="19133" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490367" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19615" end="19620" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490369" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19683" end="19688" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490371" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20068" end="20073" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490373" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20370" end="20375" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490377" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20867" end="20872" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490383" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21426" end="21431" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490385" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21530" end="21535" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490389" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21890" end="21895" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490391" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22132" end="22137" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490395" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23748" end="23753" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490397" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23853" end="23858" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490399" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24092" end="24097" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490401" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24361" end="24366" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490403" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25047" end="25052" />
+    <spannedText>Taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490405" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25325" end="25330" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490407" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26368" end="26373" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490409" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27728" end="27733" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490411" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29894" end="29899" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490413" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30108" end="30113" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490415" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31474" end="31479" />
+    <spannedText>taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490427" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2227" end="2254" />
+    <spannedText>G protein-coupled receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490429" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2256" end="2261" />
+    <spannedText>GPCRs</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490431" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2227" end="2254" />
+    <spannedText>G protein-coupled receptors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490433" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2256" end="2261" />
+    <spannedText>GPCRs</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490435" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4520" end="4525" />
+    <spannedText>GPCRs</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490437" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4520" end="4525" />
+    <spannedText>GPCRs</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490441" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9533" end="9542" />
+    <spannedText>responses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490447" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24376" end="24383" />
+    <spannedText>respond</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490449" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4623" end="4634" />
+    <spannedText>K+ channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490451" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17949" end="17957" />
+    <spannedText>channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490453" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19600" end="19611" />
+    <spannedText>K+ channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490455" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20200" end="20212" />
+    <spannedText>ion channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490457" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4721" end="4738" />
+    <spannedText>phosphodiesterase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490459" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4623" end="4634" />
+    <spannedText>K+ channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490461" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17949" end="17957" />
+    <spannedText>channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490463" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19600" end="19611" />
+    <spannedText>K+ channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490465" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20200" end="20212" />
+    <spannedText>ion channels</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490467" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4721" end="4738" />
+    <spannedText>phosphodiesterase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490471" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13041" end="13059" />
+    <spannedText>signaling cascades</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490473" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13091" end="13101" />
+    <spannedText>regulatory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490484" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15860" end="15884" />
+    <spannedText>restriction endonuclease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490490" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16095" end="16119" />
+    <spannedText>restriction endonuclease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490492" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16402" end="16412" />
+    <spannedText>generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490498" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18087" end="18106" />
+    <spannedText>cellular activation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490500" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18111" end="18120" />
+    <spannedText>signaling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490502" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18475" end="18485" />
+    <spannedText>regulating</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490506" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21689" end="21698" />
+    <spannedText>signaling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490533" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29605" end="29630" />
+    <spannedText>restriction endonucleases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490097" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15860" end="15884" />
+    <spannedText>restriction endonuclease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500099" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16095" end="16119" />
+    <spannedText>restriction endonuclease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500103" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18999" end="19011" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500107" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19564" end="19585" />
+    <spannedText>cationic conductances</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500110" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20474" end="20486" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500112" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21184" end="21198" />
+    <spannedText>taste function</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500114" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21262" end="21267" />
+    <span start="21278" end="21283" />
+    <spannedText>sweet ... taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500116" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21272" end="21283" />
+    <spannedText>umami taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500118" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21584" end="21596" />
+    <spannedText>bitter taste</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500120" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22138" end="22150" />
+    <span start="22158" end="22167" />
+    <spannedText>responses to ... compounds</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500131" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27511" end="27518" />
+    <spannedText>sensory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500133" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27749" end="27758" />
+    <spannedText>olfactory</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500137" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29605" end="29630" />
+    <spannedText>restriction endonucleases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500139" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29655" end="29662" />
+    <spannedText>digests</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_980180" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8339" end="8346" />
+    <spannedText>control</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_20971" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4184" end="4193" />
+    <spannedText>behaviors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_20975" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12998" end="13005" />
+    <spannedText>binding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_20981" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22829" end="22836" />
+    <spannedText>binding</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_20985" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24879" end="24885" />
+    <spannedText>mating</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_Instance_490193">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490191">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490197">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490195">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490201">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490199">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490205">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490203">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490209">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490207">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490213">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490211">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490217">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490215">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490221">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490219">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490157">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490159">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490161">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490163">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490165">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490167">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490169">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490171">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490173">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490175">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490179">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490181">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490183">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477354">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490185">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490187">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490189">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490131">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490129">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490127">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490125">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490139">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490137">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490135">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490133">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490147">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490145">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490143">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490141">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490155">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490153">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490151">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490149">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490097">
+    <mentionClass id="GO:0015666">restriction endodeoxyribonuclease activity ({restriction enzyme activity, restriction endonuclease activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490099">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490093">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490095">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490105">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490107">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490101">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490103">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490113">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490115">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490109">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490111">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490121">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490123">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490117">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490119">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371837">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371835">
+    <mentionClass id="GO:0050917">sensory perception of umami taste (umami taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371841">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371839">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371828">
+    <mentionClass id="GO:0046535">detection of chemical stimulus during sensory perception of umami taste ({umami taste detection, sensory detection of chemical stimulus during perception of umami taste, sensory transduction of chemical stimulus during perception of umami taste, sensory transduction of umami taste, perception of umami taste, detection of chemical stimulus, perception of umami taste, sensory transduction of chemical stimulus, sensory detection of umami taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371825">
+    <mentionClass id="GO:0050917">sensory perception of umami taste (umami taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371833">
+    <mentionClass id="GO:0050917">sensory perception of umami taste (umami taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371831">
+    <mentionClass id="GO:0050916">sensory perception of sweet taste (sweet taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371817">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371814">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490091">
+    <mentionClass id="GO:0015666">restriction endodeoxyribonuclease activity ({restriction enzyme activity, restriction endonuclease activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371821">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371819">
+    <mentionClass id="GO:0050916">sensory perception of sweet taste (sweet taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371812">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371810">
+    <mentionClass id="GO:0050916">sensory perception of sweet taste (sweet taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371880">
+    <mentionClass id="GO:0007600">sensory perception ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371867">
+    <mentionClass id="GO:0051606">detection of stimulus (stimulus detection)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371871">
+    <mentionClass id="GO:0051606">detection of stimulus (stimulus detection)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371878">
+    <mentionClass id="GO:0007600">sensory perception ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371854">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371857">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371860">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371862">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371844">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371848">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371850">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371852">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1481137">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480097">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480095">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480093">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480091">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480089">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480087">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480085">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477135">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477137">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_450036">
+    <mentionClass id="GO:0001580">detection of chemical stimulus during sensory perception of bitter taste ({sensory detection of chemical stimulus during perception of bitter taste, sensory detection of bitter taste, perception of bitter taste, sensory transduction of chemical stimulus, sensory transduction of bitter taste, bitter taste detection, perception of bitter taste, detection of chemical stimulus, sensory transduction of chemical stimulus during perception of bitter taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_450033">
+    <mentionClass id="GO:0001582">detection of chemical stimulus during sensory perception of sweet taste ({sensory transduction of sweet taste, perception of sweet taste, sensory transduction of chemical stimulus, perception of sweet taste, detection of chemical stimulus, sweet taste detection, sensory detection of sweet taste, sensory transduction of chemical stimulus during perception of sweet taste, sensory detection of chemical stimulus during perception of sweet taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_450039">
+    <mentionClass id="GO:0046535">detection of chemical stimulus during sensory perception of umami taste ({umami taste detection, sensory detection of chemical stimulus during perception of umami taste, sensory transduction of chemical stimulus during perception of umami taste, sensory transduction of umami taste, perception of umami taste, detection of chemical stimulus, perception of umami taste, sensory transduction of chemical stimulus, sensory detection of umami taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_20975">
+    <mentionClass id="GO:0005488">binding ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_20971">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500099">
+    <mentionClass id="GO:0015666">restriction endodeoxyribonuclease activity ({restriction enzyme activity, restriction endonuclease activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_20985">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500103">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_20981">
+    <mentionClass id="GO:0005488">binding ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500107">
+    <mentionClass id="GO:0006812">cation transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500110">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470083">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470081">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470080">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470077">
+    <mentionClass id="GO:0045233">natural killer cell receptor activity (NK cell receptor activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470085">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500139">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500112">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500114">
+    <mentionClass id="GO:0050916">sensory perception of sweet taste (sweet taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500116">
+    <mentionClass id="GO:0050917">sensory perception of umami taste (umami taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500118">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500120">
+    <mentionClass id="GO:0042221">response to chemical stimulus (response to chemical substance)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500131">
+    <mentionClass id="GO:0007600">sensory perception ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500133">
+    <mentionClass id="GO:0007608">sensory perception of smell ({sense of smell, olfaction, smell perception, scent perception})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500137">
+    <mentionClass id="GO:0015666">restriction endodeoxyribonuclease activity ({restriction enzyme activity, restriction endonuclease activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490500">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490502">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490492">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490498">
+    <mentionClass id="GO:0001775">cell activation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490506">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490533">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490465">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490467">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490461">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490463">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490484">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490490">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490471">
+    <mentionClass id="GO:0007165">signal transduction ({signaling, signalling})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490473">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490451">
+    <mentionClass id="GO:0015267">channel activity ({channel/pore class transporter activity, nonselective channel activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470046">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490449">
+    <mentionClass id="GO:0005267">potassium channel activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470048">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490447">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470050">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490441">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470052">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490459">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470054">
+    <mentionClass id="GO:0001775">cell activation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490457">
+    <mentionClass id="GO:0008081">phosphoric diester hydrolase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470061">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490455">
+    <mentionClass id="GO:0005216">ion channel activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470063">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490453">
+    <mentionClass id="GO:0005267">potassium channel activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470065">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490429">
+    <mentionClass id="GO:0004930">G-protein coupled receptor activity ({G protein coupled receptor activity, G-protein-coupled receptor activity, GPCR activity, orphan G-protein coupled receptor activity, G-protein coupled receptor activity, unknown ligand, G protein linked receptor activity, orphan G protein coupled receptor activity, G-protein linked receptor activity, orphan GPCR activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490427">
+    <mentionClass id="GO:0004930">G-protein coupled receptor activity ({G protein coupled receptor activity, G-protein-coupled receptor activity, GPCR activity, orphan G-protein coupled receptor activity, G-protein coupled receptor activity, unknown ligand, G protein linked receptor activity, orphan G protein coupled receptor activity, G-protein linked receptor activity, orphan GPCR activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490415">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490413">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490437">
+    <mentionClass id="GO:0004930">G-protein coupled receptor activity ({G protein coupled receptor activity, G-protein-coupled receptor activity, GPCR activity, orphan G-protein coupled receptor activity, G-protein coupled receptor activity, unknown ligand, G protein linked receptor activity, orphan G protein coupled receptor activity, G-protein linked receptor activity, orphan GPCR activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490435">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490433">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470042">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_980180">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490431">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_470044">
+    <mentionClass id="GO:0050913">sensory perception of bitter taste (bitter taste perception)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490405">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490407">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490409">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490411">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490397">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490399">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490401">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490403">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490385">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490389">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490391">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490395">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490371">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490373">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490377">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490383">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490365">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490361">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490369">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490367">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490347">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490345">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490353">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490351">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490337">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490335">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490341">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490339">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490321">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490317">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490327">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490325">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460071">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490313">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460069">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490315">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460075">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490309">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460073">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490311">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460063">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490305">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460061">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490307">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460067">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490299">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460065">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490301">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460050">
+    <mentionClass id="GO:0001580">detection of chemical stimulus during sensory perception of bitter taste ({sensory detection of chemical stimulus during perception of bitter taste, sensory detection of bitter taste, perception of bitter taste, sensory transduction of chemical stimulus, sensory transduction of bitter taste, bitter taste detection, perception of bitter taste, detection of chemical stimulus, sensory transduction of chemical stimulus during perception of bitter taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490295">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460048">
+    <mentionClass id="GO:0051606">detection of stimulus (stimulus detection)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490297">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460059">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490291">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1484168">
+    <mentionClass id="GO:0006353">transcription termination (transcriptional complex disassembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1485257">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460057">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490293">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1484171">
+    <mentionClass id="GO:0006415">translational termination ({translation termination, translational complex disassembly})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490285">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490287">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460042">
+    <mentionClass id="GO:0001580">detection of chemical stimulus during sensory perception of bitter taste ({sensory detection of chemical stimulus during perception of bitter taste, sensory detection of bitter taste, perception of bitter taste, sensory transduction of chemical stimulus, sensory transduction of bitter taste, bitter taste detection, perception of bitter taste, detection of chemical stimulus, sensory transduction of chemical stimulus during perception of bitter taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490281">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490283">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490279">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490275">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490257">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490249">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490247">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490245">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490241">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490239">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490237">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490235">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490233">
+    <mentionClass id="GO:0050909">sensory perception of taste ({taste perception, gustation, sense of taste, taste})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490231">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460077">
+    <mentionClass id="GO:0033038">bitter taste receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490229">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460079">
+    <mentionClass id="GO:0008527">taste receptor activity (gustatory receptor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490227">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490225">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490223">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+</annotations>
+

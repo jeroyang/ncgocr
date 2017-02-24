@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16103912.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_110203" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5400" end="5411" />
+    <spannedText>chromosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110229" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20628" end="20639" />
+    <spannedText>chromosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110267" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29165" end="29171" />
+    <spannedText>Nuclei</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184928" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14825" end="14830" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184930" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16072" end="16076" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184932" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22198" end="22203" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184934" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22484" end="22488" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184936" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22603" end="22607" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184938" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27878" end="27883" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27812" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7149" end="7159" />
+    <spannedText>Chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27816" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20052" end="20062" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27818" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20176" end="20186" />
+    <spannedText>Chromosome</spannedText>
+  </annotation>
+  <classMention id="cellular_component_new_Instance_27812">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184932">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110229">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184930">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110267">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184936">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184934">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110203">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27816">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184938">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27818">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184928">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+</annotations>
+

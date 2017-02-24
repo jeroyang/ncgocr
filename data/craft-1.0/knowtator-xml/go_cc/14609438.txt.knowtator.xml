@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="14609438.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_180928" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18620" end="18624" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271021" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9247" end="9260" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11924" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9127" end="9135" />
+    <spannedText>membrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11949" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18594" end="18608" />
+    <spannedText>storage bodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11952" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18584" end="18593" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11957" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18738" end="18764" />
+    <spannedText>mitochondrial ATP synthase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11962" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18738" end="18751" />
+    <spannedText>mitochondrial</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11969" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20219" end="20227" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11974" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20523" end="20531" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11979" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20566" end="20581" />
+    <spannedText>type I collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_11984" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20752" end="20760" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <classMention id="cellular_component_new_Instance_11949">
+    <mentionClass id="GO:0000322">storage vacuole</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_11984">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360110" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360110">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="true" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_11924">
+    <mentionClass id="GO:0016020">membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_271021">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_11979">
+    <mentionClass id="GO:0005584">collagen type I</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360105" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360105">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="true" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_11974">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360103" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360103">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="true" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_11969">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360096" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360096">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="true" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_11962">
+    <mentionClass id="GO:0005739">mitochondrion</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_11957">
+    <mentionClass id="GO:0005753">mitochondrial proton-transporting ATP synthase complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_50070" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_50070">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_180928">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_11952">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+</annotations>
+

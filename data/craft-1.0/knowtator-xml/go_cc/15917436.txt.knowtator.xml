@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15917436.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_100002" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5576" end="5580" />
+    <spannedText>CELL</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_100030" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="865" end="869" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110016" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19958" end="19961" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184762" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5022" end="5027" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184764" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5498" end="5503" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184766" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5676" end="5681" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184768" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33947" end="33951" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184770" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34074" end="34078" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_20003" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2213" end="2216" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_50058" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="234" end="241" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60007" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2361" end="2364" />
+    <spannedText>MCM</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60046" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1828" end="1854" />
+    <span start="1861" end="1869" />
+    <spannedText>minichromosome maintenance ... helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60056" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1856" end="1859" />
+    <span start="1861" end="1869" />
+    <spannedText>Mcm ... helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60084" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2130" end="2143" />
+    <spannedText>Mcm helicases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60113" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2406" end="2413" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60160" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2647" end="2654" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60169" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2877" end="2880" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60191" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3092" end="3101" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60198" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3313" end="3320" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60205" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3225" end="3229" />
+    <span start="3241" end="3251" />
+    <spannedText>fork ... structures</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60211" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3133" end="3139" />
+    <spannedText>forked</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60226" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3576" end="3579" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60235" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3730" end="3742" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60275" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3933" end="3939" />
+    <spannedText>forked</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60281" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4022" end="4034" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60299" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4163" end="4175" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60335" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4905" end="4907" />
+    <spannedText>Ab</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60338" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4909" end="4917" />
+    <spannedText>antibody</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60349" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5354" end="5361" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60355" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5872" end="5881" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60363" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6467" end="6471" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60370" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6581" end="6585" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60376" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8029" end="8036" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60404" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10924" end="10931" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60424" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3241" end="3251" />
+    <span start="12822" end="12836" />
+    <spannedText>structures ... fork structure</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60430" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12987" end="12990" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60442" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13261" end="13270" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60456" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13391" end="13398" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60466" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13715" end="13722" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60472" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13828" end="13835" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60486" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14304" end="14311" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60499" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14572" end="14581" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60506" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14741" end="14750" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60513" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14894" end="14903" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60520" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14981" end="14990" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60528" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15137" end="15149" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60555" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15207" end="15214" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60584" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15708" end="15715" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60590" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15755" end="15762" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60603" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16719" end="16726" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60619" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17017" end="17032" />
+    <spannedText>fork structures</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60639" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17408" end="17414" />
+    <spannedText>forked</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60645" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17528" end="17534" />
+    <spannedText>forked</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60651" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17549" end="17553" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60657" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17604" end="17608" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60663" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17641" end="17645" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60669" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17671" end="17675" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60675" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17774" end="17778" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60681" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17788" end="17792" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60687" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17841" end="17845" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60693" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17936" end="17940" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60699" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17972" end="17976" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60705" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18120" end="18124" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60711" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18135" end="18139" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60717" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18223" end="18230" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60724" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18301" end="18308" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60732" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18177" end="18181" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60739" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18518" end="18522" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60745" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18558" end="18562" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60751" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18572" end="18576" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60764" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18659" end="18663" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60779" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18888" end="18892" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60785" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18918" end="18922" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60791" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18963" end="18967" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60797" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19016" end="19020" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60803" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19095" end="19102" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60817" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19351" end="19354" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60843" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20266" end="20278" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60852" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20423" end="20438" />
+    <spannedText>fork structures</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60865" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20544" end="20556" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60884" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20689" end="20701" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60900" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20826" end="20838" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60934" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21653" end="21665" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60950" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21761" end="21764" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60959" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22098" end="22105" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60965" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22228" end="22240" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_60983" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22611" end="22623" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61001" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22707" end="22719" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61017" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22910" end="22922" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61044" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23135" end="23147" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61066" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23895" end="23907" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61084" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24150" end="24162" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61110" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24553" end="24556" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61128" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24797" end="24809" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61146" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25092" end="25107" />
+    <spannedText>fork structures</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61153" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25111" end="25115" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61159" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25289" end="25293" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61174" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25454" end="25458" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61189" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25695" end="25699" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61196" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25718" end="25722" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61202" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25841" end="25845" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61208" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25863" end="25867" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61214" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25885" end="25889" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61220" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25910" end="25914" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61235" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26819" end="26826" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61241" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26869" end="26873" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61247" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26951" end="26963" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61265" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27309" end="27313" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61271" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27586" end="27590" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61277" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27771" end="27775" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61283" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27837" end="27841" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61289" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27912" end="27916" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61318" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28468" end="28471" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61345" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28670" end="28674" />
+    <span start="28686" end="28696" />
+    <spannedText>fork ... structures</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61381" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29120" end="29125" />
+    <spannedText>forks</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61388" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29257" end="29260" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61397" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29352" end="29359" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61420" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29705" end="29712" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61427" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30139" end="30143" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61433" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30158" end="30165" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61449" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30743" end="30747" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61455" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30825" end="30828" />
+    <spannedText>MCM</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61464" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31015" end="31018" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61491" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31440" end="31444" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61497" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31479" end="31483" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61503" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31491" end="31495" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61509" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31765" end="31777" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61527" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31853" end="31856" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61536" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31870" end="31874" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61542" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32001" end="32014" />
+    <spannedText>Mcm helicases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61564" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32260" end="32263" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61582" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32523" end="32535" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61609" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32591" end="32594" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61627" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32789" end="32792" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61666" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33671" end="33683" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61693" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34139" end="34143" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61699" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34224" end="34236" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61717" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34428" end="34440" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61735" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34515" end="34519" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61742" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34623" end="34635" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61760" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34955" end="34958" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61769" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35078" end="35082" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61784" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35155" end="35158" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61793" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35295" end="35307" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61811" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35391" end="35395" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61817" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35887" end="35899" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61862" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36232" end="36244" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61880" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36274" end="36281" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61887" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36681" end="36693" />
+    <spannedText>Mcm helicase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61905" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36784" end="36802" />
+    <spannedText>helicase complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61950" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36953" end="36958" />
+    <spannedText>preRC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_61957" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37153" end="37157" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70041" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37539" end="37546" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70050" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37704" end="37707" />
+    <spannedText>Mcm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70059" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37747" end="37761" />
+    <spannedText>DNA polymerase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70077" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37733" end="37737" />
+    <spannedText>GINS</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70086" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="38526" end="38530" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70092" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="38862" end="38866" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70125" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="40902" end="40909" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70148" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="41169" end="41173" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70154" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="41248" end="41252" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70169" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="41724" end="41733" />
+    <spannedText>complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70203" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="42276" end="42282" />
+    <spannedText>forked</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70209" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="42361" end="42368" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70245" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="43166" end="43173" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70270" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="43771" end="43778" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_70313" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="44020" end="44024" />
+    <spannedText>fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27510" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2759" end="2768" />
+    <spannedText>Chromatin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27512" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3794" end="3811" />
+    <spannedText>replication forks</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27514" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12118" end="12129" />
+    <spannedText>Mcm complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27516" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13203" end="13219" />
+    <spannedText>replication fork</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27518" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13622" end="13633" />
+    <spannedText>Mcm complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27520" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19404" end="19417" />
+    <spannedText>Mcm complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27522" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28147" end="28164" />
+    <spannedText>replication forks</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27524" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28908" end="28925" />
+    <spannedText>replication forks</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27526" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36995" end="37015" />
+    <spannedText>chromatin structures</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27528" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37488" end="37505" />
+    <spannedText>replication forks</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27530" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37590" end="37611" />
+    <spannedText>DNA replication forks</spannedText>
+  </annotation>
+  <classMention id="cellular_component_Instance_60376">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60382" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60382">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60370">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61693">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61699">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61707" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61707">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61717">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61725" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61725">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60404">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60410" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60410">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60430">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60438" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60438">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60424">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61735">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61742">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61750" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61750">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61760">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61768" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61768">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60442">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60448" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60448">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61542">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61550" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61550">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60466">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90357" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90357">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27530">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61564">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61572" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61572">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60456">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60462" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60462">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60472">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60478" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60478">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61582">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61590" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61590">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27522">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61609">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61617" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61617">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60486">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90360" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90360">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27524">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61627">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61635" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61635">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60506">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60512" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60512">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27526">
+    <mentionClass id="GO:0000785">chromatin</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27528">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61666">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61674" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61674">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60499">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60505" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60505">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27518">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51302" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51302">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61880">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61886" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61886">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27516">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60513">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60519" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60519">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60520">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60527" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60527">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61887">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61895" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61895">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27520">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51303" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51303">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61950">
+    <mentionClass id="GO:0005656">pre-replicative complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90505" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90505">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60528">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60536" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60536">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27512">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27510">
+    <mentionClass id="GO:0000785">chromatin</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61905">
+    <mentionClass id="GO:0033202">DNA helicase complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61913" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61913">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60555">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90366" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90366">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61957">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60584">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90369" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90369">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27514">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51301" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51301">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61769">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60590">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90370" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90370">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61793">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61801" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61801">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60603">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60609" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60609">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61784">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61792" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61792">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60619">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61811">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60639">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60645">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60651">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61862">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61870" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61870">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61817">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61825" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61825">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60657">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_70270">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70276" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70276">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60681">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_70245">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70251" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70251">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60675">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_70313">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60669">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60663">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60705">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60699">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60693">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60687">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184768">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60724">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60731" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60731">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70125">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70131" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70131">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_184766">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184764">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60717">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60723" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60723">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70154">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184762">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60711">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_70148">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_70203">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60751">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60745">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_70169">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70175" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70175">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60739">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_50058">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60020" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60020">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70209">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70215" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70215">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60732">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60785">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60791">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60764">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60779">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60817">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90384" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90384">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_184770">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60797">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60803">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60809" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60809">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60852">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60865">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90393" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90393">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60843">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60851" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60851">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60934">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90401" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90401">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60900">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60908" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60908">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61017">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61025" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61025">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60983">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90408" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90408">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70077">
+    <mentionClass id="GO:0000811">GINS complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70085" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70085">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60007">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_220085" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_220085">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70092">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61001">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61009" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61009">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70086">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60950">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60958" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60958">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60959">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90404" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90404">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70059">
+    <mentionClass id="GO:0042575">DNA polymerase complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70067" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70067">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70050">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_70058" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_70058">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60965">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60973" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60973">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61202">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61196">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61214">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61208">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61159">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61153">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61189">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61174">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61110">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61118" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61118">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61146">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61128">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61136" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61136">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61066">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61083" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61083">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61044">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61054" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61054">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61084">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61092" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61092">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61388">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61396" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61396">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60056">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60067" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60067">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61397">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61403" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61403">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61345">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60046">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60069" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60069">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110016">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_220087" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_220087">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61381">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61318">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61326" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61326">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61283">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_20003">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_220083" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_220083">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61289">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61271">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61277">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60198">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60204" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60204">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60191">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60197" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60197">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61247">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61259" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61259">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61265">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60169">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60177" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60177">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60160">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60179" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60179">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61241">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61220">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61235">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90431" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90431">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60113">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60123" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60123">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61536">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60281">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60289" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60289">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60299">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60307" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60307">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61527">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61535" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61535">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61509">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61517" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61517">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_100002">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60275">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61503">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60226">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60234" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60234">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61497">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60235">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60250" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60250">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61491">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60205">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60211">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61464">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61472" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61472">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60363">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_100030">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61455">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61463" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61463">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60349">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60361" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60361">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61449">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_60084">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_100075" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_100075">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60355">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60362" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60362">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60884">
+    <mentionClass id="GO:0042555">MCM complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_100180" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_100180">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61433">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61439" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61439">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_70041">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_100431" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_100431">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60338">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60348" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60348">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_61427">
+    <mentionClass id="GO:0005657">replication fork</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_61420">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_61426" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_61426">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_60335">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_60347" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_60347">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+</annotations>
+

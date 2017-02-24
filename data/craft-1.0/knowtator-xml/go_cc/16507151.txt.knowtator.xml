@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16507151.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_320002" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18" end="26" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40006" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="93" end="101" />
+    <spannedText>Collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40011" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="247" end="255" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40016" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="519" end="527" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40023" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1001" end="1011" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40028" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1236" end="1246" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40033" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1344" end="1352" />
+    <spannedText>antibody</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40036" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1327" end="1343" />
+    <spannedText>collagen type II</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40043" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1378" end="1388" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40046" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1631" end="1639" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40053" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5488" end="5491" />
+    <spannedText>MHC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40058" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5493" end="5525" />
+    <spannedText>major histocompatibility complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40061" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5600" end="5603" />
+    <spannedText>MHC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40068" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5802" end="5818" />
+    <spannedText>collagen type II</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40071" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5820" end="5823" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40075" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5993" end="5996" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40080" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7340" end="7351" />
+    <spannedText>chromosomes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40085" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7367" end="7379" />
+    <spannedText>Y chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40090" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9152" end="9160" />
+    <spannedText>antibody</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40093" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9148" end="9151" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40100" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9236" end="9239" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40105" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9460" end="9470" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40108" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9456" end="9459" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40115" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9560" end="9563" />
+    <spannedText>IgG</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40118" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9547" end="9550" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40125" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9628" end="9631" />
+    <spannedText>IgG</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40128" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10354" end="10357" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40133" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10888" end="10891" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40138" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11401" end="11404" />
+    <spannedText>MHC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40143" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11483" end="11486" />
+    <spannedText>MHC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40150" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11679" end="11689" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40155" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12012" end="12022" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40160" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12086" end="12094" />
+    <spannedText>antibody</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40163" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12082" end="12085" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40170" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12119" end="12129" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40173" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12201" end="12204" />
+    <spannedText>MHC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40180" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12844" end="12856" />
+    <spannedText>MHC class II</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40185" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14587" end="14598" />
+    <spannedText>chromosomes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40188" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14638" end="14641" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40195" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14650" end="14660" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40200" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14721" end="14731" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40205" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14869" end="14879" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40210" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15413" end="15421" />
+    <spannedText>antibody</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40213" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15409" end="15412" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40220" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15445" end="15455" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40225" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15638" end="15648" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40230" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15729" end="15739" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40235" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15808" end="15818" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40240" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15942" end="15952" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40245" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16059" end="16069" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40250" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16283" end="16293" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40255" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16404" end="16414" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40261" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16478" end="16488" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40265" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16616" end="16626" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40270" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16905" end="16915" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40275" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17666" end="17676" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40280" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17695" end="17705" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40285" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17724" end="17734" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40288" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17767" end="17770" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40293" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17865" end="17873" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40298" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17893" end="17896" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40303" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17899" end="17915" />
+    <spannedText>collagen type II</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40308" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17946" end="17949" />
+    <spannedText>MHC</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40313" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17952" end="17984" />
+    <spannedText>major histocompatibility complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40318" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18775" end="18786" />
+    <spannedText>Chromosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40323" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18838" end="18846" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40330" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18878" end="18889" />
+    <spannedText>chromosomes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40335" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18931" end="18939" />
+    <spannedText>antibody</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40338" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18908" end="18924" />
+    <spannedText>collagen type II</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40343" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18926" end="18929" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40350" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18966" end="18976" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40353" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19198" end="19214" />
+    <spannedText>collagen type II</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40358" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19221" end="19224" />
+    <spannedText>CII</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_40363" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20053" end="20061" />
+    <spannedText>collagen</spannedText>
+  </annotation>
+  <classMention id="cellular_component_new_Instance_40210">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51351" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51351">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40006">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360012" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360012">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40046">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370020" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370020">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40220">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40225">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40230">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40235">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40240">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40245">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40250">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40255">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40261">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40265">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40270">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40036">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360017" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360017">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40275">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40016">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360016" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360016">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40280">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40011">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360014" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360014">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40285">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40303">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370051" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370051">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40323">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370054" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370054">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40138">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51346" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51346">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40293">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370048" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370048">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40150">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40143">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51347" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51347">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40298">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370049" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370049">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40160">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51348" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51348">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40213">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370043" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370043">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40288">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370045" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370045">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40155">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40163">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370039" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370039">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40170">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40188">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370041" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370041">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40128">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370035" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370035">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40133">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370037" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370037">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40173">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51349" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51349">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40108">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370029" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370029">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40185">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40118">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370031" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370031">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40180">
+    <mentionClass id="GO:0042613">MHC class II protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51350" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51350">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40093">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370025" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370025">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40195">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40100">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370027" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370027">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40068">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370021" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370021">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40205">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40075">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370023" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370023">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40200">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40085">
+    <mentionClass id="GO:0000806">Y chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40090">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51342" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51342">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40071">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_380255" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_380255">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40080">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40061">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51341" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51341">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40058">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51340" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51340">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40125">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51345" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51345">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40363">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370064" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370064">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40115">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51344" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51344">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40343">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370057" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370057">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40105">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51343" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51343">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40338">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370055" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370055">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40358">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370061" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370061">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40353">
+    <mentionClass id="GO:0005585">collagen type II</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_370059" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_370059">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40313">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51353" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51353">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40308">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51352" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51352">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40335">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51354" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51354">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40330">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40318">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40053">
+    <mentionClass id="GO:0042611">MHC protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51339" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51339">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40043">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40350">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40033">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51338" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51338">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_40028">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_40023">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_320002">
+    <mentionClass id="GO:0005581">collagen</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_350010" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_350010">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+</annotations>
+

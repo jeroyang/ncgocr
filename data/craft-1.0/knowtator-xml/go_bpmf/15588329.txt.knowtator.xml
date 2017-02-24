@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15588329.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1474078" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5176" end="5191" />
+    <spannedText>differentiation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1474082" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29084" end="29099" />
+    <spannedText>differentiation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476123" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="989" end="993" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478794" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6565" end="6567" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478796" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6565" end="6567" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478800" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7825" end="7827" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478802" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7825" end="7827" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478805" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7928" end="7930" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478807" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7928" end="7930" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478810" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8064" end="8066" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478812" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8064" end="8066" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478815" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8169" end="8171" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478817" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8169" end="8171" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478821" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29259" end="29261" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478823" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29259" end="29261" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478826" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29802" end="29804" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478828" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29802" end="29804" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479843" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4182" end="4192" />
+    <spannedText>Generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479845" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4249" end="4257" />
+    <spannedText>generate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479847" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27215" end="27225" />
+    <spannedText>Generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480256" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9" end="20" />
+    <spannedText>trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480260" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1486" end="1499" />
+    <span start="1509" end="1520" />
+    <spannedText>intracellular ... trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480269" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4081" end="4092" />
+    <spannedText>trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480272" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15577" end="15588" />
+    <spannedText>trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480285" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23832" end="23843" />
+    <spannedText>trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480291" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25140" end="25160" />
+    <spannedText>trafficking pathways</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1480297" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25368" end="25379" />
+    <spannedText>trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1482355" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28666" end="28674" />
+    <spannedText>expanded</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1483336" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="709" end="718" />
+    <spannedText>establish</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1483338" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3866" end="3877" />
+    <spannedText>established</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1483340" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27440" end="27453" />
+    <spannedText>establishment</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1483342" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36254" end="36267" />
+    <spannedText>establishment</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1483344" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36710" end="36723" />
+    <spannedText>establishment</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486114" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1020" end="1026" />
+    <spannedText>ATPase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486118" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22181" end="22187" />
+    <spannedText>ATPase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486120" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36939" end="36945" />
+    <spannedText>ATPase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486848" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27492" end="27497" />
+    <spannedText>yield</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486850" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29510" end="29515" />
+    <spannedText>yield</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486896" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23174" end="23185" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486898" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23252" end="23263" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486900" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32782" end="32793" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486902" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33285" end="33296" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486904" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33338" end="33349" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486906" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37213" end="37224" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1486909" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14976" end="14987" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260347" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1208" end="1217" />
+    <span start="1227" end="1239" />
+    <spannedText>lysosomal ... distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260349" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7400" end="7412" />
+    <spannedText>distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260351" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12522" end="12534" />
+    <spannedText>distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260353" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12706" end="12718" />
+    <spannedText>distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260357" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15662" end="15686" />
+    <span start="15702" end="15704" />
+    <span start="15714" end="15724" />
+    <spannedText>subcellular distribution ... of ... organelles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260359" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16389" end="16401" />
+    <spannedText>distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260361" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23612" end="23621" />
+    <span start="23645" end="23657" />
+    <spannedText>Lysosomal ... distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_260363" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23626" end="23635" />
+    <span start="23645" end="23657" />
+    <spannedText>endosomal ... distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24345" end="24355" />
+    <spannedText>biogenesis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372504" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26971" end="26981" />
+    <spannedText>conjugated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90774" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26684" end="26696" />
+    <spannedText>Transduction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90776" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28055" end="28061" />
+    <spannedText>growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90778" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28486" end="28492" />
+    <spannedText>growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90780" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28543" end="28549" />
+    <spannedText>growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90782" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23591" end="23596" />
+    <spannedText>aging</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90784" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24165" end="24174" />
+    <spannedText>autophagy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90788" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24837" end="24857" />
+    <spannedText>protein localization</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90790" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16659" end="16671" />
+    <spannedText>localization</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90792" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18452" end="18463" />
+    <spannedText>Endocytosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90794" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22598" end="22610" />
+    <spannedText>localization</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90796" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23252" end="23263" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90798" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14976" end="14987" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90800" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15289" end="15298" />
+    <spannedText>transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90802" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15518" end="15527" />
+    <spannedText>transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90804" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15744" end="15761" />
+    <spannedText>secretory pathway</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90818" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37124" end="37135" />
+    <spannedText>endocytosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90820" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36126" end="36144" />
+    <spannedText>Cell Proliferation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90823" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37213" end="37224" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90826" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33285" end="33296" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90828" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32782" end="32793" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90829" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33928" end="33934" />
+    <spannedText>growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90832" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33879" end="33885" />
+    <spannedText>Growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90883" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13655" end="13667" />
+    <spannedText>localization</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90886" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13449" end="13458" />
+    <spannedText>secretion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90889" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12593" end="12610" />
+    <spannedText>secretory pathway</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90892" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12556" end="12565" />
+    <spannedText>transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90895" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12228" end="12237" />
+    <spannedText>transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90898" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9461" end="9467" />
+    <spannedText>growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90901" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9208" end="9220" />
+    <spannedText>localization</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90904" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5046" end="5059" />
+    <spannedText>cell division</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90906" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4652" end="4658" />
+    <spannedText>Growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90909" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3014" end="3034" />
+    <spannedText>amino acid transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90912" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1922" end="1927" />
+    <spannedText>death</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90915" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1257" end="1268" />
+    <spannedText>endocytosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90918" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1114" end="1123" />
+    <spannedText>transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90921" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1094" end="1100" />
+    <spannedText>growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90931" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25220" end="25229" />
+    <span start="25253" end="25261" />
+    <spannedText>Endocytic ... pathways</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90933" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26031" end="26044" />
+    <spannedText>Developmental</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90935" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33748" end="33764" />
+    <spannedText>endocytic uptake</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90937" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27759" end="27766" />
+    <spannedText>Trypsin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90939" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27759" end="27766" />
+    <spannedText>Trypsin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90941" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27794" end="27801" />
+    <spannedText>DNase I</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90943" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27794" end="27801" />
+    <spannedText>DNase I</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90945" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19342" end="19371" />
+    <span start="19396" end="19401" />
+    <spannedText>Mitochondrial distribution in ... cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90947" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24668" end="24677" />
+    <spannedText>localizes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90949" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25585" end="25595" />
+    <spannedText>metabolism</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90951" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20164" end="20174" />
+    <spannedText>metabolism</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90953" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22983" end="22994" />
+    <spannedText>cathepsin B</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90955" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20762" end="20788" />
+    <spannedText>Mitochondrial distribution</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90959" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22983" end="22994" />
+    <spannedText>cathepsin B</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90975" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32289" end="32308" />
+    <spannedText>protease inhibitors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_90977" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32289" end="32308" />
+    <spannedText>protease inhibitors</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12510" end="12521" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91175" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12380" end="12391" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91176" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12317" end="12328" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91177" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12216" end="12227" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91178" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12094" end="12105" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91179" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11983" end="11994" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91180" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1102" end="1113" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91181" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33338" end="33349" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91182" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14000" end="14011" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91183" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13884" end="13895" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91184" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13815" end="13826" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91185" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13643" end="13654" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91186" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13418" end="13429" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91187" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12940" end="12951" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91188" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12908" end="12919" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91189" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12694" end="12705" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91190" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14349" end="14360" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91191" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14794" end="14805" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91192" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14000" end="14011" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91193" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14197" end="14208" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91194" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13884" end="13895" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91195" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13643" end="13654" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91196" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13815" end="13826" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91197" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23174" end="23185" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91198" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26486" end="26497" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91199" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22873" end="22884" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91200" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23090" end="23101" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91201" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22586" end="22597" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91202" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22771" end="22782" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91203" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15277" end="15288" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91204" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15546" end="15557" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91205" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8169" end="8171" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91206" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8064" end="8066" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91207" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29802" end="29804" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91208" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29259" end="29261" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91209" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6565" end="6567" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91210" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28270" end="28281" />
+    <spannedText>transducing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91211" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7928" end="7930" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91212" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7825" end="7827" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91213" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18362" end="18372" />
+    <spannedText>localizing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91214" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15900" end="15927" />
+    <spannedText>protein disulfide isomerase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91215" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24491" end="24500" />
+    <spannedText>localizes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91216" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11461" end="11481" />
+    <spannedText>cytochrome c oxidase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91217" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15900" end="15927" />
+    <spannedText>protein disulfide isomerase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91218" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26542" end="26562" />
+    <spannedText>cytochrome c oxidase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91219" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15546" end="15557" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91220" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22586" end="22597" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91221" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22771" end="22782" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91222" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22873" end="22884" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91223" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14197" end="14208" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91224" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14349" end="14360" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91225" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14794" end="14805" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91226" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15277" end="15288" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91227" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3825" end="3845" />
+    <spannedText>biological processes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91228" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2796" end="2805" />
+    <spannedText>localizes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91229" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3529" end="3539" />
+    <spannedText>behavioral</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91230" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4535" end="4545" />
+    <spannedText>transduced</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91231" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23090" end="23101" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91232" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26486" end="26497" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91233" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20179" end="20204" />
+    <spannedText>oxidative stress response</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91234" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5639" end="5649" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91235" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5611" end="5621" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91236" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5454" end="5464" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91237" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5371" end="5381" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91238" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22125" end="22132" />
+    <spannedText>express</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91239" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6361" end="6368" />
+    <spannedText>express</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91240" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6186" end="6193" />
+    <spannedText>express</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91241" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5894" end="5904" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91266" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2748" end="2757" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91268" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3228" end="3235" />
+    <spannedText>express</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91270" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="526" end="533" />
+    <spannedText>express</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91272" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="941" end="948" />
+    <spannedText>express</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91274" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5338" end="5348" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91277" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5014" end="5024" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91279" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5282" end="5292" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91280" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1020" end="1026" />
+    <spannedText>ATPase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91282" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36939" end="36945" />
+    <spannedText>ATPase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91283" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22181" end="22187" />
+    <spannedText>ATPase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91284" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11983" end="11994" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91285" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1102" end="1113" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91286" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12094" end="12105" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91287" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12317" end="12328" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91288" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12216" end="12227" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91289" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12510" end="12521" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91290" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12380" end="12391" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91291" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12908" end="12919" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91292" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12694" end="12705" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91293" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13418" end="13429" />
+    <spannedText>cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91294" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12940" end="12951" />
+    <spannedText>Cathepsin D</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91305" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="837" end="851" />
+    <spannedText>differentiated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91306" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5726" end="5741" />
+    <spannedText>differentiation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91307" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27243" end="27258" />
+    <spannedText>differentiation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91325" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25503" end="25520" />
+    <spannedText>Neurotransmission</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91310" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25539" end="25565" />
+    <spannedText>membrane vesicle transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91312" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26542" end="26562" />
+    <spannedText>cytochrome c oxidase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91313" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31042" end="31047" />
+    <spannedText>grown</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91314" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32289" end="32297" />
+    <spannedText>protease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91315" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32289" end="32297" />
+    <spannedText>protease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91316" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33854" end="33859" />
+    <spannedText>grown</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91332" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25068" end="25075" />
+    <spannedText>resides</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91320" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25185" end="25204" />
+    <spannedText>vesicular transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91321" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25185" end="25194" />
+    <span start="25212" end="25218" />
+    <spannedText>vesicular ... fusion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91322" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25273" end="25296" />
+    <spannedText>mitochondrial autophagy</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91327" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23333" end="23341" />
+    <span start="23366" end="23371" />
+    <spannedText>Aging of ... cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91340" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22916" end="22930" />
+    <spannedText>pH homeostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91331" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24371" end="24380" />
+    <span start="24396" end="24398" />
+    <span start="24413" end="24421" />
+    <spannedText>transport ... of ... proteins</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91333" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24764" end="24774" />
+    <spannedText>trafficked</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91330" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24385" end="24398" />
+    <span start="24413" end="24421" />
+    <spannedText>processing of ... proteins</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91335" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22303" end="22312" />
+    <span start="22332" end="22343" />
+    <spannedText>endosomal ... trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91334" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22313" end="22322" />
+    <span start="22332" end="22343" />
+    <spannedText>lysosomal ... trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91339" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22703" end="22724" />
+    <spannedText>vesicular trafficking</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91336" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22615" end="22625" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91341" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22885" end="22895" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91338" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22783" end="22793" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91355" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19218" end="19255" />
+    <spannedText>autophagic engulfment of mitochondria</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91343" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22217" end="22231" />
+    <spannedText>aging of cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91350" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17946" end="17969" />
+    <spannedText>fluid-phase endocytosis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91351" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18200" end="18209" />
+    <spannedText>endocytic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91359" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14806" end="14816" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91360" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13865" end="13874" />
+    <spannedText>processed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91361" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13672" end="13682" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91370" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13362" end="13377" />
+    <spannedText>cellular growth</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91363" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15929" end="15932" />
+    <spannedText>PDI</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91364" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15929" end="15932" />
+    <spannedText>PDI</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91365" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15532" end="15542" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91358" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15303" end="15313" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91367" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12242" end="12252" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91368" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12166" end="12177" />
+    <spannedText>degradation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91369" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11975" end="11982" />
+    <spannedText>process</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91377" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11553" end="11557" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91372" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12615" end="12623" />
+    <spannedText>delivery</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91373" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12570" end="12580" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91366" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12370" end="12379" />
+    <spannedText>processed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91381" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10040" end="10044" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91374" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10393" end="10397" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91375" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10592" end="10596" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91376" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11461" end="11481" />
+    <spannedText>cytochrome c oxidase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91385" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6383" end="6394" />
+    <spannedText>mRNA splice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91378" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8302" end="8308" />
+    <spannedText>splice</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91379" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9582" end="9591" />
+    <spannedText>formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91380" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9635" end="9639" />
+    <spannedText>aged</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91389" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7263" end="7272" />
+    <spannedText>recycling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91382" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7301" end="7321" />
+    <spannedText>transferrin receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91383" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7301" end="7321" />
+    <spannedText>transferrin receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91386" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3111" end="3120" />
+    <spannedText>generated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91388" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5707" end="5718" />
+    <spannedText>stimulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91396" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1893" end="1902" />
+    <spannedText>cognitive</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91393" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2995" end="3009" />
+    <spannedText>pH homeostasis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91400" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1128" end="1138" />
+    <spannedText>processing</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91397" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1883" end="1888" />
+    <spannedText>motor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91401" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="490" end="499" />
+    <spannedText>replicate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91398" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="448" end="457" />
+    <spannedText>generated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_91317" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35409" end="35419" />
+    <spannedText>cell lysis</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_Instance_1483340">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1483338">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1483344">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1483342">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1483336">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90774">
+    <mentionClass id="GO:0009293">transduction ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90782">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90776">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90792">
+    <mentionClass id="GO:0006897">endocytosis ({plasma membrane invagination, vesicle endocytosis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91401">
+    <mentionClass id="GO:0006260">DNA replication ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90794">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91398">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486114">
+    <mentionClass id="GO:0016887">ATPase activity ({ATP monophosphatase activity, adenosinetriphosphatase activity, ATP phosphohydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90790">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486118">
+    <mentionClass id="GO:0016887">ATPase activity ({ATP monophosphatase activity, adenosinetriphosphatase activity, ATP phosphohydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91386">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91388">
+    <mentionClass id="GO:0001775">cell activation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90788">
+    <mentionClass id="GO:0008104">protein localization (establishment and maintenance of protein localization)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91382">
+    <mentionClass id="GO:0004998">transferrin receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91383">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91400">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90778">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91397">
+    <mentionClass id="GO:0050879">multicellular organismal movement ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90784">
+    <mentionClass id="GO:0006914">autophagy ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91396">
+    <mentionClass id="GO:0050890">cognition ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91393">
+    <mentionClass id="GO:0006885">regulation of pH (hydrogen ion homeostasis)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90780">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90804">
+    <mentionClass id="GO:0045045">secretory pathway ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90800">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90802">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486120">
+    <mentionClass id="GO:0016887">ATPase activity ({ATP monophosphatase activity, adenosinetriphosphatase activity, ATP phosphohydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90796">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90798">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91363">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91364">
+    <mentionClass id="GO:0003756">protein disulfide isomerase activity ({protein disulfide-isomerase reaction, protein disulphide isomerase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91365">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91358">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91359">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91360">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91361">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91370">
+    <mentionClass id="GO:0016049">cell growth ({cellular growth, growth of cell})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260359">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91355">
+    <mentionClass id="GO:0000422">mitochondrion degradation (mitophagy)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260361">
+    <mentionClass id="GO:0032418">lysosome localization ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91343">
+    <mentionClass id="GO:0007569">cell aging ({cell ageing, cellular senescence})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260353">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91350">
+    <mentionClass id="GO:0006907">pinocytosis (fluid-phase endocytosis)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90975">
+    <mentionClass id="GO:0030414">protease inhibitor activity (peptidase inhibitor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260357">
+    <mentionClass id="GO:0051640">organelle localization (establishment and maintenance of organelle localization)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91351">
+    <mentionClass id="GO:0006897">endocytosis ({plasma membrane invagination, vesicle endocytosis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260349">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91339">
+    <mentionClass id="GO:0016192">vesicle-mediated transport (vesicle transport)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90977">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260351">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91336">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91341">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260347">
+    <mentionClass id="GO:0032418">lysosome localization ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91338">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91379">
+    <mentionClass id="GO:0022607">cellular component assembly (cell structure assembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91378">
+    <mentionClass id="GO:0008380">RNA splicing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91389">
+    <mentionClass id="GO:0032456">endocytic recycling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91380">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91375">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91374">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91385">
+    <mentionClass id="GO:0000398">nuclear mRNA splicing, via spliceosome ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91376">
+    <mentionClass id="GO:0004129">cytochrome-c oxidase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_260363">
+    <mentionClass id="GO:0032439">endosome localization ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91373">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91372">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90955">
+    <mentionClass id="GO:0048311">mitochondrion distribution ({distribution of mitochondria, mitochondrial distribution})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91381">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91366">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91368">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90959">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91367">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91377">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91369">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91325">
+    <mentionClass id="GO:0007268">synaptic transmission ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91310">
+    <mentionClass id="GO:0016192">vesicle-mediated transport (vesicle transport)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91306">
+    <mentionClass id="GO:0030154">cell differentiation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91307">
+    <mentionClass id="GO:0030154">cell differentiation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91294">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91305">
+    <mentionClass id="GO:0030154">cell differentiation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91292">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91293">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486904">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91290">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486902">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91291">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486909">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91288">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486906">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91289">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1482355">
+    <mentionClass id="GO:0008283">cell proliferation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486896">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91286">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91287">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486900">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91284">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486898">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91285">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91334">
+    <mentionClass id="GO:0007041">lysosomal transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91335">
+    <mentionClass id="GO:0016197">endosome transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91330">
+    <mentionClass id="GO:0016485">protein processing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91333">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91331">
+    <mentionClass id="GO:0015031">protein transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486848">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91340">
+    <mentionClass id="GO:0006885">regulation of pH (hydrogen ion homeostasis)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1486850">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91327">
+    <mentionClass id="GO:0007569">cell aging ({cell ageing, cellular senescence})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91322">
+    <mentionClass id="GO:0000422">mitochondrion degradation (mitophagy)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479843">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91321">
+    <mentionClass id="GO:0006906">vesicle fusion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91320">
+    <mentionClass id="GO:0016192">vesicle-mediated transport (vesicle transport)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479847">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91332">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479845">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91316">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91315">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91314">
+    <mentionClass id="GO:0008233">peptidase activity ({hydrolase, acting on peptide bonds, protease activity, peptide hydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91313">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91312">
+    <mentionClass id="GO:0004129">cytochrome-c oxidase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91227">
+    <mentionClass id="GO:0008150">biological_process (physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478807">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90892">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91228">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478805">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91229">
+    <mentionClass id="GO:0007610">behavior ({behavioral response to stimulus, behaviour, behavioural response to stimulus})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478812">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90889">
+    <mentionClass id="GO:0045045">secretory pathway ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91230">
+    <mentionClass id="GO:0009293">transduction ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478810">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91223">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478817">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90886">
+    <mentionClass id="GO:0046903">secretion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91224">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478815">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91225">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478823">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90883">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91226">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478821">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90901">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91235">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91236">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91237">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90898">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91238">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478796">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91231">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478794">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91232">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478802">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90895">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91233">
+    <mentionClass id="GO:0006979">response to oxidative stress ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478800">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91234">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91212">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90909">
+    <mentionClass id="GO:0006865">amino acid transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91211">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91214">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90906">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91213">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91208">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91207">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91210">
+    <mentionClass id="GO:0009293">transduction ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90904">
+    <mentionClass id="GO:0051301">cell division ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91209">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478826">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91220">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478828">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90918">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91219">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90915">
+    <mentionClass id="GO:0006897">endocytosis ({plasma membrane invagination, vesicle endocytosis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91222">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91221">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91216">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91215">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91218">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90912">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91217">
+    <mentionClass id="GO:0003756">protein disulfide isomerase activity ({protein disulfide-isomerase reaction, protein disulphide isomerase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91274">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370127">
+    <mentionClass id="GO:0022607">cellular component assembly (cell structure assembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91272">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90921">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91270">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91268">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90935">
+    <mentionClass id="GO:0006897">endocytosis ({plasma membrane invagination, vesicle endocytosis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91282">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91283">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90937">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91279">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91280">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90931">
+    <mentionClass id="GO:0006897">endocytosis ({plasma membrane invagination, vesicle endocytosis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91277">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90933">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90943">
+    <mentionClass id="GO:0004530">deoxyribonuclease I activity ({thymonuclease, dornase activity, deoxyribonucleic phosphatase activity, alkaline DNase activity, DNA endonuclease activity, DNA nuclease activity, DNA depolymerase activity, alkaline deoxyribonuclease activity, DNAase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90945">
+    <mentionClass id="GO:0048311">mitochondrion distribution ({distribution of mitochondria, mitochondrial distribution})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90939">
+    <mentionClass id="GO:0004295">trypsin activity ({sperm receptor hydrolase activity, cocoonase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91241">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91240">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90941">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91239">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91266">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90951">
+    <mentionClass id="GO:0008152">metabolic process (metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90953">
+    <mentionClass id="GO:0004213">cathepsin B activity (cathepsin B1 activity)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90947">
+    <mentionClass id="GO:0051179">localization ({establishment and maintenance of position, establishment and maintenance of localization})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90949">
+    <mentionClass id="GO:0008152">metabolic process (metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90818">
+    <mentionClass id="GO:0006897">endocytosis ({plasma membrane invagination, vesicle endocytosis})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91317">
+    <mentionClass id="GO:0019835">cytolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90820">
+    <mentionClass id="GO:0008283">cell proliferation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476123">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90826">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90823">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90829">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90828">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91174">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_90832">
+    <mentionClass id="GO:0040007">growth ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91193">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91194">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91191">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91192">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91197">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91198">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91195">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91196">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91201">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1474082">
+    <mentionClass id="GO:0030154">cell differentiation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91202">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1474078">
+    <mentionClass id="GO:0030154">cell differentiation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91199">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91200">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91205">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91206">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91203">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91204">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480297">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91178">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372504">
+    <mentionClass id="GO:0043412">biopolymer modification ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91177">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91176">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91175">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91182">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91181">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91180">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91179">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91186">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91185">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91184">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480256">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91183">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480260">
+    <mentionClass id="GO:0046907">intracellular transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91190">
+    <mentionClass id="GO:0004192">cathepsin D activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480269">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91189">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480272">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91188">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480285">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_91187">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1480291">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+</annotations>
+

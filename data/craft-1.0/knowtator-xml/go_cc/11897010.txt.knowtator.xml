@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="11897010.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_170136" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12095" end="12103" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_270997" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6357" end="6370" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271000" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6576" end="6589" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271003" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10471" end="10484" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271006" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11771" end="11784" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271009" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13320" end="13333" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271012" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1102" end="1115" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_271018" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9708" end="9721" />
+    <spannedText>transmembrane</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10664" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="175" end="184" />
+    <spannedText>autosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10669" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="195" end="204" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10676" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="729" end="739" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10679" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1155" end="1169" />
+    <spannedText>late endosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10684" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1170" end="1179" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10691" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1276" end="1293" />
+    <spannedText>vesicle membranes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10694" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1276" end="1283" />
+    <spannedText>vesicle</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10699" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1671" end="1680" />
+    <spannedText>autosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10704" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1691" end="1700" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10709" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2137" end="2146" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10716" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2172" end="2180" />
+    <spannedText>vacuoles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10721" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2570" end="2580" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10724" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2900" end="2909" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10731" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3128" end="3136" />
+    <spannedText>vacuoles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10736" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3882" end="3892" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10741" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4238" end="4248" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10746" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4270" end="4280" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10751" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5234" end="5244" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10756" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5828" end="5838" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10761" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5852" end="5862" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10766" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6421" end="6430" />
+    <spannedText>cytoplasm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10774" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6686" end="6700" />
+    <spannedText>late endosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10779" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6701" end="6710" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10786" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7719" end="7729" />
+    <spannedText>chromosome</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10794" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9836" end="9847" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10799" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10424" end="10435" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10804" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11933" end="11947" />
+    <spannedText>late endosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10809" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11948" end="11957" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10816" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12166" end="12180" />
+    <spannedText>late endosomes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10819" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12188" end="12197" />
+    <spannedText>lysosomes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10824" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12307" end="12318" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10829" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12376" end="12385" />
+    <spannedText>lysosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_10836" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="12653" end="12663" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <classMention id="cellular_component_new_Instance_10724">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10731">
+    <mentionClass id="GO:0005773">vacuole</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_270997">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10736">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10741">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10704">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10709">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10716">
+    <mentionClass id="GO:0005773">vacuole</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10721">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10766">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10774">
+    <mentionClass id="GO:0005770">late endosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10779">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10786">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10746">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10751">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10756">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10761">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10819">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_170136">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10816">
+    <mentionClass id="GO:0005770">late endosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10829">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10824">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10799">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10794">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10809">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10804">
+    <mentionClass id="GO:0005770">late endosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10679">
+    <mentionClass id="GO:0005770">late endosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10676">
+    <mentionClass id="GO:0005694">chromosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10669">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_271018">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10664">
+    <mentionClass id="GO:0030849">autosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_271012">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_271009">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10699">
+    <mentionClass id="GO:0030849">autosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_271006">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10694">
+    <mentionClass id="GO:0031982">vesicle</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10836">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_50032" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_50032">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_271003">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10691">
+    <mentionClass id="GO:0012506">vesicle membrane</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_10684">
+    <mentionClass id="GO:0005764">lysosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_271000">
+    <mentionClass id="GO:0016021">integral to membrane</mentionClass>
+  </classMention>
+</annotations>
+

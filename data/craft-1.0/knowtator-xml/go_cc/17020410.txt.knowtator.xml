@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="17020410.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_188066" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2034" end="2038" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188068" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4061" end="4065" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188070" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5466" end="5474" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188072" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5841" end="5846" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188074" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8475" end="8479" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188076" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8922" end="8926" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188078" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13048" end="13053" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188080" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17556" end="17564" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188082" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17709" end="17714" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188084" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17804" end="17809" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188086" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17844" end="17849" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188088" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17955" end="17960" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188090" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18043" end="18051" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188092" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18235" end="18240" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188094" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18296" end="18301" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188096" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18452" end="18457" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188098" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18649" end="18654" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188100" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18683" end="18688" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188102" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19065" end="19070" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188104" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19492" end="19497" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188106" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19665" end="19669" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188108" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19925" end="19929" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188110" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20289" end="20293" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188112" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21148" end="21153" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188114" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21301" end="21305" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188116" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21340" end="21345" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188118" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21387" end="21392" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188120" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21431" end="21436" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188122" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21464" end="21469" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188124" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21519" end="21524" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188126" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21557" end="21562" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188128" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21610" end="21615" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188130" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21711" end="21715" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188132" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21773" end="21778" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188134" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21948" end="21952" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188136" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22223" end="22228" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188138" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22828" end="22833" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188140" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23003" end="23008" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188142" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23094" end="23099" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188144" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23979" end="23984" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188146" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27050" end="27055" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188148" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="27684" end="27689" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188150" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28001" end="28009" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188152" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28675" end="28679" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188154" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32425" end="32430" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188156" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35124" end="35128" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188158" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35210" end="35215" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188160" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35372" end="35376" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188162" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35760" end="35764" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188164" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35811" end="35816" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188166" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35836" end="35840" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188168" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16944" end="16952" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_188170" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26231" end="26236" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_290312" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="15965" end="15970" />
+    <spannedText>Cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_290314" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19287" end="19295" />
+    <spannedText>Cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_290316" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37777" end="37781" />
+    <spannedText>Cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410102" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2975" end="3016" />
+    <spannedText>basal transcription/DNA repair factor IIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410106" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3018" end="3023" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410113" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3057" end="3064" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410124" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3268" end="3273" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410133" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10295" end="10305" />
+    <spannedText>antibodies</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410140" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13038" end="13047" />
+    <spannedText>nucleated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410146" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18939" end="18954" />
+    <spannedText>TFIIH complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410161" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18747" end="18752" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410170" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19214" end="19219" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410179" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20406" end="20421" />
+    <spannedText>TFIIH complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410188" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20515" end="20521" />
+    <spannedText>TFIIHs</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410197" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20917" end="20930" />
+    <spannedText>TFIIH complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410206" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21040" end="21045" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410217" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21210" end="21215" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410226" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21700" end="21706" />
+    <spannedText>nuclei</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410233" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22155" end="22160" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410242" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22333" end="22338" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410251" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22545" end="22550" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410260" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22942" end="22947" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410269" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23204" end="23209" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410278" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23952" end="23957" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410287" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25875" end="25880" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410296" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26977" end="26982" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410305" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28618" end="28623" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410314" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28725" end="28730" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410323" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28816" end="28821" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410335" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28972" end="28977" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410344" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29109" end="29122" />
+    <spannedText>TFIIH complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410353" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29138" end="29153" />
+    <spannedText>TFIIH complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410365" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32887" end="32896" />
+    <spannedText>autosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410372" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33301" end="33310" />
+    <spannedText>autosomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410383" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34868" end="34873" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410399" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35451" end="35456" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410409" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35637" end="35642" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410418" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37161" end="37166" />
+    <spannedText>TFIIH</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_410422" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="37169" end="37210" />
+    <spannedText>basal transcription/DNA repair factor IIH</spannedText>
+  </annotation>
+  <classMention id="cellular_component_Instance_188082">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188084">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188086">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188088">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_290316">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188090">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_290314">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188092">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188094">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188096">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188066">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188068">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188070">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_290312">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188072">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188074">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410418">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_280200" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_280200">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188076">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410422">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_280202" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_280202">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188078">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188080">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188116">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188114">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188120">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188118">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410106">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410121" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410121">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188124">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410102">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410123" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410123">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188122">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188128">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188126">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188100">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188098">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410399">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410407" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410407">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410124">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410132" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410132">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410113">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410119" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410119">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188104">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410409">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410417" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410417">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188102">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410365">
+    <mentionClass id="GO:0030849">autosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188108">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188106">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410146">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410160" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410160">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410383">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410434" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410434">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188112">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410140">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410372">
+    <mentionClass id="GO:0030849">autosome</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410133">
+    <mentionClass id="GO:0019814">immunoglobulin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410139" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410139">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188110">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410161">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410169" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410169">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188150">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410170">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410178" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410178">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188152">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188146">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410179">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410187" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410187">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188148">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410188">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410196" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410196">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188158">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188160">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410197">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410205" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410205">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188154">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410206">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410214" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410214">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188156">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188134">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410217">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410225" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410225">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188136">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188130">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410226">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188132">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410233">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410241" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410241">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188142">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410242">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410250" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410250">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188144">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188138">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410251">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410259" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410259">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188140">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410269">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410277" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410277">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410260">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410268" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410268">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410278">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410286" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410286">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410287">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410295" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410295">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410296">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410304" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410304">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188168">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410314">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410322" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410322">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410305">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410313" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410313">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188166">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410323">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410331" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410331">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188164">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_188162">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_410335">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410343" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410343">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410353">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410361" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410361">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_410344">
+    <mentionClass id="GO:0005675">holo TFIIH complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_410352" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_410352">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_188170">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+</annotations>
+

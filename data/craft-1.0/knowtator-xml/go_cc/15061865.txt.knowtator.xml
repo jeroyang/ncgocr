@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="15061865.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_181804" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="418" end="426" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_181806" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4129" end="4137" />
+    <spannedText>cellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_181808" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17248" end="17253" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_181810" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19191" end="19196" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_181812" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19340" end="19345" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_181814" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19482" end="19486" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_15345" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6864" end="6872" />
+    <spannedText>terminal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_15382" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17156" end="17161" />
+    <spannedText>axons</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_15387" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20168" end="20176" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_15392" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21790" end="21798" />
+    <spannedText>synapses</spannedText>
+  </annotation>
+  <classMention id="cellular_component_Instance_181808">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_181806">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_15345">
+    <mentionClass id="GO:0043679">nerve terminal</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_181804">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_15392">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_181814">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_15382">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_181812">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_15387">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_181810">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+</annotations>
+

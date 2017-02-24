@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16121256.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1475413" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="401" end="410" />
+    <spannedText>developed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476493" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4838" end="4847" />
+    <spannedText>formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477620" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22052" end="22080" />
+    <span start="22086" end="22117" />
+    <spannedText>double stranded–break repair ... during homologous recombination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1478998" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7492" end="7494" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479000" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7492" end="7494" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479003" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8259" end="8261" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1479005" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8259" end="8261" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1483941" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17566" end="17589" />
+    <spannedText>acyl-CoA dehydrogenases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1484688" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4861" end="4865" />
+    <spannedText>stop</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1484691" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4861" end="4865" />
+    <spannedText>stop</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1484695" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4952" end="4956" />
+    <spannedText>stop</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1484699" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4952" end="4956" />
+    <spannedText>stop</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1485477" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4963" end="4969" />
+    <spannedText>arises</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1485846" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8510" end="8537" />
+    <spannedText>nonsense mediated RNA decay</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1485959" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20410" end="20421" />
+    <spannedText>β-oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370181" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19216" end="19219" />
+    <spannedText>CPT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370183" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19216" end="19219" />
+    <spannedText>CPT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370186" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9142" end="9176" />
+    <spannedText>short-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370188" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9178" end="9182" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370190" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9178" end="9182" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370192" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29414" end="29448" />
+    <spannedText>short-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370194" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29407" end="29411" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_370196" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29407" end="29411" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371588" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5747" end="5757" />
+    <spannedText>hybridizes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371590" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5747" end="5757" />
+    <spannedText>hybridizes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371592" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6133" end="6143" />
+    <spannedText>hybridized</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371594" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6133" end="6143" />
+    <spannedText>hybridized</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371596" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22463" end="22472" />
+    <spannedText>hybridize</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371598" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22463" end="22472" />
+    <spannedText>hybridize</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371600" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24257" end="24267" />
+    <spannedText>hybridized</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371602" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24257" end="24267" />
+    <spannedText>hybridized</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371604" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24357" end="24371" />
+    <spannedText>Hybridizations</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371606" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24357" end="24371" />
+    <spannedText>Hybridizations</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371608" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24542" end="24552" />
+    <spannedText>hybridized</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_371610" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24542" end="24552" />
+    <spannedText>hybridized</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372111" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9244" end="9248" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9244" end="9248" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9427" end="9431" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372117" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9427" end="9431" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372119" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9643" end="9647" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372121" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9671" end="9675" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372123" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9783" end="9787" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372125" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9643" end="9647" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9671" end="9675" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372129" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9783" end="9787" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372131" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19797" end="19801" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372133" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19797" end="19801" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372135" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20247" end="20251" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372137" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20247" end="20251" />
+    <spannedText>SCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372540" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25953" end="25963" />
+    <spannedText>conjugated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372838" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4668" end="4671" />
+    <spannedText>Neo</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372840" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4668" end="4671" />
+    <spannedText>Neo</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373523" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1194" end="1199" />
+    <spannedText>fatal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_373525" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11965" end="11975" />
+    <spannedText>fatalities</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_310000" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8013" end="8022" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_400002" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8086" end="8096" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_430004" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8176" end="8186" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_420003" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="282" end="291" />
+    <spannedText>developed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_440006" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8784" end="8794" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_440008" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9230" end="9240" />
+    <spannedText>expression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_440005" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1537" end="1546" />
+    <spannedText>developed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_450007" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1768" end="1772" />
+    <spannedText>loss</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_450010" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18512" end="18521" />
+    <spannedText>expresses</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_460012" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23693" end="23702" />
+    <spannedText>expressed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_480014" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13" end="35" />
+    <spannedText>Acyl-CoA Dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_490014" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4050" end="4059" />
+    <spannedText>developed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_500016" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="94" end="116" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_510016" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4342" end="4352" />
+    <spannedText>Generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_520020" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1023" end="1045" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_520022" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2346" end="2369" />
+    <spannedText>acyl-CoA dehydrogenases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_530023" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5169" end="5177" />
+    <spannedText>generate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_520024" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2413" end="2435" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_540026" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6370" end="6378" />
+    <spannedText>generate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550030" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17566" end="17589" />
+    <spannedText>acyl-CoA dehydrogenases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550032" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19633" end="19655" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_570034" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29383" end="29405" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_570032" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8464" end="8472" />
+    <spannedText>degraded</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_580036" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10937" end="10941" />
+    <spannedText>loss</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_580040" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="13" end="35" />
+    <spannedText>Acyl-CoA Dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_590042" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="94" end="116" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_590044" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1023" end="1045" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_590046" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2346" end="2369" />
+    <spannedText>acyl-CoA dehydrogenases</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600043" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16282" end="16290" />
+    <spannedText>produced</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600045" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16843" end="16881" />
+    <spannedText>very long-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600048" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2413" end="2435" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600050" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9142" end="9176" />
+    <spannedText>short-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_600047" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16883" end="16888" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610049" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16883" end="16888" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610052" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16843" end="16881" />
+    <spannedText>very long-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610056" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19633" end="19655" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610058" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29383" end="29405" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610060" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29414" end="29448" />
+    <spannedText>short-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610062" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29483" end="29521" />
+    <spannedText>very long-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_610051" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16902" end="16907" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620053" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16902" end="16907" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620055" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16971" end="16976" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620057" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="16971" end="16976" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620061" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="17875" end="17880" />
+    <spannedText>dying</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620063" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18229" end="18237" />
+    <spannedText>ingested</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620066" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1113" end="1123" />
+    <spannedText>metabolism</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_620068" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19175" end="19200" />
+    <spannedText>long chain fat metabolism</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630066" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19130" end="19135" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630068" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19130" end="19135" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630070" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1293" end="1302" />
+    <spannedText>Metabolic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630072" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1367" end="1377" />
+    <spannedText>generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630074" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="190" end="212" />
+    <spannedText>fatty acid β-oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630076" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2128" end="2154" />
+    <spannedText>β-oxidation of fatty acids</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630080" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2631" end="2642" />
+    <spannedText>transcribed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630083" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2659" end="2669" />
+    <spannedText>translated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630086" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2690" end="2702" />
+    <spannedText>translocated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630089" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2800" end="2809" />
+    <spannedText>assembled</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630091" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3610" end="3613" />
+    <spannedText>die</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630093" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="3694" end="3703" />
+    <spannedText>metabolic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630112" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4434" end="4444" />
+    <spannedText>gap repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5409" end="5419" />
+    <spannedText>gap repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_630118" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22013" end="22023" />
+    <spannedText>gap repair</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640070" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19742" end="19746" />
+    <spannedText>LCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640072" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19742" end="19746" />
+    <spannedText>LCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640074" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19785" end="19790" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640076" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19785" end="19790" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640078" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19945" end="19949" />
+    <spannedText>LCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640080" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19945" end="19949" />
+    <spannedText>LCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640083" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20234" end="20239" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640085" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20234" end="20239" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640089" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20563" end="20575" />
+    <spannedText>Construction</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640091" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20790" end="20798" />
+    <spannedText>ligation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640093" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21433" end="21441" />
+    <spannedText>ligation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640095" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21578" end="21586" />
+    <spannedText>ligation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640097" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21708" end="21718" />
+    <spannedText>Generation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640100" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22614" end="22622" />
+    <spannedText>generate</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640102" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22706" end="22713" />
+    <spannedText>produce</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640106" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23212" end="23233" />
+    <spannedText>Reverse transcription</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640113" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25280" end="25288" />
+    <spannedText>Protease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640115" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25280" end="25288" />
+    <spannedText>Protease</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640117" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25280" end="25298" />
+    <spannedText>Protease Inhibitor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640119" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25280" end="25298" />
+    <spannedText>Protease Inhibitor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640123" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4490" end="4503" />
+    <spannedText>recombination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640125" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5436" end="5449" />
+    <spannedText>recombination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5812" end="5825" />
+    <spannedText>recombination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640131" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22178" end="22191" />
+    <spannedText>recombination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640133" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22523" end="22536" />
+    <spannedText>recombination</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650121" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25566" end="25575" />
+    <spannedText>denatured</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650123" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29483" end="29521" />
+    <spannedText>very long-chain acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650125" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29475" end="29480" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650127" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29475" end="29480" />
+    <spannedText>VLCAD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650147" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="5591" end="5599" />
+    <spannedText>digested</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650149" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20709" end="20717" />
+    <spannedText>digested</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650151" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21180" end="21188" />
+    <spannedText>digested</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650153" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21312" end="21320" />
+    <spannedText>digested</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650155" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21794" end="21803" />
+    <spannedText>digestion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650157" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22241" end="22249" />
+    <spannedText>digested</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650159" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6461" end="6468" />
+    <spannedText>produce</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650161" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7492" end="7494" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650164" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8259" end="8261" />
+    <spannedText>RT</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650177" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="7947" end="7954" />
+    <spannedText>spliced</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650180" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8291" end="8298" />
+    <spannedText>spliced</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650196" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10784" end="10788" />
+    <spannedText>born</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650199" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18485" end="18498" />
+    <spannedText>thermogenesis</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650202" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19991" end="20002" />
+    <spannedText>gestational</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650205" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="22330" end="22339" />
+    <spannedText>generated</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650207" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25164" end="25169" />
+    <spannedText>lysed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650210" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30024" end="30046" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_650212" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30024" end="30046" />
+    <spannedText>acyl-CoA dehydrogenase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27621" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="909" end="929" />
+    <spannedText>fatty acid oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27625" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="975" end="995" />
+    <spannedText>fatty acid oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27627" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1140" end="1160" />
+    <spannedText>fatty acid oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27629" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1442" end="1447" />
+    <spannedText>death</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27631" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2210" end="2230" />
+    <spannedText>Fatty acid oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27633" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2902" end="2922" />
+    <spannedText>fatty acid oxidation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27639" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4779" end="4790" />
+    <spannedText>Translation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27641" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4976" end="4987" />
+    <spannedText>translation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27643" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6985" end="6990" />
+    <spannedText>death</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27645" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9911" end="9929" />
+    <spannedText>electron transport</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27647" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="10682" end="10688" />
+    <spannedText>Deaths</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27649" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11298" end="11305" />
+    <spannedText>matings</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27651" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11329" end="11336" />
+    <spannedText>matings</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27653" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="11403" end="11410" />
+    <spannedText>matings</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27655" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19980" end="19986" />
+    <spannedText>deaths</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_27663" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29330" end="29348" />
+    <spannedText>electron transport</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_Instance_372540">
+    <mentionClass id="GO:0043412">biopolymer modification ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_590042">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370196">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370194">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_400002">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650210">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650207">
+    <mentionClass id="GO:0019835">cytolysis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650205">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650202">
+    <mentionClass id="GO:0007565">female pregnancy (gestation)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1485846">
+    <mentionClass id="GO:0000184">mRNA catabolic process, nonsense-mediated decay ({mRNA catabolism, nonsense-mediated, mRNA breakdown, nonsense-mediated decay, mRNA degradation, nonsense-mediated decay, nonsense-mediated mRNA decay, mRNA catabolic process, nonsense-mediated})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_590046">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1475413">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_590044">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650212">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610062">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_430004">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_460012">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372111">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372115">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370186">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372113">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370188">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372119">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370190">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372117">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370192">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372123">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_500016">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372121">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372127">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370181">
+    <mentionClass id="GO:0004095">carnitine O-palmitoyltransferase activity ({carnitine palmitoyltransferase activity, acylcarnitine transferase activity, outer malonyl-CoA inhibitable carnitine palmitoyltransferase activity, palmitoylcarnitine transferase activity, L-carnitine palmitoyltransferase activity, palmitoyl-CoA:L-carnitine O-palmitoyltransferase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372125">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_370183">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372133">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630115">
+    <mentionClass id="GO:0006287">base-excision repair, gap-filling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372135">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630118">
+    <mentionClass id="GO:0006287">base-excision repair, gap-filling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372129">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372131">
+    <mentionClass id="GO:0004085">butyryl-CoA dehydrogenase activity ({ethylene reductase activity, unsaturated acyl coenzyme A reductase activity, short-chain acyl-coenzyme A dehydrogenase activity, short-chain acyl CoA dehydrogenase activity, butanoyl-CoA:acceptor 2,3-oxidoreductase activity, butyryl dehydrogenase activity, butyryl coenzyme A dehydrogenase activity, butanoyl-CoA:(acceptor) 2,3-oxidoreductase activity, 3-hydroxyacyl CoA reductase activity, enoyl-coenzyme A reductase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_310000">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372137">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650121">
+    <mentionClass id="GO:0030164">protein denaturation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640127">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630076">
+    <mentionClass id="GO:0006635">fatty acid beta-oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373523">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_520020">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640125">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630080">
+    <mentionClass id="GO:0006350">transcription ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1483941">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_520022">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640123">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630083">
+    <mentionClass id="GO:0006412">translation ({protein synthesis, protein biosynthesis, protein translation, protein formation, protein anabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640119">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630086">
+    <mentionClass id="GO:0006810">transport ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_373525">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630089">
+    <mentionClass id="GO:0022607">cellular component assembly (cell structure assembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_570034">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477620">
+    <mentionClass id="GO:0000724">double-strand break repair via homologous recombination ({HRR, homologous recombinational repair})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630091">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_570032">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640133">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630093">
+    <mentionClass id="GO:0008152">metabolic process (metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_520024">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640131">
+    <mentionClass id="GO:0006310">DNA recombination ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630112">
+    <mentionClass id="GO:0006287">base-excision repair, gap-filling ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_440005">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650157">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_440006">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650159">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_510016">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650161">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630066">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650164">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650177">
+    <mentionClass id="GO:0008380">RNA splicing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630070">
+    <mentionClass id="GO:0008152">metabolic process (metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650180">
+    <mentionClass id="GO:0008380">RNA splicing ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630068">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650196">
+    <mentionClass id="GO:0007567">parturition (giving birth)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630074">
+    <mentionClass id="GO:0006635">fatty acid beta-oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650199">
+    <mentionClass id="GO:0002024">diet induced thermogenesis ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_630072">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_540026">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650123">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650125">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650127">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650147">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650149">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650151">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650153">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_650155">
+    <mentionClass id="GO:0009056">catabolic process ({degradation, breakdown, catabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640070">
+    <mentionClass id="GO:0004466">long-chain-acyl-CoA dehydrogenase activity ({long-chain-acyl-CoA:acceptor 2,3-oxidoreductase activity, palmitoyl-coenzyme A dehydrogenase activity, long-chain-acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl-coenzyme A dehydrogenase activity, palmitoyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27631">
+    <mentionClass id="GO:0019395">fatty acid oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27629">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640074">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27627">
+    <mentionClass id="GO:0019395">fatty acid oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640072">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27625">
+    <mentionClass id="GO:0019395">fatty acid oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27621">
+    <mentionClass id="GO:0019395">fatty acid oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27651">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27649">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27647">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27645">
+    <mentionClass id="GO:0006118">electron transport (electron transfer)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27643">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1484699">
+    <mentionClass id="GO:0006353">transcription termination (transcriptional complex disassembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27641">
+    <mentionClass id="GO:0006412">translation ({protein synthesis, protein biosynthesis, protein translation, protein formation, protein anabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27639">
+    <mentionClass id="GO:0006412">translation ({protein synthesis, protein biosynthesis, protein translation, protein formation, protein anabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1484691">
+    <mentionClass id="GO:0006415">translational termination ({translation termination, translational complex disassembly})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27633">
+    <mentionClass id="GO:0019395">fatty acid oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1484695">
+    <mentionClass id="GO:0006415">translational termination ({translation termination, translational complex disassembly})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640106">
+    <mentionClass id="GO:0006410">transcription, RNA-dependent (reverse transcription)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640113">
+    <mentionClass id="GO:0008233">peptidase activity ({hydrolase, acting on peptide bonds, protease activity, peptide hydrolase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640115">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_440008">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640117">
+    <mentionClass id="GO:0030414">protease inhibitor activity (peptidase inhibitor)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640095">
+    <mentionClass id="GO:0006266">DNA ligation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640097">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640100">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640102">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640085">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640089">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640091">
+    <mentionClass id="GO:0006266">DNA ligation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640093">
+    <mentionClass id="GO:0006266">DNA ligation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1485477">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640076">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640078">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640080">
+    <mentionClass id="GO:0004466">long-chain-acyl-CoA dehydrogenase activity ({long-chain-acyl-CoA:acceptor 2,3-oxidoreductase activity, palmitoyl-coenzyme A dehydrogenase activity, long-chain-acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl-coenzyme A dehydrogenase activity, palmitoyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_490014">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640083">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371600">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1478998">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_530023">
+    <mentionClass id="GO:0022607">cellular component assembly (cell structure assembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371598">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372838">
+    <mentionClass id="GO:0008910">kanamycin kinase activity ({neomycin-kanamycin phosphotransferase activity, ATP:kanamycin 3'-O-phosphotransferase activity, aminoglycoside 3'-phosphotransferase activity, kanamycin kinase (phosphorylating), neomycin phosphotransferase activity, APH(3') activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371604">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1485959">
+    <mentionClass id="GO:0006635">fatty acid beta-oxidation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372840">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371602">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371592">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479005">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371590">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371596">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479003">
+    <mentionClass id="GO:0003964">RNA-directed DNA polymerase activity ({DNA nucleotidyltransferase (RNA-directed) activity, reverse transcriptase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371594">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1479000">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_450007">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371608">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620061">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371606">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620063">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620066">
+    <mentionClass id="GO:0008152">metabolic process (metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371610">
+    <mentionClass id="GO:0033592">RNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620068">
+    <mentionClass id="GO:0001676">long-chain fatty acid metabolic process (long-chain fatty acid metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620053">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610049">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620057">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1484688">
+    <mentionClass id="GO:0006353">transcription termination (transcriptional complex disassembly)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550030">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610051">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_620055">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610052">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27653">
+    <mentionClass id="GO:0007618">mating ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_450010">
+    <mentionClass id="GO:0010467">gene expression ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610056">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27655">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_580036">
+    <mentionClass id="GO:0016265">death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610058">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_27663">
+    <mentionClass id="GO:0006118">electron transport (electron transfer)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_610060">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476493">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600045">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_420003">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600043">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_580040">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600048">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_371588">
+    <mentionClass id="GO:0000739">DNA strand annealing activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600047">
+    <mentionClass id="GO:0017099">very-long-chain-acyl-CoA dehydrogenase activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550032">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_600050">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_480014">
+    <mentionClass id="GO:0003995">acyl-CoA dehydrogenase activity ({acyl-CoA:(acceptor) 2,3-oxidoreductase activity, long-chain acyl coenzyme A dehydrogenase activity, acyl dehydrogenase activity, fatty acyl coenzyme A dehydrogenase activity, acyl-CoA:acceptor 2,3-oxidoreductase activity, acyl CoA dehydrogenase activity, medium-chain acyl-coenzyme A dehydrogenase activity, long-chain acyl-CoA dehydrogenase activity, acyl coenzyme A dehydrogenase activity, general acyl CoA dehydrogenase activity, fatty-acyl-CoA dehydrogenase activity})</mentionClass>
+  </classMention>
+</annotations>
+

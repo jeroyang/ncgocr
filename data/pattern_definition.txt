@@ -1,0 +1,36 @@
+# Manual definition of the patterns and their synonyms
+# Used in BioCreative IV GO track, Sep 2013
+# Modified in 2015, 2016
+# 
+# lemma:<snippet 1>;<snippet 2>;
+#
+# Snippet microlanguage
+# use ? as in the regular expression
+# use _ at the ending to represent a variable suffix
+#
+geneexpress:gene express_;express_
+activity:activity
+behaviorresponse:behaviou?r_; behaviou?r response
+bind:binded;binding;bind;binds;attach_;bound
+biosyntheprocess:biosynthe_;assemble;assembly;biogenesis process;anaboli_;biogenesis;biosynthe_;product_;synthe_;biosynthetic process
+catabolprocess:catabol_ process;catabolic activity;breakdown;catabol_;degradat_;digest_
+cellulrespons:cell response;cellular response
+celldifferentiate:cell differentiat_;cellular differentiat_;differentiat_
+develop:develop_;generate_;produce_;yield_;embryogen_;fetal develop_
+form:form;forms;format;formation;forming
+elevate:elevat_
+generate:generat_
+metabolprocess:metabol_ process;metabol_
+negatregulate:negative_ regulat_;down regulat_;inhibit_;suppress_;depress;down regulate_;modulate_ negatively;negativ_ control;negativ_ modulat_;repress_;supress_
+organize:organize;organise;organizing;organising
+pathway:pathway
+physiologprocess:physiologic_ process
+physiologrespons:physiologic_ response;react;reaction
+positregulate:positive_ regulat_;stimulat_;up regulat_;activate;activation;augment_;broaden;enhanc_;potentiat_;promot_
+regulate:biological regulation;regula_;modulat_;govern_
+response:reponse
+signalpathway:signal;signaling;signalling;signal_ transduct_;signal_ transduct_ pathway;signal_ transmiss_;signal_ cascade;signal_ chain;transduct_
+transmembrantransport:transmembran_ transport_
+transport:transport_;shuttl_;stream_;traffic_
+utilize:utiliz_
+process:process_

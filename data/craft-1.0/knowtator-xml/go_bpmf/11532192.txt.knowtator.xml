@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="11532192.txt">
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1474795" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29944" end="29954" />
+    <spannedText>production</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1475785" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="909" end="917" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1475787" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="909" end="917" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476168" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29771" end="29788" />
+    <spannedText>Diurnal variation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476172" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="14342" end="14359" />
+    <spannedText>diurnal variation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1476174" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21086" end="21101" />
+    <spannedText>diurnal changes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1477469" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34827" end="34831" />
+    <spannedText>bred</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1482676" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33253" end="33268" />
+    <spannedText>diurnal pattern</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_1485487" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20512" end="20517" />
+    <spannedText>arose</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_372048" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="6094" end="6100" />
+    <spannedText>passes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_374978" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="23917" end="23927" />
+    <spannedText>depression</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_550269" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31542" end="31553" />
+    <spannedText>controlling</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640030" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29272" end="29280" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_640032" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29272" end="29280" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_Instance_80112" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33739" end="33754" />
+    <spannedText>visual pathways</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36208" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="612" end="617" />
+    <spannedText>aging</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36212" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="692" end="706" />
+    <spannedText>diurnal rhythm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36215" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="807" end="825" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36217" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="807" end="825" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36221" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1340" end="1350" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36226" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1673" end="1683" />
+    <spannedText>regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36233" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1878" end="1888" />
+    <spannedText>cell death</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36254" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19552" end="19570" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36256" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19552" end="19570" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36260" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19997" end="20005" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36263" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19997" end="20005" />
+    <spannedText>receptor</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36279" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="25770" end="25785" />
+    <spannedText>drug metabolism</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36286" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="26319" end="26329" />
+    <spannedText>blood flow</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36301" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29885" end="29899" />
+    <spannedText>diurnal rhythm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36308" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31012" end="31032" />
+    <spannedText>circadian regulation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36313" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31323" end="31337" />
+    <spannedText>diurnal rhythm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36324" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31554" end="31569" />
+    <spannedText>diurnal rhythms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36329" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31664" end="31673" />
+    <spannedText>formation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36334" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31705" end="31714" />
+    <spannedText>secretion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36337" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31746" end="31764" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36339" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31746" end="31764" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36341" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31766" end="31768" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36343" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31766" end="31768" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36345" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31787" end="31796" />
+    <spannedText>secretion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36347" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31826" end="31828" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36349" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="31826" end="31828" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36353" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32214" end="32223" />
+    <spannedText>secretion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36358" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32298" end="32307" />
+    <spannedText>secretion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36370" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32493" end="32495" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36372" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32493" end="32495" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36376" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32545" end="32554" />
+    <spannedText>secretion</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36386" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="32651" end="32677" />
+    <spannedText>pigment production pathway</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36399" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33417" end="33432" />
+    <spannedText>diurnal rhythms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36404" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33523" end="33537" />
+    <spannedText>diurnal rhythm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36407" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33700" end="33715" />
+    <spannedText>Diurnal rhythms</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36414" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33762" end="33769" />
+    <spannedText>respond</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36416" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33843" end="33862" />
+    <spannedText>diurnal fluctuation</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36420" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="33968" end="33982" />
+    <spannedText>diurnal rhythm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36430" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34181" end="34195" />
+    <spannedText>diurnal rhythm</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36439" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="34796" end="34802" />
+    <spannedText>vision</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36443" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35002" end="35005" />
+    <spannedText>fed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36445" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35254" end="35259" />
+    <spannedText>aging</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36447" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="35276" end="35279" />
+    <spannedText>fed</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36449" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="36584" end="36589" />
+    <spannedText>aging</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36462" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="39854" end="39872" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36464" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="39854" end="39872" />
+    <spannedText>carbonic anhydrase</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36466" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="39874" end="39876" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="GO_BP+MF_new_Instance_36468" />
+    <annotator id="GO_BP+MF_Instance_140000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="39874" end="39876" />
+    <spannedText>CA</spannedText>
+  </annotation>
+  <classMention id="GO_BP+MF_Instance_80112">
+    <mentionClass id="GO:0007601">visual perception ({vision, sense of sight, sensory visual perception})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1477469">
+    <mentionClass id="GO:0000003">reproduction (reproductive physiological process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36208">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_372048">
+    <mentionClass id="GO:0051234">establishment of localization ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36221">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36217">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36215">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1474795">
+    <mentionClass id="GO:0032502">developmental process ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36212">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36256">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36254">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36233">
+    <mentionClass id="GO:0008219">cell death ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1475785">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36226">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1475787">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36286">
+    <mentionClass id="GO:0008015">blood circulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36279">
+    <mentionClass id="GO:0017144">drug metabolic process (drug metabolism)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36263">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36260">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36324">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1482676">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36313">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36308">
+    <mentionClass id="GO:0042752">regulation of circadian rhythm ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36301">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36341">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36343">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36345">
+    <mentionClass id="GO:0046903">secretion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36347">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36329">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1485487">
+    <mentionClass id="GO:0009058">biosynthetic process ({anabolism, synthesis, biosynthesis, formation})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36334">
+    <mentionClass id="GO:0046903">secretion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36337">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36339">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_550269">
+    <mentionClass id="GO:0065007">biological regulation ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36372">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36376">
+    <mentionClass id="GO:0046903">secretion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36386">
+    <mentionClass id="GO:0046148">pigment biosynthetic process ({pigment synthesis, pigment biosynthesis, pigment formation, pigment anabolism})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36399">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36349">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36353">
+    <mentionClass id="GO:0046903">secretion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36358">
+    <mentionClass id="GO:0046903">secretion ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36370">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36430">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36420">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36443">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640032">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476172">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36439">
+    <mentionClass id="GO:0007601">visual perception ({vision, sense of sight, sensory visual perception})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476168">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36407">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_1476174">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_640030">
+    <mentionClass id="GO:0004872">receptor activity ()</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36404">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36416">
+    <mentionClass id="GO:0007623">circadian rhythm (circadian process)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36414">
+    <mentionClass id="GO:0050896">response to stimulus (physiological response to stimulus)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36466">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36464">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36468">
+    <mentionClass id="GO:0004089">carbonate dehydratase activity ({anhydrase activity, carbonic anhydrase activity, carbonate anhydrase activity, carboxyanhydrase activity, carbonic dehydratase activity, carbonate hydro-lyase (carbon-dioxide-forming), carbonic acid anhydrase activity, carbonate hydro-lyase activity})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36447">
+    <mentionClass id="GO:0007631">feeding behavior ({behavioural response to food, feeding behaviour, behavioral response to food})</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36445">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36462">
+    <mentionClass id="independent_continuant">independent_continuant</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_new_Instance_36449">
+    <mentionClass id="GO:0007568">aging (ageing)</mentionClass>
+  </classMention>
+  <classMention id="GO_BP+MF_Instance_374978">
+    <mentionClass id="GO:0048519">negative regulation of biological process ({down-regulation of biological process, negative regulation of physiological process, downregulation of biological process, down regulation of biological process})</mentionClass>
+  </classMention>
+</annotations>
+

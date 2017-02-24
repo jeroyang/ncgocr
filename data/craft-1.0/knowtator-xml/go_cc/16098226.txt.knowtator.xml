@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="16098226.txt">
+  <annotation>
+    <mention id="cellular_component_Instance_0" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20435" end="20438" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_100028" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20567" end="20575" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110033" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20637" end="20644" />
+    <spannedText>complex</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110040" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20671" end="20677" />
+    <spannedText>myosin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110047" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20710" end="20713" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110060" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20756" end="20762" />
+    <spannedText>dynein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110086" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21014" end="21035" />
+    <spannedText>post-synaptic density</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110101" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21184" end="21191" />
+    <spannedText>nuclear</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110107" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21298" end="21305" />
+    <spannedText>nuclear</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110110" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21310" end="21321" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110119" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21543" end="21546" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110132" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21713" end="21716" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110141" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21758" end="21769" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110147" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21780" end="21787" />
+    <spannedText>nuclear</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110153" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21844" end="21851" />
+    <spannedText>nuclear</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110159" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21856" end="21867" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110165" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21884" end="21895" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110171" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21959" end="21966" />
+    <spannedText>nuclear</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110177" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="24869" end="24877" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110189" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30934" end="30937" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_110192" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30939" end="30960" />
+    <spannedText>post-synaptic density</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_150607" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="886" end="907" />
+    <spannedText>post-synaptic density</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_150610" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="909" end="912" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_150622" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="934" end="940" />
+    <spannedText>dynein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_150631" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="1310" end="1318" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_120000" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4048" end="4054" />
+    <spannedText>axonal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160006" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8964" end="8970" />
+    <spannedText>Dynein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160015" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="8971" end="8982" />
+    <spannedText>cytoplasmic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160021" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9506" end="9527" />
+    <spannedText>post-synaptic density</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160024" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9529" end="9532" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160033" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9511" end="9519" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160041" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9600" end="9606" />
+    <spannedText>dynein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160053" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9611" end="9617" />
+    <spannedText>myosin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160084" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18868" end="18876" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160103" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18969" end="18972" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160110" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18559" end="18562" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160125" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19165" end="19171" />
+    <spannedText>dynein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160134" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19176" end="19182" />
+    <spannedText>myosin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160143" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19192" end="19198" />
+    <spannedText>Dynein</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160152" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19203" end="19209" />
+    <spannedText>myosin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160161" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19233" end="19244" />
+    <spannedText>microtubule</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160174" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19346" end="19352" />
+    <spannedText>Myosin</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160183" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19375" end="19378" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_160190" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19417" end="19420" />
+    <spannedText>PSD</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184922" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="4191" end="4195" />
+    <spannedText>cell</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184924" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="28518" end="28523" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_184926" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="29031" end="29036" />
+    <spannedText>cells</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_20007" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20052" end="20063" />
+    <spannedText>proteasomal</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_270583" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="891" end="899" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_270590" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21019" end="21027" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_270594" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="30944" end="30952" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_Instance_90016" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20337" end="20345" />
+    <spannedText>synaptic</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27776" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="2357" end="2361" />
+    <spannedText>axon</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27778" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9581" end="9598" />
+    <spannedText>protein complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27780" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9652" end="9665" />
+    <spannedText>intracellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27782" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="9694" end="9704" />
+    <spannedText>organelles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27784" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18714" end="18727" />
+    <spannedText>intracellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27786" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="18728" end="18736" />
+    <spannedText>vesicles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27788" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19050" end="19054" />
+    <spannedText>axon</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27790" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19122" end="19135" />
+    <spannedText>intracellular</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27792" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19146" end="19163" />
+    <spannedText>protein complexes</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27794" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19302" end="19312" />
+    <spannedText>organelles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27796" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="19317" end="19325" />
+    <spannedText>vesicles</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27798" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20725" end="20743" />
+    <spannedText>actin cytoskeleton</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27800" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20792" end="20803" />
+    <spannedText>microtubule</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27802" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="20837" end="20844" />
+    <spannedText>nucleus</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27804" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21096" end="21103" />
+    <spannedText>synapse</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27806" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21112" end="21119" />
+    <spannedText>nucleus</spannedText>
+  </annotation>
+  <annotation>
+    <mention id="cellular_component_new_Instance_27808" />
+    <annotator id="cellular_component_Instance_130000">CCP Colorado Computational Pharmacology</annotator>
+    <span start="21725" end="21734" />
+    <spannedText>cytoplasm</spannedText>
+  </annotation>
+  <classMention id="cellular_component_Instance_150631">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_150622">
+    <mentionClass id="GO:0030286">dynein complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_150630" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_150630">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27776">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160006">
+    <mentionClass id="GO:0030286">dynein complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160014" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160014">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_160021">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160015">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27778">
+    <mentionClass id="GO:0043234">protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51305" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51305">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27780">
+    <mentionClass id="GO:0005622">intracellular</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_150610">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_150607">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27794">
+    <mentionClass id="GO:0043226">organelle</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110153">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160125">
+    <mentionClass id="GO:0030286">dynein complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160133" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160133">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110159">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_20007">
+    <mentionClass id="GO:0000502">proteasome complex (sensu Eukaryota)</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_90015" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_90015">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27792">
+    <mentionClass id="GO:0043234">protein complex</mentionClass>
+    <hasSlotMention id="cellular_component_new_Instance_51306" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_new_Instance_51306">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_160134">
+    <mentionClass id="GO:0016459">myosin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160142" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160142">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110141">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27790">
+    <mentionClass id="GO:0005622">intracellular</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110147">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160143">
+    <mentionClass id="GO:0030286">dynein complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160151" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160151">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27788">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110177">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27786">
+    <mentionClass id="GO:0031982">vesicle</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160152">
+    <mentionClass id="GO:0016459">myosin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160160" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160160">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110189">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27784">
+    <mentionClass id="GO:0005622">intracellular</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110165">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160161">
+    <mentionClass id="GO:0005874">microtubule</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27782">
+    <mentionClass id="GO:0043226">organelle</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110171">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160174">
+    <mentionClass id="GO:0016459">myosin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160182" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160182">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_160024">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27808">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160033">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27806">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110192">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160041">
+    <mentionClass id="GO:0030286">dynein complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_160049" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_160049">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27804">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27802">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160053">
+    <mentionClass id="GO:0016459">myosin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_360077" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_360077">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_new_Instance_27800">
+    <mentionClass id="GO:0005874">microtubule</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160084">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27798">
+    <mentionClass id="GO:0015629">actin cytoskeleton</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_120000">
+    <mentionClass id="GO:0030424">axon</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160103">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_new_Instance_27796">
+    <mentionClass id="GO:0031982">vesicle</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160110">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110033">
+    <mentionClass id="GO:0032991">macromolecular complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_220088" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_220088">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110047">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110040">
+    <mentionClass id="GO:0016459">myosin complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_110054" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_110054">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110060">
+    <mentionClass id="GO:0030286">dynein complex</mentionClass>
+    <hasSlotMention id="cellular_component_Instance_110068" />
+  </classMention>
+  <booleanSlotMention id="cellular_component_Instance_110068">
+    <mentionSlot id="macromolecular complex or protein ambiguity" />
+    <booleanSlotMentionValue value="false" />
+  </booleanSlotMention>
+  <classMention id="cellular_component_Instance_110101">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110086">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110110">
+    <mentionClass id="GO:0005737">cytoplasm</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110107">
+    <mentionClass id="GO:0005634">nucleus</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160190">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110132">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_160183">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_270583">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_110119">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_0">
+    <mentionClass id="GO:0014069">postsynaptic density</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_270590">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_270594">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_100028">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_90016">
+    <mentionClass id="GO:0045202">synapse</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184926">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184922">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+  <classMention id="cellular_component_Instance_184924">
+    <mentionClass id="GO:0005623">cell</mentionClass>
+  </classMention>
+</annotations>
+
