@@ -292,7 +292,7 @@ def sim(cluster1, cluster2):
         
         
 class GoData(dict):
-    def __init__(self, obo_path, pattern_regex=pattern_regex):
+    def __init__(self, obo_path):
         self._regex_in = pattern_regex.regex_in
         self._regex_out = pattern_regex.regex_out
         self._date = None
