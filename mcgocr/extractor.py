@@ -11,8 +11,6 @@ from acora import AcoraBuilder
 
 from mcgocr.concept import Entity, Pattern, Constraint, Evidence
 
-
-
 Grounds = namedtuple('Grounds', 'evidences sentence')
 
 def _fit_border(text, span):
@@ -144,7 +142,7 @@ def only_has_pattern(statement):
     
 class CandidateReconizer(object):
     def __init__(self, godata):
-        stat_index = extractor.Index()
+        stat_index = Index()
         for goid, concept in godata.items():
             for statement in concept.statements:
                 for term in statement.terms():
@@ -184,13 +182,13 @@ class CandidateReconizer(object):
 
 class CandidateExtractor(object):
     def __init__(self, godata):
-        term_index = extractor.Index()
+        term_index = Index()
         for cluster in godata.clusterbook.clusters:
             for term in cluster.terms:
                 term_index[term.lemma].add(cluster.primary_term)
         self.term_index = term_index
         
-        regex_out = self.godata._regex_out
+        regex_out = godata._regex_out
         solid_extractor = SolidExtractor(term_index)
         soft_extractor = SoftExtractor(regex_out)
         self.extractor = JoinExtractor([solid_extractor, soft_extractor])
