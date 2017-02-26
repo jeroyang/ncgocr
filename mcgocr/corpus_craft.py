@@ -47,6 +47,7 @@ class Craft(object):
         self.local_path = local_path
         self.tarball_path = os.path.join(self.local_path, self.filename)
         self.craft_path = os.path.join(self.local_path, 'craft-'+version)
+        self.go_path = os.path.join(self.craft_path, 'ontologies', 'GO.obo')
     
     def download(self):
         pbar = ProgressBar()
