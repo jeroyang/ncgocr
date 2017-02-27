@@ -32,8 +32,8 @@ def evidence_measurements(candidate):
     TEXT[:3], TEXT[-3:] from the given candidate
     """
     evidences = candidate.evidences
-    sentence_text = candidate.grounds.sentence.text
-    offset = candidate.grounds.sentence.offset
+    sentence_text = candidate.sentence.text
+    offset = candidate.sentence.offset
     starts = [e.start for e in evidences]
     ends = [e.end for e in evidences]
     raw_start = min(starts) -  offset
@@ -68,7 +68,6 @@ def all_measurements(candidate, godata):
     measurements.update(evidence_measurements(candidate))
     measurements.update(bias_measurements(candidate))
     return measurements
-
 
 
 
