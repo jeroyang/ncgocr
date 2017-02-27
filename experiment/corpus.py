@@ -13,7 +13,7 @@ from txttk.nlptools import sent_tokenize, count_start
 
 Sentence = namedtuple('Sentence', 'text offset docid')
 Grounds = namedtuple('Grounds', 'evidences sentence')
-Candidate = namedtuple('Candidate', 'statement evidences')
+Candidate = namedtuple('Candidate', 'statement evidences sentence')
 
 class Bag(set):
     def __init__(self, iterable=[]):
