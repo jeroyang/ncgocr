@@ -180,8 +180,8 @@ class CandidateReconizer(object):
                 result_candidates.append(candidate)
         return result_candidates
 
-class CandidateExtractor(object):
-    def __init__(self, godata):
+class CandidateFinder(object):
+    def __init__(self, godata, auxiliary_extractor=None):
         term_index = Index()
         for cluster in godata.clusterbook.clusters:
             for term in cluster.terms:
@@ -191,7 +191,13 @@ class CandidateExtractor(object):
         regex_out = godata._regex_out
         solid_extractor = SolidExtractor(term_index)
         soft_extractor = SoftExtractor(regex_out)
-        self.extractor = JoinExtractor([solid_extractor, soft_extractor])
+        if auxiliary_extractor is not None:
+            self.extractor = JoinExtractor([solid_extractor, 
+                                            soft_extractor, 
+                                            auxiliary_extractor])
+        else:
+            self.extractor = JoinExtractor([solid_extractor, 
+                                            soft_extractor])
         self.recognizer = CandidateReconizer(godata)
         
     def extract(self, sentence):
