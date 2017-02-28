@@ -13,8 +13,22 @@ from txttk.nlptools import sent_tokenize, count_start
 
 Sentence = namedtuple('Sentence', 'text offset docid')
 Grounds = namedtuple('Grounds', 'evidences sentence')
-Candidate = namedtuple('Candidate', 'statement evidences sentence')
 
+class Candidate(object):
+    def __init__(self, statement, evidences, sentence):
+        self.statement = statement
+        self.evidences = evidences
+        self.sentence = sentence
+        self.label = None
+        self.pred_label = None
+        
+    def __repr__(self):
+        template = '{}<{} evidences={} sentence={}>'
+        return template.format(self.__class__.__name__,
+                               self.statement.statid, 
+                               self.evidences,
+                               self.sentence)
+        
 class Bag(set):
     def __init__(self, iterable=[]):
         self |= set(iterable)
