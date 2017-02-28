@@ -10,4 +10,8 @@ __author__ = 'Chia-Jung, Yang'
 __email__ = 'jeroyang@gmail.com'
 __version__ = '0.1.0'
 
-#from mcgocr.mcgocr import *
+from mcgocr.concept import *
+from mcgocr.corpus_craft import *
+from mcgocr.extractor import *
+from mcgocr.learning import *
+from mcgocr.pattern_regex import *
