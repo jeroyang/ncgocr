@@ -75,7 +75,7 @@ class Corpus(list):
             sent_toker = sent_tokenize
         sent_toker = count_start(sent_toker)
         offset_text = sent_toker(text, 0)
-        for offset, text in offset_text:
+        for text, offset in offset_text:
             corpus.append(Sentence(text, offset, docid))
         return corpus
     
