@@ -63,12 +63,11 @@ class TestFeatureExtract(unittest.TestCase):
     def test_bias_measurements(self):
         
         result = learning.bias_measurements(self.c0)
-        wanted = OrderedDict([('OMIT', []),
-                              ('SATURATION', 1.0)])
+        wanted = OrderedDict([('SATURATION', 1.0)])
         self.assertEqual(result, wanted)
         
         result = learning.bias_measurements(self.c1)
-        wanted = OrderedDict([('OMIT', ['pattern']),
+        wanted = OrderedDict([('OMIT=pattern', True),
                               ('SATURATION', 0.5)])
         self.assertEqual(result, wanted)
         
