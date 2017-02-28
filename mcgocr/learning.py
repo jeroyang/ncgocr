@@ -5,12 +5,7 @@ from __future__ import (absolute_import, division,
                         print_function, unicode_literals)
 from builtins import *
 
-from collections import OrderedDict, defaultdict
-
-try:
-    from collections import ChainMap
-except ImportError:
-    from chainmap import ChainMap
+from collections import OrderedDict, defaultdict, ChainMap
 
 from intervaltree import Interval, IntervalTree
 
