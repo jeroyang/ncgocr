@@ -8,8 +8,10 @@ from collections import defaultdict, namedtuple
 import re
 
 from acora import AcoraBuilder
+from copy import copy
 
 from mcgocr.concept import Entity, Pattern, Constraint, Evidence
+from experiment.corpus import Candidate
 
 Grounds = namedtuple('Grounds', 'evidences sentence')
 
@@ -27,9 +29,10 @@ class Index(dict):
         self.use_default = True
         
     def __add__(self, other):
+        result = copy(self)
         for key, value_set in other.items():
-            self[key] |= value_set
-        return self
+            result[key] |= value_set
+        return result
     
     def __repr__(self):
         template = '{}<{} key(s)>'
@@ -176,7 +179,7 @@ class CandidateReconizer(object):
             for statement in statements:
                 wanted_terms = statement.terms()
                 found_evidences = nearest_evidences(position, wanted_terms, position_index)
-                candidate = Candidate(statement, found_evidences)
+                candidate = Candidate(statement, found_evidences, grounds.sentence)
                 result_candidates.append(candidate)
         return result_candidates
 
@@ -200,9 +203,16 @@ class CandidateFinder(object):
                                             soft_extractor])
         self.recognizer = CandidateReconizer(godata)
         
-    def extract(self, sentence):
+    def findall(self, sentence):
         grounds = self.extractor.to_grounds(sentence)
         candidates = self.recognizer.generate(grounds)
         return candidates
+        
+    def bulk_findall(self, corpus):
+        result = []
+        for sentence in corpus:
+            result.extend(self.findall(sentence))
+        return result
+
         
         
