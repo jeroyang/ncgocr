@@ -30,20 +30,6 @@ class Report(object):
         syntax = 'Report<R{r:.2%} P{p:.2%} F{f:.2%} {m!r}>'
         return syntax.format(r=r, p=p, f=f, m=self.message)
     
-def evaluate(system, goldstandard, message):
-    slim_system = {i[:4] for i in system}
-    slim_goldstandard = {i[:4] for i in goldstandard}
-    slim2gold = ChainMap({i[:4]: i for i in goldstandard}, 
-                         {i[:4]: i for i in system})
-    slim_tp = slim_system & slim_goldstandard
-    slim_fp = slim_system - slim_goldstandard
-    slim_fn = slim_goldstandard - slim_system
-    tp = {slim2gold[i] for i in slim_tp}
-    fp = {slim2gold[i] for i in slim_fp}
-    fn = {slim2gold[i] for i in slim_fn}
-    return Report(tp, fp, fn, message)
-    
-    
 class MetaReport(object):
     def __init__(self, message, reports=None):
         self.message = message

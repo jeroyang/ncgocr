@@ -7,8 +7,14 @@ from builtins import *
 
 from collections import OrderedDict, defaultdict
 
+try:
+    from collections import ChainMap
+except ImportError:
+    from chainmap import ChainMap
+
 from intervaltree import Interval, IntervalTree
 
+from experiment.report import Report
 """
 The measurements of features
 """
@@ -55,7 +61,11 @@ def bias_measurements(candidate):
     statement = candidate.statement
     evidences = candidate.evidences
     terms_in_evidences = set([e.term for e in evidences])
-    measurements['OMIT'] = [term.lemma for term in statement.terms() if term not in terms_in_evidences]
+    for term in statement.terms():
+        if term in terms_in_evidences:
+            continue
+        key = 'OMIT=' + term.lemma
+        measurements[key] = True
     measurements['SATURATION'] = len(evidences) / len(statement.evidences)
     return measurements
     
@@ -64,11 +74,16 @@ def all_measurements(candidate, godata):
     Return all the measurements from the given candidate
     """
     measurements = OrderedDict()
-    measurements.update(concept_measurements(candidate))
+    measurements.update(concept_measurements(candidate, godata))
     measurements.update(evidence_measurements(candidate))
     measurements.update(bias_measurements(candidate))
     return measurements
 
+def bulk_measurements(candidates, godata):
+    result = []
+    for candidate in candidates:
+        result.append(all_measurements(candidate, godata))
+    return result
 
 
 class LabelMarker(object):
@@ -84,6 +99,7 @@ class LabelMarker(object):
         self.forest = dict(forest)
         
     def mark(self, candidate):
+        pmid = candidate.sentence.docid
         statid = candidate.statement.statid
         evidences = candidate.evidences
         goid = statid.partition('%')[0]
@@ -92,7 +108,7 @@ class LabelMarker(object):
         start = min(starts)
         end = max(ends)
         span = (start, end)
-        gold_goids = {iv.data[0] for iv in forest[pmid][slice(*span)]}
+        gold_goids = {iv.data[0] for iv in self.forest[pmid][slice(*span)]}
         if goid in gold_goids:
             return 1
         return 0
@@ -100,5 +116,36 @@ class LabelMarker(object):
     def markall(self, candidates):
         labels = []
         for candidate in candidates:
-            result.append(self.check(candidate))
+            labels.append(self.mark(candidate))
         return labels
+        
+def recover(candidates, y):
+    result = []
+    for candidate, label in zip(candidates, y):
+        if label == 0:
+            continue
+        pmid = candidate.sentence.docid
+        statid = candidate.statement.statid
+        goid = statid.partition('%')[0]
+        start = min([e.start for e in candidate.evidences])
+        end = max([e.end for e in candidate.evidences])
+        raw_start = start - candidate.sentence.offset
+        raw_end = end - candidate.sentence.offset
+        text = candidate.sentence.text[raw_start:raw_end]
+        result.append((pmid, goid, start, end, text))
+    return result
+    
+    
+def evaluate(system, goldstandard, message):
+    slim_system = {i[:4] for i in system}
+    slim_goldstandard = {i[:4] for i in goldstandard}
+    slim2gold = ChainMap({i[:4]: i for i in goldstandard}, 
+                         {i[:4]: i for i in system})
+    slim_tp = slim_system & slim_goldstandard
+    slim_fp = slim_system - slim_goldstandard
+    slim_fn = slim_goldstandard - slim_system
+    tp = {slim2gold[i] for i in slim_tp}
+    fp = {slim2gold[i] for i in slim_fp}
+    fn = {slim2gold[i] for i in slim_fn}
+    return Report(tp, fp, fn, message)
+    
