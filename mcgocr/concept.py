@@ -22,7 +22,22 @@ from mcgocr import pattern_regex
 
 
 Trunk = namedtuple('Trunk', 'text type start end')
-Term = namedtuple('Term', 'lemma ref')
+
+class Term(namedtuple('Term', 'lemma ref')):
+    
+    def __repr__(self):
+        template = self.__class__.__name__ + '<{} {}>'
+        return template.format(self.lemma, self.ref)
+        
+    def __hash__(self):
+        return hash(self.__class__.__name__) + hash(self.lemma) + hash(self.ref)
+    
+    def __eq__(self, other):
+        if all([hash(self) == hash(other), 
+                self.lemma == other.lemma,
+                self.ref == other.ref]):
+            return True
+        return False
             
 class Entity(Term):
     pass
@@ -56,6 +71,11 @@ class Statement(namedtuple('Statement', 'statid evidences')):
     def __hash__(self):
         return hash('statement:' + self.statid)
     
+    def __repr__(self):
+        template = 'Statement<{} {}>'
+        components = [repr(term) for term in self.terms()]
+        return template.format(self.statid, ' '.join(components))
+    
     def terms(self):
         return [evidence.term for evidence in self.evidences]
         
@@ -81,7 +101,7 @@ def _clean(entity_frag):
     Clean the given trunk (text contains entity and pattern)
     by removal of the leading and tailing puncutions and stopwords
     """
-    stopwords = '(of|in|to|and|or|the)'
+    stopwords = '(of|in|to|and|or|the|a)'
     head_regex = r'^\s*{}\b'.format(stopwords)
     tail_regex = r'\b{}\s*$'.format(stopwords)
     joined_regex = r'|'.join([head_regex, tail_regex])
@@ -95,8 +115,8 @@ def split_trunk(label):
     TODO: split trunks correctly if there are more than two trunks
     """
     regex_list = [
-        r'^(?P<main_trunk>.*?),?\s*\b(?:involved in|during|via|using|by|acting on|from|in)\s(?P<constraint_trunk>.*)$',
-        r'^(?P<main_trunk>.*?),\s*\b(?P<constraint_trunk>.*)[\ \-](?:related|dependent)$']
+        r'^(?P<main_trunk>.+?),?\s*\b(?:involved in|during|via|using|by|acting on|from|in)\s(?P<constraint_trunk>.*)$',
+        r'^(?P<main_trunk>.+?),\s*\b(?P<constraint_trunk>.*)[\ \-](?:related|dependent)$']
     
     for regex in regex_list:
         m = re.match(regex, label)
@@ -273,8 +293,8 @@ class ClusterBook(object):
         
         
 def has_common(cluster1, cluster2):
-    set1 = set([t.lemma for t in cluster1.terms])
-    set2 = set([t.lemma for t in cluster2.terms])
+    set1 = set([(t.__class__, t.lemma) for t in cluster1.terms])
+    set2 = set([(t.__class__, t.lemma) for t in cluster2.terms])
     if len(set1 & set2) == 0:
         return False
     return True
