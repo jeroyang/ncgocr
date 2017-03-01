@@ -28,6 +28,14 @@ class Candidate(object):
                                self.statement.statid, 
                                self.evidences,
                                self.sentence)
+                               
+    def __hash__(self):
+        return hash(repr(self))
+        
+    def __eq__(self, other):
+        if hash(self) == hash(other):
+            return True
+        return False
         
 class Bag(set):
     def __init__(self, iterable=[]):
@@ -81,6 +89,10 @@ class Corpus(list):
             i2corpus[goto].append(sentence)
         
         return list(i2corpus.values())
+        
+    def join(self, corpora):
+        for corpus in corpora:
+            self.extend(corpus)
         
     @classmethod
     def from_text(cls, text, docid, sent_toker=None):
