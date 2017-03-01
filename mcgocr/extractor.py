@@ -67,16 +67,7 @@ class SolidExtractor(object):
                 raw_end = raw_start + len(text)
                 end = start + len(text)
                 if _fit_border(sentence.text, (raw_start, raw_end)):
-                    if isinstance(primary_term, Entity):
-                        Class_ = Entity
-                    elif isinstance(primary_term, Constraint):
-                        Class_ = Constraint
-                    else:
-                        continue
-                    lemma = primary_term.lemma
-                    ref = primary_term.ref
-                    term = Class_(lemma, ref)
-                    evidence = Evidence(term, text, start, end)
+                    evidence = Evidence(primary_term, text, start, end)
                     result.append(evidence)
         return result
     
@@ -138,8 +129,13 @@ def nearest_evidences(current_position, wanted_terms, position_index):
             found_evidences.sort()
     return found_evidences
 
-def only_has_pattern(statement):
+"""def only_has_pattern(statement):
     if all([isinstance(term, Pattern) for term in statement.terms()]):
+        return True
+    return False"""
+
+def has_entity(statement):
+    if any([isinstance(term, Entity) for term in statement.terms()]):
         return True
     return False
     
@@ -149,12 +145,11 @@ class CandidateReconizer(object):
         for goid, concept in godata.items():
             for statement in concept.statements:
                 for term in statement.terms():
-                    if isinstance(term, Entity):
+                    if has_entity(statement) and isinstance(term, Entity):
                         stat_index[term].add(statement)
-                    elif isinstance(term, Constraint):
+                    elif not has_entity(statement):
                         stat_index[term].add(statement)
-                    elif only_has_pattern(statement):
-                        stat_index[term].add(statement)
+            
         stat_index.use_default = False
         self.stat_index = stat_index
     
