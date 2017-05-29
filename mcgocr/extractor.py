@@ -24,7 +24,6 @@ def _fit_border(text, span):
                 judge(right_border)])
                 
 class Index(dict):
-    
     def __init__(self):
         self.use_default = True
         
@@ -44,6 +43,12 @@ class Index(dict):
             return self[key]
         else:
             return set()
+    @classmethod
+    def join(cls, indices):
+        output = cls()
+        for index in indices:
+            output += index
+        return output
             
             
 class SolidExtractor(object):
