@@ -65,7 +65,6 @@ class Craft(object):
         with tarfile.open(self.tarball_path, 'r:gz') as tar:
             tar.extractall(path=self.local_path,
                            members=wanted_members(tar))
-    
             
     def get_corpus(self):
         txtdir = os.path.join(self.craft_path, 'articles', 'txt')
