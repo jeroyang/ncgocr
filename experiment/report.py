@@ -13,21 +13,21 @@ class Report(object):
         self.message = message
     
     def recall(self):
-        return len(self.tp) / len(self.tp | self.fn)
+        return float(len(self.tp)) / len(self.tp | self.fn)
     
     def precision(self):
-        return len(self.tp) / len(self.tp | self.fp)
+        return float(len(self.tp)) / len(self.tp | self.fp)
     
     def f1(self):
         r = self.recall()
         p = self.precision()
-        return 2 * r * p / (r + p)
+        return float(2 * r * p) / (r + p)
     
     def __repr__(self):
         r = self.recall()
         p = self.precision()
         f = self.f1()
-        syntax = 'Report<R{r:.2%} P{p:.2%} F{f:.2%} {m!r}>'
+        syntax = 'Report<P{p:.3f} R{r:.3f} F{f:.3f} {m!r}>'
         return syntax.format(r=r, p=p, f=f, m=self.message)
     
 class MetaReport(object):
@@ -41,10 +41,9 @@ class MetaReport(object):
     def __repr__(self):
         r = self.recall()
         p = self.precision()
-        mif = self.mif1()
-        maf = self.maf1()
-        syntax = 'MetaReport<R{r:.2%} P{p:.2%} mF{mif:.2%} MF{maf:.2%} {m!r}>'
-        return syntax.format(r=r, p=p, mif=mif, maf=maf, m=self.message)
+        f = self.f_measure()
+        syntax = 'MetaReport<P{p:.3f} R{r:.3f} F{f:.3f} {m!r}>'
+        return syntax.format(r=r, p=p, f=f, m=self.message)
     
     def recall(self):
         return sum([report.recall() for report in self.reports]) / len(self.reports)
@@ -52,11 +51,6 @@ class MetaReport(object):
     def precision(self):
         return sum([report.precision() for report in self.reports]) / len(self.reports)
     
-    def mif1(self):
+    def f_measure(self):
         return sum([report.f1() for report in self.reports]) / len(self.reports)
-    
-    def maf1(self):
-        r = self.recall()
-        p = self.precision()
-        return 2 * r * p / (r + p)
     
