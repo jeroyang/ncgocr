@@ -89,10 +89,13 @@ class Corpus(list):
             i2corpus[goto].append(sentence)
         
         return list(i2corpus.values())
-        
-    def join(self, corpora):
+    
+    @classmethod
+    def join(cls, title, corpora):
+        output = cls(title)
         for corpus in corpora:
-            self.extend(corpus)
+            output.extend(corpus)
+        return output
         
     @classmethod
     def from_text(cls, text, docid, sent_toker=None):
