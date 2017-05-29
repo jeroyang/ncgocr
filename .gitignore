@@ -1,3 +1,6 @@
+# too_big
+*.pickle
+
 #ipython
 .ipynb_checkpoints
 
