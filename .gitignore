@@ -2,6 +2,7 @@
 *.pickle
 
 #ipython
+*.ipynb
 .ipynb_checkpoints
 
 # OSX
