@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-This module handles the processes on CRAFT corpus 
+This module handles the processes on CRAFT corpus
 """
 
 from __future__ import (absolute_import, division,
@@ -42,30 +42,30 @@ class Craft(object):
             self.filename = 'craft-2.0.tar.gz'
         else:
             raise ValueError('Unsupport CRAFT version')
-            
+
         self.version = version
         self.local_path = local_path
         self.tarball_path = os.path.join(self.local_path, self.filename)
         self.craft_path = os.path.join(self.local_path, 'craft-'+version)
         self.go_path = os.path.join(self.craft_path, 'ontologies', 'GO.obo')
-    
+
     def download(self):
         pbar = ProgressBar()
         def dlProgress(count, blockSize, totalSize):
             pbar.update(int(count * blockSize * 100 / totalSize))
-        
+
         print('Downloading the corpus...')
         urllib.request.urlretrieve(self.url, self.tarball_path, reporthook=dlProgress)
-        
+
     def slim_extract(self):
         if not os.path.isfile(self.tarball_path):
             self.download()
-        
+
         print('Extracting the corpus...')
         with tarfile.open(self.tarball_path, 'r:gz') as tar:
             tar.extractall(path=self.local_path,
                            members=wanted_members(tar))
-            
+
     def get_corpus(self):
         txtdir = os.path.join(self.craft_path, 'articles', 'txt')
         if not os.path.isdir(txtdir):
@@ -78,11 +78,11 @@ class Craft(object):
         xmldir = os.path.join(self.craft_path, 'knowtator-xml')
         if not os.path.isdir(xmldir):
             self.slim_extract()
-    
+
         craft_path = self.craft_path
-        
+
         print('Reading the goldstandard of GO...')
-        goldstandard = c.Bag()
+        goldstandard = c.Annotation()
         for xml_folder in ['go_bpmf', 'go_cc']:
             xml_dir = os.path.join(craft_path, 'knowtator-xml', xml_folder)
             for filename in os.listdir(xml_dir):
@@ -91,7 +91,7 @@ class Craft(object):
                 t = etree.parse(filepath)
                 mentionid2goid = dict()
                 mentionid2span = dict()
-                
+
                 for classmention in t.xpath('//classMention'):
                     mentionid = ''.join(classmention.xpath('@id'))
                     goid = ''.join(classmention.xpath('mentionClass/@id'))
@@ -106,12 +106,11 @@ class Craft(object):
 
                 key_left = mentionid2goid.keys()
                 key_right = mentionid2span.keys()
-                
+
                 for mentionid in key_left:
                     goid = mentionid2goid[mentionid]
                     if goid.startswith('GO:'):
                         start, end, spannedtext = mentionid2span[mentionid]
                         goldstandard.add((pmid, goid, start, end, spannedtext))
-        
+
         return goldstandard
-        
