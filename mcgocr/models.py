@@ -10,7 +10,7 @@ import random
 
 import pickle
 
-from grepc import gopattern
+from mcgocr import gopattern
 
 Sentence = namedtuple('Sentence', 'text offset ref')
 Grounds = namedtuple('Grounds', 'evidences sentence')
@@ -19,38 +19,38 @@ Basket = namedtuple('Basket', 'candidates more_info')
 
 class GoData(dict):
     def __init__(self, obo_path):
-        
+
         self._read(obo_path)
-        
+
         self.goid2mindepth = dict()
         self.goid2maxdepth = dict()
         self._calculate_depth()
-        
+
         self.goid2above = dict()
         self.goid2below = dict()
         self.goid2density = dict()
         self._calculate_density()
-        
+
         self.biological_process = partial(self._get_namespace, 'biological_process')
         self.cellular_component = partial(self._get_namespace, 'cellular_component')
         self.molecular_function = partial(self._get_namespace, 'molecular_function')
-    
+
     def _read(self, obo_path):
         """Read GO data from OBO file"""
-        
+
         with open(obo_path) as f:
             text = f.read()
         blocks = text.split('\n\n')
-        term_blocks = filter(lambda block:block[0:6]=='[Term]', 
+        term_blocks = filter(lambda block:block[0:6]=='[Term]',
                              blocks)
-        
+
         for term_block in term_blocks:
             goid = None
             name = None
             namespace = None
             synonym_list = list()
             parent_list = list()
-            
+
             if 'is_obsolete: true' in term_block:
                 continue
             lines = term_block.split('\n')
@@ -69,14 +69,14 @@ class GoData(dict):
                 if key == 'is_a':
                     parent_id, sep , parent_name = value.partition('!')
                     parent_list.append(parent_id.strip())
-                    
+
             concept = Concept(goid, name, namespace, synonym_list, parent_list)
             self[goid] = concept
-    
+
     def _calculate_depth(self):
-        
+
         cache = dict()
-        
+
         def _calc_depth(goid, func):
             if goid in {'GO:0003674', 'GO:0008150', 'GO:0005575'}:
                 return 1
@@ -85,15 +85,15 @@ class GoData(dict):
             except KeyError:
                 concept = self[goid]
                 return func(_calc_depth(parent_id, func) for parent_id in concept.parent_list) + 1
-        
+
         for goid in self.keys():
             self.goid2maxdepth[goid] = _calc_depth(goid, max)
             self.goid2mindepth[goid] = _calc_depth(goid, min)
-    
+
     def _calculate_density(self):
-        
+
         above_cache = self.goid2above
-        
+
         def _above(goid):
             if goid in {'GO:0003674', 'GO:0008150', 'GO:0005575'}:
                 return set()
@@ -105,23 +105,23 @@ class GoData(dict):
                 above |= set(concept.parent_list)
                 above_cache[goid] = above
                 return above
-        
+
         for goid in self.keys():
             above_cache[goid] = _above(goid)
-        
+
         below_cache = defaultdict(set)
-        
+
         for goid, above in above_cache.items():
             for parent_id in above:
                 below_cache[parent_id].add(goid)
-        
+
         self.goid2below = below_cache
-        
+
         total = len(self)
         for goid in self.keys():
             below = self.goid2below.get(goid, set())
             self.goid2density[goid] = float(len(below) + 1) / total
-        
+
         for concept in self.values():
             goid = concept.goid
             concept.density = self.goid2density[goid]
@@ -130,27 +130,27 @@ class GoData(dict):
         for goid, concept in self.items():
             if concept.namespace == namespace:
                 yield concept
-    
+
 
 class Concept(object):
     def __init__(self, goid, name, namespace, synonym_list, parent_list, density=-1):
         self.goid = goid
         self.name = name
         self.namespace = namespace
-        self.ns = {'biological_process': 'BP', 
-                  'cellular_component': 'CC', 
+        self.ns = {'biological_process': 'BP',
+                  'cellular_component': 'CC',
                   'molecular_function': 'MF'}[self.namespace]
         self.synonym_list = synonym_list
         self.labels = [name] + synonym_list
         self.parent_list = parent_list
         self.statements = [name] + self.synonym_list
-        
+
     def __repr__(self):
         return 'Concept<{} {} {}>'.format(self.goid, self.ns, self.name)
 
 
 Term = namedtuple('Term', 'lemma ref')
-            
+
 class Entity(Term):
     pass
 
@@ -159,9 +159,9 @@ class Pattern(Term):
 
 class Constraint(Term):
     pass
-    
+
 class Evidence(namedtuple('Evidence', 'term text start end')):
-    
+
     def __sub__(self, other):
         """
         Return distance between the start of this term to the end of another term
@@ -179,13 +179,13 @@ class Statement(namedtuple('Statement', 'statid evidences')):
             return True
         except:
             return False
-    
+
     def __hash__(self):
         return hash('statement:' + self.statid)
-    
+
     def terms(self):
         return [evidence.term for evidence in self.evidences]
-        
+
     def eq_terms(self, other):
         terms = []
         if len(self.evidences) != len(other.evidences):
@@ -197,12 +197,12 @@ class Statement(namedtuple('Statement', 'statid evidences')):
             elif all([isinstance(this_term, Pattern),
                       not this_term == other_term]):
                 raise ValueError('The two statements has different patterns')
-            elif not any([isinstance(this_term, Pattern), 
+            elif not any([isinstance(this_term, Pattern),
                           this_term == other_term]):
                 terms.append((other_term, this_term))
         return terms
-    
-    
+
+
 class Cluster(object):
     def __init__(self, primary_term, terms=None):
         self.primary_term = primary_term
@@ -210,74 +210,74 @@ class Cluster(object):
             self.terms = set()
         else:
             self.terms = set(terms)
-            
+
         self.updated_fragments = False
         self._fragments = set()
         self._term_queue = list(self.terms)
-    
+
     def __hash__(self):
         return hash(self.primary_term)
-    
+
     def __repr__(self):
         return "Cluster({})<{} terms>".format(repr(self.primary_term), len(self.terms))
-    
+
     def __iter__(self):
         for term in self.terms:
             yield term
-    
+
     def fragments(self):
         if self.updated_fragments:
             return self._fragments
-        
+
         else:
             for term in self._term_queue:
                 self._fragments |= set(term.token.split(' '))
             self._term_queue = []
             self.updated_fragments = True
             return self._fragments
-            
+
     def add(self, term):
         self.updated_fragments = False
         self._term_queue.append(term)
         self.terms.add(term)
-    
+
     def merge(self, other):
         self.updated_fragments = False
         self.terms |= other.terms
         self._fragments |= other.fragments()
         del other
-    
+
 class ClusterBook(object):
     def __init__(self):
         self.clusters = set()
         self.index = dict()
-        
+
     def __repr__(self):
         return 'ClusterBook <{} clusters, {} terms>'.format(len(self.clusters), len(self.index.keys()))
-    
+
     def add(self, cluster):
         self.clusters.add(cluster)
         for term in cluster:
             self.index[term] = cluster
-    
+
     def merge(self, cluster1, cluster2):
         if cluster1 in self.clusters:
             for term in cluster2:
                 self.index[term] = cluster1
             cluster1.merge(cluster2)
-            
+
         elif cluster2 in self.clusters:
             for term in cluster1:
                 self.index[term] = cluster2
             cluster2.merge(cluster1)
         else:
             raise ValueError
-    
+
     def merge_term(self, term1, term2):
         cluster = self.index[term1]
         cluster.add(term2)
         self.index[term2] = cluster
-        
+
 def has_common(cluster1, cluster2):
     set1 = set([t.lemma for t in cluster1.terms])
     set2 = set([t.lemma for t in cluster2.terms])
@@ -295,7 +295,7 @@ def sim(cluster1, cluster2):
         return 0.0
     else:
         return jaccard(cluster1, cluster2)
-        
+
 
 class Corpus(object):
     def __init__(self, sentences):
@@ -308,7 +308,7 @@ class Corpus(object):
         for i, pmid in enumerate(pmid_list):
             b = i % 10
             self.bins[b].add(pmid)
-            
+
     def get_training_testing(self, bin_number):
         """The bin_number should in range(10)"""
         training = []
@@ -326,7 +326,7 @@ class TermIndex(defaultdict):
         for key in self.keys() | other.keys():
             result[key] = self[key] | other[key]
         return result
-        
+
 def _fit_border(text, span):
     start, end = span
     left_border = text[max(0, start-1):start+1]
@@ -338,12 +338,12 @@ def _fit_border(text, span):
 class SolidExtractor(object):
     def __init__(self, text2primary_terms):
         self.text2primary_terms = text2primary_terms
-        
+
         builder = AcoraBuilder()
         for text in text2primary_terms:
             builder.add(text)
         self.ac = builder.build()
-    
+
     def findall(self, sentence):
         ac = self.ac
         text2primary_terms = self.text2primary_terms
@@ -367,11 +367,11 @@ class SolidExtractor(object):
                     evidence = Evidence(term, text, start, end)
                     result.append(evidence)
         return result
-                    
+
 class SoftExtractor(object):
     def __init__(self, pattern_regex):
         self.pattern_ex = re.compile(pattern_regex)
-    
+
     def findall(self, sentence):
         ex = self.pattern_ex
         offset = sentence.offset
@@ -389,7 +389,7 @@ class SoftExtractor(object):
 class JoinExtractor(object):
     def __init__(self, extractors):
         self.extractors = extractors
-        
+
     def findall(self, sentence):
         result = []
         for extractor in self.extractors:
@@ -407,7 +407,7 @@ def gather_evidences(statement, index, term2index_evidence):
         except:
             pass
     return evidences
-        
+
 def gather_baskets(grounds, more_info, term2statements):
     baskets = []
     term2index_evidence = defaultdict(list)
@@ -428,15 +428,15 @@ def gather_baskets(grounds, more_info, term2statements):
             goid = statid.partition('%')[0]
             density = gd.goid2density[goid]
             evidences = gather_evidences(statement, i, term2index_evidence)
-            candidate = Candidate(statement, 
-                                  density, 
+            candidate = Candidate(statement,
+                                  density,
                                   gather_evidences(statement, i, term2index_evidence),
                                   grounds)
             candidates.append(candidate)
         candidates.sort(key=lambda c: c.density, reverse=True)
         baskets.append(Basket(candidates, more_info))
     return baskets
-    
+
 def concept_features(candidate):
     statement = candidate.statement
     statid = statement.statid
@@ -446,7 +446,7 @@ def concept_features(candidate):
                 'STATID': statid,
                 'NAMESPACE': namespace}
     return features
-    
+
 def evidence_features(candidate):
     evidences = candidate.evidences
     sentence_text = candidate.grounds.sentence.text
@@ -462,7 +462,7 @@ def evidence_features(candidate):
                 'TEXT[:3]': text[:3],
                 'TEXT[-3:]': text[-3:]}
     return features
-    
+
 def bias_features(candidate):
     features = dict()
     statement = candidate.statement
@@ -471,43 +471,43 @@ def bias_features(candidate):
     features['OMIT'] = [term.lemma for term in statement.terms() if term not in terms_in_evidences]
     features['SATURATION'] = len(evidences) / len(statement.evidences)
     return features
-    
-    
+
+
 def candidate2features(candidate):
     return dict(ChainMap(concept_features(candidate), evidence_features(candidate), bias_features(candidate)))
-    
+
 def grounds2features(grounds):
     evidences = grounds.evidences
     features = {#'GROUNDS': {e.text for e in evidences},
                 #'LEMMA': {e.term.lemma for e in evidences}
                 }
     return features
-    
-    
+
+
 def sentence2baskets(sentence, extractor, term2statements):
     grounds = Grounds(extractor.findall(sentence), sentence)
     more_info = grounds2features(grounds)
     more_info.update({'PMID': sentence.docid})
     baskets = gather_baskets(grounds, more_info, term2statements)
     return baskets
-    
+
 def join_baskets(sentences, extractor, term2statements):
     all_baskets = []
     for sentence in sentences:
         baskets = sentence2baskets(sentence, extractor, term2statements)
         all_baskets.extend(baskets)
     return all_baskets
-    
-    
+
+
 def basket2features(basket):
     candidate_features = []
     for candidate in basket.candidates:
         features = candidate2features(candidate)
         features.update(basket.more_info)
         candidate_features.append(features)
-        
+
     return candidate_features
-    
+
     """
     final_features = []
     for i, features in enumerate(candidate_features):
@@ -533,13 +533,13 @@ def basket2features(basket):
                              'SATURATION[i+1]': next_saturation})
         final_features.append(features)
     return final_features"""
-    
+
 def baskets2X(baskets):
     X = []
     for basket in baskets:
         X.append(basket2features(basket))
     return X
-    
+
 import os
 import re
 from lxml import etree
@@ -571,9 +571,9 @@ def goldstandard_from_xml(fpath):
         goid = mentionid2goid[mentionid]
         start, end, spannedtext = mentionid2span[mentionid]
         goldstandard.append((pmid, goid, start, end, spannedtext))
-        
+
     return goldstandard
-    
+
 from intervaltree import Interval, IntervalTree
 from collections import defaultdict
 
@@ -603,16 +603,16 @@ def basket2labels(basket, forest):
             labels.append('BINGO')
         else:
             labels.append('NOT')
-            
-    return labels      
-    
-    
+
+    return labels
+
+
 def baskets2y(baskets, forest):
     y = []
     for basket in baskets:
         y.append(basket2labels(basket, forest))
     return y
-    
+
 def candidate2result(candidate):
     pmid = candidate.grounds.sentence.docid
     goid = candidate.statement.statid.partition('%')[0]
@@ -622,36 +622,36 @@ def candidate2result(candidate):
     raw_end = end - candidate.grounds.sentence.offset
     text = candidate.grounds.sentence.text[raw_start:raw_end]
     return (pmid, goid, start, end, text)
-    
+
 class Report(object):
     def __init__(self, tp, fp, fn, message):
         self.tp = tp
         self.fp = fp
         self.fn = fn
         self.message = message
-    
+
     def recall(self):
         return len(self.tp) / len(self.tp | self.fn)
-    
+
     def precision(self):
         return len(self.tp) / len(self.tp | self.fp)
-    
+
     def f1(self):
         r = self.recall()
         p = self.precision()
         return 2 * r * p / (r + p)
-    
+
     def __repr__(self):
         r = self.recall()
         p = self.precision()
         f = self.f1()
         syntax = 'Report<R{r:.2%} P{p:.2%} F{f:.2%} {m!r}>'
         return syntax.format(r=r, p=p, f=f, m=self.message)
-    
+
 def evaluate(system, goldstandard, message):
     slim_system = {i[:4] for i in system}
     slim_goldstandard = {i[:4] for i in goldstandard}
-    slim2gold = ChainMap({i[:4]: i for i in goldstandard}, 
+    slim2gold = ChainMap({i[:4]: i for i in goldstandard},
                          {i[:4]: i for i in system})
     slim_tp = slim_system & slim_goldstandard
     slim_fp = slim_system - slim_goldstandard
@@ -707,7 +707,7 @@ def feature_remove_filter(X, feature_names):
 def candidate2result(candidate):
     try:
         pmid = candidate.grounds.sentence.docid
-    except: 
+    except:
         pmid = candidate.sentence.docid
     goid = candidate.statement.statid.partition('%')[0]
     start = min([e.start for e in candidate.evidences])
@@ -733,4 +733,3 @@ def recover(all_baskets, y):
         sorted_basket_results = sorted(list(basket_results), key=lambda r:r[1])
         results.extend(sorted_basket_results)
     return results
-
