@@ -105,15 +105,32 @@ class Candidate(object):
             return True
         return False
 
-class Bag(set):
-    def __init__(self, iterable=[]):
-        self |= set(iterable)
-
+class Annotation(set):
+    
     def __repr__(self):
-        template = '{}<{} items>'
-        text = template.format(self.__class__.__name__,
-                               len(self))
-        return text
+        return 'Annotation<{} items>'.format(len(self))
+
+    def sorted_results(self):
+        sorted_results = list(self)
+        sorted_results.sort(key=lambda u:u[2])
+        sorted_results.sort(key=lambda u:u[0])
+        return sorted_results
+
+    def subset(self, filter_func):
+        cls = self.__class__
+        output = {it for it in self if filter_func(it)}
+        return cls(output)
+
+    def to_csv(self, fp):
+        import csv
+        with open(fp, 'w') as f:
+            w = csv.writer(f)
+            w.writerows(self.sorted_results())
+
+    def to_json(self, fp):
+        import json
+        with open(fp, 'w') as f:
+            json.dump(self.sorted_results(), f)
 
 
 class Corpus(list):
@@ -158,12 +175,30 @@ class Corpus(list):
 
         return list(i2corpus.values())
 
+    def k_folds(self, k=10, random_state=0):
+        cls = self.__class__
+        corpus = self
+        training_list = []
+        testing_list = []
+        corpora = corpus.divide(k, random_state)
+        title = corpus.title
+        for i, testing_corpus in enumerate(corpora):
+            training_title = '{} Training {}/{}'.format(title, i+1, k)
+            testing_title = '{} Testing {}/{}'.format(title, i+1, k)
+            non_testing_corpra = [c for c in corpora if c != testing_corpus]
+            training_corpus = cls.join(training_title, non_testing_corpra)
+            testing_corpus.title = testing_title
+            training_list.append(training_corpus)
+            testing_list.append(testing_corpus)
+        return training_list, testing_list
+
     @classmethod
     def join(cls, title, corpora):
         output = cls(title)
         for corpus in corpora:
             output.extend(corpus)
         return output
+
 
     @classmethod
     def from_text(cls, text, docid, sent_toker=None):
