@@ -31,7 +31,6 @@ class PatternManager(object):
         self.lemma2snippets = defaultdict(set)
         self.lemma2broad = defaultdict(set)
 
-
     def _sorted_lemma_n_snippets(self):
         lemma_n_snippets = self.lemma2snippets.items()
         key = lambda item: len(item[0])
