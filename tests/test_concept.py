@@ -19,6 +19,29 @@ from mcgocr import gopattern
 
 PATTERN_PATH = 'tests/pattern_definition.txt'
 
+class TestIndex(unittest.TestCase):
+
+    def setUp(self):
+        self.index0 = c.Index()
+        self.index0.update({'a': {1, 2}, 'b': {3, 4}})
+        self.index1 = c.Index()
+        self.index1.update({'a': {2, 9}, 'c': {5, 6}})
+
+    def test_add(self):
+        result = self.index0 + self.index1
+        wanted = c.Index()
+        wanted.update({'a': {1, 2, 9}, 'b': {3, 4}, 'c':{5, 6}})
+        self.assertEqual(result, wanted)
+
+    def test_missing(self):
+        self.index0.use_default = True
+        self.assertEqual(self.index0['k'], set())
+        self.assertIn('k', self.index0)
+
+        self.index0.use_default = False
+        self.assertEqual(self.index0['m'], set())
+        self.assertNotIn('m', self.index0)
+
 class TestSplitFunctions(unittest.TestCase):
     def setUp(self):
         label = 'upregulation of gene slicing via miRNA'

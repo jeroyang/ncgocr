@@ -8,9 +8,8 @@ from collections import defaultdict, namedtuple
 import re
 
 from acora import AcoraBuilder
-from copy import copy
 
-from mcgocr.concept import Entity, Pattern, Constraint, Evidence
+from mcgocr.concept import Entity, Pattern, Constraint, Evidence, Index
 from experiment.corpus import Candidate
 
 Grounds = namedtuple('Grounds', 'evidences sentence')
@@ -22,46 +21,20 @@ def _fit_border(text, span):
     judge = re.compile(r'(.\b.|^.$)').match
     return all([judge(left_border),
                 judge(right_border)])
-                
-class Index(dict):
-    def __init__(self):
-        self.use_default = True
-        
-    def __add__(self, other):
-        result = copy(self)
-        for key, value_set in other.items():
-            result[key] |= value_set
-        return result
-    
-    def __repr__(self):
-        template = '{}<{} key(s)>'
-        return template.format(self.__class__.__name__, len(self))
-        
-    def __missing__(self, key):
-        if self.use_default:
-            self[key] = set()
-            return self[key]
-        else:
-            return set()
-    @classmethod
-    def join(cls, indices):
-        output = cls()
-        for index in indices:
-            output += index
-        return output
-            
-            
+
+
+
 class SolidExtractor(object):
     def __init__(self, term_index):
         self.term_index = term_index
-        
+
         builder = AcoraBuilder()
         for text in term_index:
             builder.add(text)
         self.ac = builder.build()
-    
+
     def findall(self, sentence):
-        
+
         ac = self.ac
         term_index = self.term_index
         result = []
@@ -75,16 +48,16 @@ class SolidExtractor(object):
                     evidence = Evidence(primary_term, text, start, end)
                     result.append(evidence)
         return result
-    
+
     def to_grounds(self, sentence):
         evidences = self.findall(sentence)
         grounds = Grounds(evidences, sentence)
         return grounds
-                    
+
 class SoftExtractor(object):
     def __init__(self, regex_out):
         self.pattern_ex = re.compile(regex_out)
-    
+
     def findall(self, sentence):
         ex = self.pattern_ex
         offset = sentence.offset
@@ -98,7 +71,7 @@ class SoftExtractor(object):
             evidence = Evidence(term, text, start, end)
             result.append(evidence)
         return result
-    
+
     def to_grounds(self, sentence):
         evidences = self.findall(sentence)
         grounds = Grounds(evidences, sentence)
@@ -107,19 +80,19 @@ class SoftExtractor(object):
 class JoinExtractor(object):
     def __init__(self, extractors):
         self.extractors = extractors
-        
+
     def findall(self, sentence):
         result = []
         for extractor in self.extractors:
             result.extend(extractor.findall(sentence))
         result.sort(key=lambda e: e.start)
-            
+
         return result
-    
+
     def to_grounds(self, sentence):
         evidences = self.findall(sentence)
         grounds = Grounds(evidences, sentence)
-        return grounds        
+        return grounds
 
 
 def nearest_evidences(current_position, wanted_terms, position_index):
@@ -127,7 +100,7 @@ def nearest_evidences(current_position, wanted_terms, position_index):
     for term in wanted_terms:
         positional_evidences = position_index[term]
         if len(positional_evidences) > 0:
-            distance_evidence = [(abs(current_position - position), evidence) 
+            distance_evidence = [(abs(current_position - position), evidence)
                 for position, evidence in positional_evidences]
             distance_evidence.sort(key=lambda it:it[0])
             found_evidences.append(distance_evidence[0][1])
@@ -143,7 +116,7 @@ def has_entity(statement):
     if any([isinstance(term, Entity) for term in statement.terms()]):
         return True
     return False
-    
+
 class CandidateReconizer(object):
     def __init__(self, godata):
         stat_index = Index()
@@ -154,25 +127,25 @@ class CandidateReconizer(object):
                         stat_index[term].add(statement)
                     elif not has_entity(statement):
                         stat_index[term].add(statement)
-            
+
         stat_index.use_default = False
         self.stat_index = stat_index
-    
+
     def generate(self, grounds):
         """
         This function looks so complex because I only want to report the nearest evidence
-        Maybe there is a more elegant way, but I have no idea, currently. 
+        Maybe there is a more elegant way, but I have no idea, currently.
         """
         stat_index = self.stat_index
         result_candidates = []
-        
+
         positional_evidences = list(enumerate(grounds.evidences))
-        
+
         #The first loop, build the positional_index
         position_index = defaultdict(list)
         for position, evidence in positional_evidences:
             position_index[evidence.term].append((position, evidence))
-        
+
         #The second loop, gathering evidences
         for position, evidence in positional_evidences:
             statements = stat_index[evidence.term]
@@ -190,29 +163,26 @@ class CandidateFinder(object):
             for term in cluster.terms:
                 term_index[term.lemma].add(cluster.primary_term)
         self.term_index = term_index
-        
+
         regex_out = godata._regex_out
         solid_extractor = SolidExtractor(term_index)
         soft_extractor = SoftExtractor(regex_out)
         if auxiliary_extractor is not None:
-            self.extractor = JoinExtractor([solid_extractor, 
-                                            soft_extractor, 
+            self.extractor = JoinExtractor([solid_extractor,
+                                            soft_extractor,
                                             auxiliary_extractor])
         else:
-            self.extractor = JoinExtractor([solid_extractor, 
+            self.extractor = JoinExtractor([solid_extractor,
                                             soft_extractor])
         self.recognizer = CandidateReconizer(godata)
-        
-    def findall(self, sentence):
+
+    def _findall(self, sentence):
         grounds = self.extractor.to_grounds(sentence)
         candidates = self.recognizer.generate(grounds)
         return candidates
-        
-    def bulk_findall(self, corpus):
+
+    def findall(self, corpus):
         result = []
         for sentence in corpus:
-            result.extend(self.findall(sentence))
+            result.extend(self._findall(sentence))
         return result
-
-        
-        

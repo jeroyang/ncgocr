@@ -17,49 +17,26 @@ import unittest
 from mcgocr import extractor as ex
 
 class TestFunctions(unittest.TestCase):
-    
+
     def test_fit_border(self):
         text = 'very tedious'
         span = (5, 8)
         result = ex._fit_border(text, span)
         self.assertEqual(result, False)
-        
+
         text = 'this ted bear'
         span = (5, 8)
         result = ex._fit_border(text, span)
         self.assertEqual(result, True)
         
-class TestIndex(unittest.TestCase):
-    
-    def setUp(self):
-        self.index0 = ex.Index()
-        self.index0.update({'a': {1, 2}, 'b': {3, 4}})
-        self.index1 = ex.Index()
-        self.index1.update({'a': {2, 9}, 'c': {5, 6}})
-    
-    def test_add(self):
-        result = self.index0 + self.index1
-        wanted = ex.Index()
-        wanted.update({'a': {1, 2, 9}, 'b': {3, 4}, 'c':{5, 6}})
-        self.assertEqual(result, wanted)
-        
-    def test_missing(self):
-        self.index0.use_default = True
-        self.assertEqual(self.index0['k'], set())
-        self.assertIn('k', self.index0)
-        
-        self.index0.use_default = False
-        self.assertEqual(self.index0['m'], set())
-        self.assertNotIn('m', self.index0)
 
 class TextFunctions2(unittest.TestCase):
     def test_nearest_evidences(self):
-        positional_index = {'a': {(1, 1), (3, 3)}, 
-                            'b': {(2, 2), (5, 5)}, 
+        positional_index = {'a': {(1, 1), (3, 3)},
+                            'b': {(2, 2), (5, 5)},
                             'c': {(4, 4)}}
         wanted_terms = ['a', 'b']
         current_position = 3
         result = ex.nearest_evidences(current_position, wanted_terms, positional_index)
         wanted = [2, 3]
         self.assertEqual(result, wanted)
-        
