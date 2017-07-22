@@ -106,7 +106,7 @@ class Candidate(object):
         return False
 
 class Annotation(set):
-    
+
     def __repr__(self):
         return 'Annotation<{} items>'.format(len(self))
 
@@ -116,7 +116,7 @@ class Annotation(set):
         sorted_results.sort(key=lambda u:u[0])
         return sorted_results
 
-    def subset(self, filter_func):
+    def get_subset(self, filter_func):
         cls = self.__class__
         output = {it for it in self if filter_func(it)}
         return cls(output)
