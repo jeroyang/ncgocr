@@ -34,7 +34,6 @@ class SolidExtractor(object):
         self.ac = builder.build()
 
     def findall(self, sentence):
-
         ac = self.ac
         term_index = self.term_index
         result = []
@@ -86,13 +85,18 @@ class JoinExtractor(object):
         for extractor in self.extractors:
             result.extend(extractor.findall(sentence))
         result.sort(key=lambda e: e.start)
-
         return result
 
     def to_grounds(self, sentence):
         evidences = self.findall(sentence)
         grounds = Grounds(evidences, sentence)
         return grounds
+
+    def process(self, corpus):
+        corpus_grounds = []
+        for sentence in corpus:
+            corpus_grounds.append(self.to_grounds(sentence))
+        return corpus_grounds
 
 
 def nearest_evidences(current_position, wanted_terms, position_index):
@@ -107,10 +111,6 @@ def nearest_evidences(current_position, wanted_terms, position_index):
             found_evidences.sort()
     return found_evidences
 
-"""def only_has_pattern(statement):
-    if all([isinstance(term, Pattern) for term in statement.terms()]):
-        return True
-    return False"""
 
 def has_entity(statement):
     if any([isinstance(term, Entity) for term in statement.terms()]):
@@ -118,8 +118,8 @@ def has_entity(statement):
     return False
 
 class CandidateReconizer(object):
-    def __init__(self, godata):
-        stat_index = Index()
+    def __init__(self, Im):
+        """stat_index = Index()
         for goid, concept in godata.items():
             for statement in concept.statements:
                 for term in statement.terms():
@@ -128,15 +128,15 @@ class CandidateReconizer(object):
                     elif not has_entity(statement):
                         stat_index[term].add(statement)
 
-        stat_index.use_default = False
-        self.stat_index = stat_index
+        stat_index.use_default = False"""
+        self.Im = Im
 
     def generate(self, grounds):
         """
         This function looks so complex because I only want to report the nearest evidence
         Maybe there is a more elegant way, but I have no idea, currently.
         """
-        stat_index = self.stat_index
+        stat_index = self.Im
         result_candidates = []
 
         positional_evidences = list(enumerate(grounds.evidences))
@@ -156,16 +156,24 @@ class CandidateReconizer(object):
                 result_candidates.append(candidate)
         return result_candidates
 
-class CandidateFinder(object):
-    def __init__(self, godata, auxiliary_extractor=None):
-        term_index = Index()
-        for cluster in godata.clusterbook.clusters:
-            for term in cluster.terms:
-                term_index[term.lemma].add(cluster.primary_term)
-        self.term_index = term_index
+    def process(self, corpus_grounds):
+        corpus_candidates = []
+        for grounds in corpus_grounds:
+            candidates = self.generate(grounds)
+            corpus_candidates.extend(candidates)
+        return corpus_candidates
 
-        regex_out = godata._regex_out
-        solid_extractor = SolidExtractor(term_index)
+
+"""
+class CandidateFinder(object):
+    def __init__(self, extractor):
+        solid_extractor = SolidExtractor(Ie)
+        soft_extractor = SoftExtractor(regex_out)
+        if boost_Ie is None:
+            self.extractor = JoinExtractor([solid_extractor, soft_extractor])
+        else:
+            boost_extractor = SolidExtractor(boost_Ie)
+            self.ex
         soft_extractor = SoftExtractor(regex_out)
         if auxiliary_extractor is not None:
             self.extractor = JoinExtractor([solid_extractor,
@@ -186,3 +194,4 @@ class CandidateFinder(object):
         for sentence in corpus:
             result.extend(self._findall(sentence))
         return result
+"""
