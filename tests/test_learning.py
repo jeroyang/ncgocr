@@ -31,10 +31,10 @@ class TestFeatureExtract(unittest.TestCase):
         s0 = Statement('GO:testing%000', [e0, e1])
         c0 = Candidate(s0, [e0, e1], sentence)
         c1 = Candidate(s0, [e0], sentence)
-        
+
         concept = MagicMock()
         concept.namespace = 'mocked'
-        
+
         self.godata = {'GO:testing': concept}
         self.sentence = sentence
         self.t0 = t0
@@ -43,7 +43,7 @@ class TestFeatureExtract(unittest.TestCase):
         self.e1 = e1
         self.c0 = c0
         self.c1 = c1
-    
+
     def test_concept_measurements(self):
         result = learning.concept_measurements(self.c0,
                                 self.godata)
@@ -51,23 +51,22 @@ class TestFeatureExtract(unittest.TestCase):
                               ('STATID', 'GO:testing%000'),
                               ('NAMESPACE', 'mocked')])
         self.assertEqual(result, wanted)
-    
+
     def test_evidence_measurements(self):
         result = learning.evidence_measurements(self.c0)
-        wanted = OrderedDict([('LENGTH', 18), 
-                              ('TEXT', 'testing patterning'),
-                              ('TEXT[:3]', 'tes'),
-                              ('TEXT[-3:]', 'ing')])
+        wanted = OrderedDict([('LENGTH', 18),
+                              ('TEXT=testing patterning', True),
+                              ('TEXT[:3]=tes', True),
+                              ('TEXT[-3:]=ing', True)])
         self.assertEqual(result, wanted)
 
     def test_bias_measurements(self):
-        
+
         result = learning.bias_measurements(self.c0)
         wanted = OrderedDict([('SATURATION', 1.0)])
         self.assertEqual(result, wanted)
-        
+
         result = learning.bias_measurements(self.c1)
         wanted = OrderedDict([('OMIT=pattern', True),
                               ('SATURATION', 0.5)])
         self.assertEqual(result, wanted)
-        

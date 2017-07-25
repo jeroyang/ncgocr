@@ -6,10 +6,11 @@ from __future__ import (absolute_import, division,
 from builtins import *
 
 from collections import OrderedDict, defaultdict, ChainMap
-
 from intervaltree import Interval, IntervalTree
+import numpy as np
 
 from experiment.report import Report
+
 """
 The measurements of features
 """
@@ -22,14 +23,14 @@ def concept_measurements(candidate, godata):
     statid = statement.statid
     goid, sep, sulfix = statid.partition('%')
     namespace = godata[goid].namespace
-    measurements = OrderedDict([('GOID', goid), 
+    measurements = OrderedDict([('GOID', goid),
                             ('STATID', statid),
                             ('NAMESPACE', namespace)])
     return measurements
-    
+
 def evidence_measurements(candidate):
     """
-    Measure the evidence features: LENGTH, TEXT and 
+    Measure the evidence features: LENGTH, TEXT and
     TEXT[:3], TEXT[-3:] from the given candidate
     """
     evidences = candidate.evidences
@@ -40,16 +41,16 @@ def evidence_measurements(candidate):
     raw_start = min(starts) -  offset
     raw_end = max(ends) - offset
     length = raw_end - raw_start
-    text = sentence_text[raw_start:raw_end]
+    text = sentence_text[raw_start:raw_end].lower()
     measurements = OrderedDict([('LENGTH', length),
-                            ('TEXT', text),
-                            ('TEXT[:3]', text[:3]),
-                            ('TEXT[-3:]', text[-3:])])
+                            ('TEXT=' + text, True),
+                            ('TEXT[:3]=' + text[:3], True),
+                            ('TEXT[-3:]=' + text[-3:], True)])
     return measurements
-    
+
 def bias_measurements(candidate):
     """
-    Measure the bias features: OMIT, SATURATION from the 
+    Measure the bias features: OMIT, SATURATION from the
     given candidate
     """
     measurements = OrderedDict()
@@ -63,7 +64,7 @@ def bias_measurements(candidate):
         measurements[key] = True
     measurements['SATURATION'] = len(evidences) / len(statement.evidences)
     return measurements
-    
+
 def all_measurements(candidate, godata):
     """
     Return all the measurements from the given candidate
@@ -92,7 +93,7 @@ class LabelMarker(object):
             t = forest[pmid]
             t[start:end] = (goid, text)
         self.forest = dict(forest)
-        
+
     def mark(self, candidate):
         pmid = candidate.sentence.docid
         statid = candidate.statement.statid
@@ -107,13 +108,17 @@ class LabelMarker(object):
         if goid in gold_goids:
             return 1
         return 0
-        
+
     def markall(self, candidates):
         labels = []
         for candidate in candidates:
             labels.append(self.mark(candidate))
         return labels
-        
+
+    def process(self, candidates):
+        return np.array(self.markall(candidates))
+
+
 def recover(candidates, y):
     result = []
     for candidate, label in zip(candidates, y):
@@ -129,12 +134,12 @@ def recover(candidates, y):
         text = candidate.sentence.text[raw_start:raw_end]
         result.append((pmid, goid, start, end, text))
     return result
-    
-    
+
+
 def evaluate(system, goldstandard, message):
     slim_system = {i[:4] for i in system}
     slim_goldstandard = {i[:4] for i in goldstandard}
-    slim2gold = ChainMap({i[:4]: i for i in goldstandard}, 
+    slim2gold = ChainMap({i[:4]: i for i in goldstandard},
                          {i[:4]: i for i in system})
     slim_tp = slim_system & slim_goldstandard
     slim_fp = slim_system - slim_goldstandard
@@ -143,4 +148,3 @@ def evaluate(system, goldstandard, message):
     fp = {slim2gold[i] for i in slim_fp}
     fn = {slim2gold[i] for i in slim_fn}
     return Report(tp, fp, fn, message)
-    
