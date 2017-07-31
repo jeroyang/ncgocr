@@ -134,7 +134,7 @@ class TestCorpus(unittest.TestCase):
         self.assertEqual(result, wanted)
 
     def test_divide(self):
-        corpus_list = self.corpus_a.divide(5)
+        corpus_list = self.corpus_a.divide(5, 0)
         self.assertEqual(len(corpus_list), 5)
         for corpus in corpus_list:
             self.assertEqual(len(corpus), 10)
