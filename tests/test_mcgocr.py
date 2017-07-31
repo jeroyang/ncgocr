@@ -14,16 +14,10 @@ Tests for `mcgocr` module.
 
 import unittest
 
-from mcgocr import mcgocr
-
+from mcgocr import Craft, GoData, MCGOCR, Corpus
+from mcgocr.learning import evaluate
 
 class TestMcgocr(unittest.TestCase):
 
-    def setUp(self):
-        pass
-
     def test_something(self):
-        pass
-
-    def tearDown(self):
         pass

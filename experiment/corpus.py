@@ -121,13 +121,16 @@ class Annotation(set):
         output = {it for it in self if filter_func(it)}
         return cls(output)
 
-    def to_csv(self, fp):
+    def to_list(self):
+        return self.sorted_results()
+
+    def save_csv(self, fp):
         import csv
         with open(fp, 'w') as f:
             w = csv.writer(f)
             w.writerows(self.sorted_results())
 
-    def to_json(self, fp):
+    def save_json(self, fp):
         import json
         with open(fp, 'w') as f:
             json.dump(self.sorted_results(), f)
