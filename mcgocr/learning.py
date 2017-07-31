@@ -11,6 +11,8 @@ import numpy as np
 
 from experiment.report import Report
 
+from experiment.corpus import Annotation
+
 """
 The measurements of features
 """
@@ -120,7 +122,7 @@ class LabelMarker(object):
 
 
 def recover(candidates, y):
-    result = []
+    result = Annotation()
     for candidate, label in zip(candidates, y):
         if label == 0:
             continue
@@ -132,7 +134,7 @@ def recover(candidates, y):
         raw_start = start - candidate.sentence.offset
         raw_end = end - candidate.sentence.offset
         text = candidate.sentence.text[raw_start:raw_end]
-        result.append((pmid, goid, start, end, text))
+        result.add((pmid, goid, start, end, text))
     return result
 
 
