@@ -7,60 +7,84 @@ from builtins import *
 import logging
 
 import argparse
-import pickle
-from grepc.models import *
+
+from experiment.corpus import Corpus
 from mcgocr.pattern_regex import regex_out
-from experiment import corpus
+from mcgocr.concept import GoData, Index, Entity, Evidence, Statement
+from mcgocr.extractor import SoftExtractor, SolidExtractor, JoinExtractor, CandidateReconizer
+from mcgocr.learning import bulk_measurements, LabelMarker, recover, evaluate
 
-ItemA = namedtuple('ItemA', 'GOID start end source text')
+from sklearn.feature_extraction import FeatureHasher
+from sklearn import svm
 
-class Annotation(list):
-    def __repr__(self):
-        return 'Annotation<{} items>'.format(len(list))
-
-    def to_csv(self, fp):
-        import csv
-        with open(fp, 'w') as f:
-            w = csv.writer(f)
-            w.writerows(self)
-
-    def to_json(self, fp):
-        import json
-        with open(fp, 'w') as f:
-            json.dump(self, f)
-
+def boost(training_gold, godata):
+    Ie_boost = Index()
+    Im_boost = Index()
+    for pmid, goid, start, end, text in training_gold:
+        for statement in godata[goid].statements:
+            if len(statement.evidences) == 1:
+                term = statement.evidences[0].term
+                lemma = term.lemma
+                if text!=lemma:
+                    Ie_boost[text].add(term)
+        else:
+            if ' ' not in text:
+                cm = Entity(text, 'boost')
+                null = Entity('NULL#' + goid, 'boost')
+                evidences = [Evidence(null, '', 0, 0), Evidence(cm, text, 0, len(text))]
+                new_statement = Statement('%'.join([goid, text]), evidences)
+                Ie_boost[text].add(cm)
+                Im_boost[cm].add(new_statement)
+    return Ie_boost, Im_boost
 
 class MCGOCR(object):
-    def __init__(self, Ie, Im, Ie_boost, feature_hasher, classifier):
-        self.Ie = Ie
-        self.Im = Im
-        self.Ie_boost = Ie_boost
-        self.feature_hasher = feature_hasher
-        self.classifier = classifier
+    def __init__(self, godata):
+        self.godata = godata
+        Ie = godata.get_Ie()
+        Im = godata.get_Im()
+        self.e0 = SolidExtractor(Ie)
+        self.e1 = SoftExtractor(regex_out)
+        self.basic_Im = Im
+        self.measure = bulk_measurements
+        self.vectorizer = None
+        self.classifier = None
+        self.use_boost = True
 
-        self.extractor = JoinExtractor([
-            SolidExtractor(Ie),
-            SolidExtractor(Ie_boost),
-            SoftExtractor(regex_out)
-        ])
+    def fit(self, training_corpus, training_gold):
+        boost_Ie, self.boost_Im = boost(training_gold, self.godata)
+        self.e2 = SolidExtractor(boost_Ie)
 
-    def _candidate_generation(self, corpus):
-        pass
+        if self.use_boost:
+            self.extractor = JoinExtractor([self.e0, self.e1, self.e2])
+            self.candidate_recognizer = CandidateReconizer(self.basic_Im + self.boost_Im)
+        else:
+            self.extractor = JoinExtractor([self.e0, self.e1])
+            self.candidate_recognizer = CandidateReconizer(self.basic_Im)
 
-    def _feature_extract(self, candidates):
-        pass
+        label_marker = LabelMarker(training_gold)
+        training_grounds = self.extractor.process(training_corpus)
+        training_candidates = self.candidate_recognizer.process(training_grounds)
+        training_measurements = self.measure(training_candidates, self.godata)
 
-    def scan(self, corpus):
-        """
-        Input: Corpus object
-        Output: Annotation object
-        """
-        candidates = self._candidate_generate(corpus)
-        features = self._feature_extract(candidates)
-        X = feature_hasher.transform(measures)
-        pred_y = classifier.predict(X)
-        annotation = annotate(candidates, pred_y)
-        return annotation
+        self.vectorizer = FeatureHasher(n_features=1024)
+        training_X = self.vectorizer.fit_transform(training_measurements).toarray()
+
+        training_y = label_marker.process(training_candidates)
+
+        self.classifier = svm.LinearSVC(random_state=0)
+        self.classifier.fit(training_X, training_y)
+
+    def predict(self, testing_corpus):
+        testing_grounds = self.extractor.process(testing_corpus)
+        testing_candidates = self.candidate_recognizer.process(testing_grounds)
+        testing_measurements = self.measure(testing_candidates, self.godata)
+        testing_X = self.vectorizer.transform(testing_measurements).toarray()
+        system_y = self.classifier.predict(testing_X)
+
+        system_results = recover(testing_candidates, system_y)
+        return system_results
+
+
 
 if __name__ == '__main__':
 
