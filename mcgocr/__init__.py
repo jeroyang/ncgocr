@@ -8,6 +8,7 @@ from builtins import *
 import os
 __author__ = 'Chia-Jung, Yang'
 __email__ = 'jeroyang@gmail.com'
+__version__ = '0.1.0'
 
 from mcgocr.concept import *
 from mcgocr.corpus_craft import *

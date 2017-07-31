@@ -33,7 +33,7 @@ mcgocr.fit(corpus, goldstandard)
 # Load the testing_corpus
 # The testing text files are put into the folder `input/`
 corpus_name = 'testing corpus'
-testing_corpus = Corpus.from_dir('input/', corpus_name)
+testing_corpus = Corpus.from_dir('input/', corpus_name) 
 
 # Get the system result
 result = mcgocr.predict(testing_corpus)
