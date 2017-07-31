@@ -156,13 +156,12 @@ class Corpus(list):
     def doc_set(self):
         return set([s.docid for s in self])
 
-    def divide(self, k, random_state=0):
+    def divide(self, k, seed):
         size = len(self.doc_set())
         if not k <= size:
             raise ValueError('The k should be lesser equal than the document size of the courpus ({}).'.format(size))
-        random.seed(random_state)
         docids = list(self.doc_set())
-        random.shuffle(docids)
+        random.Random(seed).shuffle(docids)
         i2ids = {i: set() for i in range(1, k+1)}
         for i, docid in enumerate(docids):
             b = i % k + 1
@@ -175,12 +174,12 @@ class Corpus(list):
 
         return list(i2corpus.values())
 
-    def k_folds(self, k=10, random_state=0):
+    def k_folds(self, k, seed):
         cls = self.__class__
         corpus = self
         training_list = []
         testing_list = []
-        corpora = corpus.divide(k, random_state)
+        corpora = corpus.divide(k, seed)
         title = corpus.title
         for i, testing_corpus in enumerate(corpora):
             training_title = '{} Training {}/{}'.format(title, i+1, k)
@@ -213,7 +212,7 @@ class Corpus(list):
 
     @classmethod
     def from_dir(cls, dirpath, title, filename_extension='.txt', sent_toker=None):
-        corpus = Corpus(title)
+        corpus = cls(title)
         for filename in os.listdir(dirpath):
             if not filename.endswith(filename_extension):
                 continue
