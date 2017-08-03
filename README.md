@@ -8,6 +8,7 @@
 
 ## Installation
 
+Using 'pip' to install the Python module
 ```bash
 $ pip install -U mcgocr
 ```
@@ -21,29 +22,29 @@ craft = Craft('data')
 corpus = craft.get_corpus()
 goldstandard = craft.get_goldstandard()
 
-# Load the GO
+print('Loading GO...')
 godata = GoData('data/craft-1.0/ontologies/GO.obo')
 
-# Initiate MCGOCR
+print('Initiating MCGOCR...')
 mcgocr = MCGOCR(godata)
 
-# Train the model
+print('Training the model...')
 mcgocr.fit(corpus, goldstandard)
 
-# Load the testing_corpus
-# The testing text files are put into the folder `input/`
+print('Loading the testing corpus...')
 corpus_name = 'testing corpus'
 testing_corpus = Corpus.from_dir('data/craft-1.0/txt/', corpus_name)
 
-# Get the system result
+print('predicting the results...')
 result = mcgocr.predict(testing_corpus)
 
-# Evaluate
+print('Show the first 10 results...')
+print(result.to_list()[:10])
+
+print('Evaluate the results...')
 from mcgocr.learning import evaluate
 report = evaluate(result, goldstandard, 'using the training corpus as the testing corpus')
 print(report)
-
-
 ```
 
 
