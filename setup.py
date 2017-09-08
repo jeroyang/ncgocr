@@ -5,7 +5,7 @@ from setuptools import setup
 with open('README.md') as readme_file:
     readme = readme_file.read()
 
-version = '0.2.0'
+version = '0.2.1'
 
 with open('requirements.txt') as f:
     requirements = f.read().split('\n')
