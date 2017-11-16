@@ -16,18 +16,18 @@ test_requirements = [
 
 input_fns = ['input/'+fn for fn in '11532192.txt 11597317.txt 11897010.txt 12079497.txt 12546709.txt 12585968.txt'.split(' ')]
 setup(
-    name='mcgocr',
+    name='ncgocr',
     version=version,
-    description="Micro Concept Gene Ontology Concept Recognition",
+    description="Named Concept Gene Ontology Concept Recognition",
     long_description=readme,
     author="Chia-Jung, Yang",
     author_email='jeroyang@gmail.com',
     url='https://github.com/jeroyang/mcgocr',
     packages=[
-        'mcgocr',
+        'ncgocr',
         'experiment'
     ],
-    package_dir={'mcgocr': 'mcgocr',
+    package_dir={'ncgocr': 'ncgocr',
                  'experiment': 'experiment'},
     data_files=[('input', input_fns)],
     include_package_data=True,

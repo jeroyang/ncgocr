@@ -10,7 +10,7 @@ __author__ = 'Chia-Jung, Yang'
 __email__ = 'jeroyang@gmail.com'
 __version__ = '0.2.1'
 
-from mcgocr.concept import *
-from mcgocr.corpus_craft import *
-from mcgocr.pattern_regex import *
-from mcgocr.mcgocr import *
+from ncgocr.concept import *
+from ncgocr.corpus_craft import *
+from ncgocr.pattern_regex import *
+from ncgocr.ncgocr import *

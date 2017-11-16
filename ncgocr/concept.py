@@ -19,7 +19,7 @@ from copy import copy
 
 import progressbar
 
-from mcgocr import pattern_regex
+from ncgocr import pattern_regex
 
 
 class Index(dict):

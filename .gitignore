@@ -1,8 +1,11 @@
 # Project
 data/history
+data2
+data/*.xlsx
 
 # too_big
 *.pickle
+*.gz
 
 #ipython
 *.ipynb

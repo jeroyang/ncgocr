@@ -14,7 +14,7 @@ Tests for `extractor` module.
 
 import unittest
 
-from mcgocr import extractor as ex
+from ncgocr import extractor as ex
 
 class TestFunctions(unittest.TestCase):
 
@@ -28,7 +28,7 @@ class TestFunctions(unittest.TestCase):
         span = (5, 8)
         result = ex._fit_border(text, span)
         self.assertEqual(result, True)
-        
+
 
 class TextFunctions2(unittest.TestCase):
     def test_nearest_evidences(self):

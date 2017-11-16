@@ -9,7 +9,7 @@ import re
 
 from acora import AcoraBuilder
 
-from mcgocr.concept import Entity, Pattern, Constraint, Evidence, Index
+from ncgocr.concept import Entity, Pattern, Constraint, Evidence, Index
 from experiment.corpus import Candidate
 
 Grounds = namedtuple('Grounds', 'evidences sentence')

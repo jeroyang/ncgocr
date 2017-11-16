@@ -9,10 +9,10 @@ import logging
 import argparse
 
 from experiment.corpus import Corpus
-from mcgocr.pattern_regex import regex_out
-from mcgocr.concept import GoData, Index, Entity, Evidence, Statement
-from mcgocr.extractor import SoftExtractor, SolidExtractor, JoinExtractor, CandidateReconizer
-from mcgocr.learning import bulk_measurements, LabelMarker, recover, evaluate
+from ncgocr.pattern_regex import regex_out
+from ncgocr.concept import GoData, Index, Entity, Evidence, Statement
+from ncgocr.extractor import SoftExtractor, SolidExtractor, JoinExtractor, CandidateReconizer
+from ncgocr.learning import bulk_measurements, LabelMarker, recover, evaluate
 
 from sklearn.feature_extraction import FeatureHasher
 from sklearn import svm
@@ -37,21 +37,19 @@ def boost(training_gold, godata):
                 Im_boost[cm].add(new_statement)
     return Ie_boost, Im_boost
 
-class MCGOCR(object):
-    def __init__(self, godata):
-        self.godata = godata
-        Ie = godata.get_Ie()
-        Im = godata.get_Im()
-        self.e0 = SolidExtractor(Ie)
-        self.e1 = SoftExtractor(regex_out)
-        self.basic_Im = Im
-        self.measure = bulk_measurements
-        self.vectorizer = None
-        self.classifier = None
-        self.use_boost = True
 
-    def fit(self, training_corpus, training_gold):
-        boost_Ie, self.boost_Im = boost(training_gold, self.godata)
+class NCGOCR(object):
+    def __init__(self, basic_Ie, basic_Im, measure, use_boost=True, n=10):
+        self.e0 = SolidExtractor(basic_Ie)
+        self.e1 = SoftExtractor(regex_out)
+        self.basic_Im = basic_Im
+        self.measure = measure
+        self.vectorizer = FeatureHasher(n_features=1024)
+        self.classifier = RandomForestClassifier(n_estimators=n, n_jobs=-1)
+        self.use_boost = use_boost
+
+    def train(self, training_corpus, training_gold):
+        boost_Ie, self.boost_Im = boost(training_gold, godata)
         self.e2 = SolidExtractor(boost_Ie)
 
         if self.use_boost:
@@ -64,20 +62,17 @@ class MCGOCR(object):
         label_marker = LabelMarker(training_gold)
         training_grounds = self.extractor.process(training_corpus)
         training_candidates = self.candidate_recognizer.process(training_grounds)
-        training_measurements = self.measure(training_candidates, self.godata)
+        training_measurements = self.measure(training_candidates, godata)
 
-        self.vectorizer = FeatureHasher(n_features=1024)
         training_X = self.vectorizer.fit_transform(training_measurements).toarray()
-
         training_y = label_marker.process(training_candidates)
 
-        self.classifier = svm.LinearSVC(random_state=0)
         self.classifier.fit(training_X, training_y)
 
-    def predict(self, testing_corpus):
+    def process(self, testing_corpus, testing_gold):
         testing_grounds = self.extractor.process(testing_corpus)
         testing_candidates = self.candidate_recognizer.process(testing_grounds)
-        testing_measurements = self.measure(testing_candidates, self.godata)
+        testing_measurements = self.measure(testing_candidates, godata)
         testing_X = self.vectorizer.transform(testing_measurements).toarray()
         system_y = self.classifier.predict(testing_X)
 
@@ -85,15 +80,16 @@ class MCGOCR(object):
         return system_results
 
 
-
 if __name__ == '__main__':
 
     description = """
-     _______ _______  ______  _____  _______  ______
-     |  |  | |       |  ____ |     | |       |_____/
-     |  |  | |_____  |_____| |_____| |_____  |    \_
+__    _   ___    ___     ___     ___  .___
+ |\   |  .'   \ .'   \  .'   `. .'   \ /   \
+ | \  |  |      |       |     | |      |__-'
+ |  \ |  |      |    _  |     | |      |  \
+ |   \|   `.__,  `.___|  `.__.'  `.__, /   \
 
-    Micro Concept Gene Ontology Concept Recognizer """
+Named Concept Gene Ontology Concept Recognizer """
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument('command', type=str, nargs=1,
                         help='command')

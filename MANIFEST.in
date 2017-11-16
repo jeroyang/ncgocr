@@ -1,9 +1,9 @@
-include VERSION
 include LICENSE
 include README.md
 
+include requirements.txt
 recursive-include experiment *
-recursive-include mcgocr *
+recursive-include ncgocr *
 recursive-include tests *
 recursive-include data *
 recursive-include input *

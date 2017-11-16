@@ -44,10 +44,13 @@ def evidence_measurements(candidate):
     raw_end = max(ends) - offset
     length = raw_end - raw_start
     text = sentence_text[raw_start:raw_end].lower()
+    boostscore = {'boost':1, 'boost2': 100}
+    boostlevel = max([boostscore.get(term.ref, 0) for term in candidate.statement.terms()])
     measurements = OrderedDict([('LENGTH', length),
                             ('TEXT=' + text, True),
                             ('TEXT[:3]=' + text[:3], True),
-                            ('TEXT[-3:]=' + text[-3:], True)])
+                            ('TEXT[-3:]=' + text[-3:], True),
+                            ('BOOST', boostlevel)])
     return measurements
 
 def bias_measurements(candidate):

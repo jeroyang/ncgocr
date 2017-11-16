@@ -6,18 +6,18 @@ from __future__ import (absolute_import, division,
 from builtins import *
 
 """
-test_mcgocr
+test_ncgocr
 ----------------------------------
 
-Tests for `mcgocr` module.
+Tests for `ncgocr` module.
 """
 
 import unittest
 
-from mcgocr import Craft, GoData, MCGOCR, Corpus
-from mcgocr.learning import evaluate
+from ncgocr import Craft, GoData, NCGOCR, Corpus
+from ncgocr.learning import evaluate
 
-class TestMcgocr(unittest.TestCase):
+class TestNcgocr(unittest.TestCase):
 
     def test_something(self):
         pass

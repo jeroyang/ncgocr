@@ -14,8 +14,8 @@ Tests for `concept` module.
 
 import unittest
 
-from mcgocr import concept as c
-from mcgocr import gopattern
+from ncgocr import concept as c
+from ncgocr import gopattern
 
 PATTERN_PATH = 'tests/pattern_definition.txt'
 
