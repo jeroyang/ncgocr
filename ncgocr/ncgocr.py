@@ -18,7 +18,7 @@ from sklearn.feature_extraction import FeatureHasher
 from sklearn.ensemble import RandomForestClassifier
 
 class NCGOCR(object):
-    def __init__(self, godata, measure, use_boost=True, n=10):
+    def __init__(self, godata, measure=bulk_measurements, use_boost=True, n=10):
         self.godata = godata
         self.basic_Ie = godata.get_Ie()
         self.basic_Im = godata.get_Im()
@@ -54,7 +54,7 @@ class NCGOCR(object):
         self.e2 = SolidExtractor(self.boost_Ie)
         self.extractor = JoinExtractor([self.e0, self.e1, self.e2])
         self.candidate_recognizer = CandidateReconizer(self.basic_Im + self.boost_Im)
-    
+
         label_marker = LabelMarker(training_gold)
         training_grounds = self.extractor.process(training_corpus)
         training_candidates = self.candidate_recognizer.process(training_grounds)
@@ -65,13 +65,12 @@ class NCGOCR(object):
 
         self.classifier.fit(training_X, training_y)
 
-    def process(self, testing_corpus, testing_gold):
+    def process(self, testing_corpus, testing_gold=None):
         testing_grounds = self.extractor.process(testing_corpus)
         testing_candidates = self.candidate_recognizer.process(testing_grounds)
         testing_measurements = self.measure(testing_candidates, self.godata)
         testing_X = self.vectorizer.transform(testing_measurements).toarray()
         system_y = self.classifier.predict(testing_X)
-
         system_results = recover(testing_candidates, system_y)
         return system_results
 
