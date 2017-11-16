@@ -22,8 +22,6 @@ def _fit_border(text, span):
     return all([judge(left_border),
                 judge(right_border)])
 
-
-
 class SolidExtractor(object):
     def __init__(self, term_index):
         self.term_index = term_index
@@ -38,14 +36,17 @@ class SolidExtractor(object):
         term_index = self.term_index
         result = []
         offset = sentence.offset
-        for text, raw_start in ac.findall(sentence.text):
-            for primary_term in term_index[text]:
-                start = raw_start + offset
-                raw_end = raw_start + len(text)
-                end = start + len(text)
-                if _fit_border(sentence.text, (raw_start, raw_end)):
-                    evidence = Evidence(primary_term, text, start, end)
-                    result.append(evidence)
+        try:
+            for text, raw_start in ac.findall(sentence.text):
+                for primary_term in term_index[text]:
+                    start = raw_start + offset
+                    raw_end = raw_start + len(text)
+                    end = start + len(text)
+                    if _fit_border(sentence.text, (raw_start, raw_end)):
+                        evidence = Evidence(primary_term, text, start, end)
+                        result.append(evidence)
+        except TypeError: # caused by empty ac
+            return []
         return result
 
     def to_grounds(self, sentence):

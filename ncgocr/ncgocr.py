@@ -15,54 +15,50 @@ from ncgocr.extractor import SoftExtractor, SolidExtractor, JoinExtractor, Candi
 from ncgocr.learning import bulk_measurements, LabelMarker, recover, evaluate
 
 from sklearn.feature_extraction import FeatureHasher
-from sklearn import svm
-
-def boost(training_gold, godata):
-    Ie_boost = Index()
-    Im_boost = Index()
-    for pmid, goid, start, end, text in training_gold:
-        for statement in godata[goid].statements:
-            if len(statement.evidences) == 1:
-                term = statement.evidences[0].term
-                lemma = term.lemma
-                if text!=lemma:
-                    Ie_boost[text].add(term)
-        else:
-            if ' ' not in text:
-                cm = Entity(text, 'boost')
-                null = Entity('NULL#' + goid, 'boost')
-                evidences = [Evidence(null, '', 0, 0), Evidence(cm, text, 0, len(text))]
-                new_statement = Statement('%'.join([goid, text]), evidences)
-                Ie_boost[text].add(cm)
-                Im_boost[cm].add(new_statement)
-    return Ie_boost, Im_boost
-
+from sklearn.ensemble import RandomForestClassifier
 
 class NCGOCR(object):
-    def __init__(self, basic_Ie, basic_Im, measure, use_boost=True, n=10):
-        self.e0 = SolidExtractor(basic_Ie)
+    def __init__(self, godata, measure, use_boost=True, n=10):
+        self.godata = godata
+        self.basic_Ie = godata.get_Ie()
+        self.basic_Im = godata.get_Im()
+        self.e0 = SolidExtractor(self.basic_Ie)
         self.e1 = SoftExtractor(regex_out)
-        self.basic_Im = basic_Im
         self.measure = measure
         self.vectorizer = FeatureHasher(n_features=1024)
         self.classifier = RandomForestClassifier(n_estimators=n, n_jobs=-1)
         self.use_boost = use_boost
+        self.boost_Ie = Index()
+        self.boost_Im = Index()
+
+    def boost(self, training_gold):
+        for pmid, goid, start, end, text in training_gold:
+            for statement in self.godata[goid].statements:
+                if len(statement.evidences) == 1:
+                    term = statement.evidences[0].term
+                    lemma = term.lemma
+                    if text!=lemma:
+                        self.boost_Ie[text].add(term)
+            else:
+                if ' ' not in text:
+                    cm = Entity(text, 'boost')
+                    null = Entity('NULL#' + goid, 'boost')
+                    evidences = [Evidence(null, '', 0, 0), Evidence(cm, text, 0, len(text))]
+                    new_statement = Statement('%'.join([goid, text]), evidences)
+                    self.boost_Ie[text].add(cm)
+                    self.boost_Im[cm].add(new_statement)
 
     def train(self, training_corpus, training_gold):
-        boost_Ie, self.boost_Im = boost(training_gold, godata)
-        self.e2 = SolidExtractor(boost_Ie)
-
         if self.use_boost:
-            self.extractor = JoinExtractor([self.e0, self.e1, self.e2])
-            self.candidate_recognizer = CandidateReconizer(self.basic_Im + self.boost_Im)
-        else:
-            self.extractor = JoinExtractor([self.e0, self.e1])
-            self.candidate_recognizer = CandidateReconizer(self.basic_Im)
-
+            self.boost(training_gold)
+        self.e2 = SolidExtractor(self.boost_Ie)
+        self.extractor = JoinExtractor([self.e0, self.e1, self.e2])
+        self.candidate_recognizer = CandidateReconizer(self.basic_Im + self.boost_Im)
+    
         label_marker = LabelMarker(training_gold)
         training_grounds = self.extractor.process(training_corpus)
         training_candidates = self.candidate_recognizer.process(training_grounds)
-        training_measurements = self.measure(training_candidates, godata)
+        training_measurements = self.measure(training_candidates, self.godata)
 
         training_X = self.vectorizer.fit_transform(training_measurements).toarray()
         training_y = label_marker.process(training_candidates)
@@ -72,7 +68,7 @@ class NCGOCR(object):
     def process(self, testing_corpus, testing_gold):
         testing_grounds = self.extractor.process(testing_corpus)
         testing_candidates = self.candidate_recognizer.process(testing_grounds)
-        testing_measurements = self.measure(testing_candidates, godata)
+        testing_measurements = self.measure(testing_candidates, self.godata)
         testing_X = self.vectorizer.transform(testing_measurements).toarray()
         system_y = self.classifier.predict(testing_X)
 
