@@ -17,8 +17,6 @@ $ pip install -U ncgocr
 ```python
 from ncgocr import Craft, GoData, NCGOCR, Corpus
 
-# Download the CRAFT corpus for training
-
 craft = Craft('data')
 corpus = craft.get_corpus()
 goldstandard = craft.get_goldstandard()
@@ -26,7 +24,7 @@ goldstandard = craft.get_goldstandard()
 print('Loading GO...')
 godata = GoData('data/craft-1.0/ontologies/GO.obo')
 
-print('Initiating MCGOCR...')
+print('Initiating NCGOCR...')
 ncgocr = NCGOCR(godata)
 
 print('Training the model...')
