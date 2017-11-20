@@ -22,7 +22,7 @@ setup(
     long_description=readme,
     author="Chia-Jung, Yang",
     author_email='jeroyang@gmail.com',
-    url='https://github.com/jeroyang/mcgocr',
+    url='https://github.com/jeroyang/ncgocr',
     packages=[
         'ncgocr',
         'experiment'
@@ -34,7 +34,7 @@ setup(
     install_requires=requirements,
     license="MIT",
     zip_safe=False,
-    keywords='mcgocr',
+    keywords='ncgocr',
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
