@@ -11,7 +11,7 @@ if sys.argv[-1] == 'publish':
     os.system("python setup.py sdist bdist_wheel upload")
     sys.exit()
 
-version = '1.0.0'
+version = '1.0.1'
 
 with open('requirements.txt') as f:
     requirements = f.read().split('\n')

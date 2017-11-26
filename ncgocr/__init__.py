@@ -8,7 +8,7 @@ from builtins import *
 import os
 __author__ = 'Chia-Jung, Yang'
 __email__ = 'jeroyang@gmail.com'
-__version__ = '1.0.0'
+__version__ = '1.0.1'
 
 from ncgocr.concept import *
 from ncgocr.corpus_craft import *
