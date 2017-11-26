@@ -1,9 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 from setuptools import setup
+import sys
+import os
 
 with open('README.md') as readme_file:
     readme = readme_file.read()
+
+if sys.argv[-1] == 'publish':
+    os.system("python setup.py sdist bdist_wheel upload")
+    sys.exit()
 
 version = '1.0.0'
 
