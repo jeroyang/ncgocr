@@ -11,7 +11,7 @@ if sys.argv[-1] == 'publish':
 with open('README.md') as readme_file:
     readme = readme_file.read()
 
-version = '1.0.1'
+version = '1.0.2'
 
 with open('requirements.txt') as f:
     requirements = f.read().split('\n')
