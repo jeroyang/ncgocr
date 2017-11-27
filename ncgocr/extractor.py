@@ -10,7 +10,7 @@ import re
 from acora import AcoraBuilder
 
 from ncgocr.concept import Entity, Pattern, Constraint, Evidence, Index
-from experiment.corpus import Candidate
+from txttk.corpus import Candidate
 
 Grounds = namedtuple('Grounds', 'evidences sentence')
 

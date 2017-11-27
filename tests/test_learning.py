@@ -19,7 +19,7 @@ from collections import OrderedDict
 from ncgocr import learning
 from ncgocr.extractor import Entity, Pattern, Evidence, Grounds
 from ncgocr.concept import Statement, GoData
-from experiment.corpus import Sentence, Candidate
+from txttk.corpus import Sentence, Candidate
 
 class TestFeatureExtract(unittest.TestCase):
     def setUp(self):

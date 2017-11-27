@@ -4,12 +4,12 @@ from setuptools import setup
 import sys
 import os
 
-with open('README.md') as readme_file:
-    readme = readme_file.read()
-
 if sys.argv[-1] == 'publish':
     os.system("python setup.py sdist bdist_wheel upload")
     sys.exit()
+
+with open('README.md') as readme_file:
+    readme = readme_file.read()
 
 version = '1.0.1'
 
@@ -30,11 +30,9 @@ setup(
     author_email='jeroyang@gmail.com',
     url='https://github.com/jeroyang/ncgocr',
     packages=[
-        'ncgocr',
-        'experiment'
+        'ncgocr'
     ],
-    package_dir={'ncgocr': 'ncgocr',
-                 'experiment': 'experiment'},
+    package_dir={'ncgocr': 'ncgocr'},
     data_files=[('input', input_fns)],
     include_package_data=True,
     install_requires=requirements,

@@ -14,7 +14,7 @@ Tests for `corpus` module.
 
 import unittest
 
-from experiment import corpus as c
+from txttk import corpus as c
 
 class TestFunctions(unittest.TestCase):
     def test_is_title(self):

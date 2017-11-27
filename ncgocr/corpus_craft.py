@@ -16,7 +16,7 @@ import re
 from lxml import etree
 from progressbar import ProgressBar
 
-from experiment import corpus as c
+from txttk import corpus as c
 
 BASE_URL = 'https://sourceforge.net/projects/bionlp-corpora/files/CRAFT/'
 CRAFT1_URL = BASE_URL + 'v1.0/craft-1.0.tar.gz/download'

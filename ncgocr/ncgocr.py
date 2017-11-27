@@ -8,7 +8,7 @@ import logging
 
 import argparse
 
-from experiment.corpus import Corpus
+from txttk.corpus import Corpus
 from ncgocr.pattern_regex import regex_out
 from ncgocr.concept import GoData, Index, Entity, Evidence, Statement
 from ncgocr.extractor import SoftExtractor, SolidExtractor, JoinExtractor, CandidateReconizer

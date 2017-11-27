@@ -9,9 +9,8 @@ from collections import OrderedDict, defaultdict, ChainMap
 from intervaltree import Interval, IntervalTree
 import numpy as np
 
-from experiment.report import Report
-
-from experiment.corpus import Annotation
+from txttk.report import Report
+from txttk.corpus import Annotation
 
 """
 The measurements of features
