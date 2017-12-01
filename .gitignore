@@ -17,11 +17,13 @@ data/*.xlsx
 # Python
 *.py[cod]
 
+
 # C extensions
 *.so
 
 # Packages
 *.egg
+*.eggs
 *.egg-info
 dist
 build
