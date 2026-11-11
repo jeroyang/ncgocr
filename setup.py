@@ -16,10 +16,6 @@ version = '1.0.2'
 with open('requirements.txt') as f:
     requirements = f.read().split('\n')
 
-test_requirements = [
-    # TODO: put package test requirements here
-]
-
 input_fns = ['input/'+fn for fn in '11532192.txt 11597317.txt 11897010.txt 12079497.txt 12546709.txt 12585968.txt'.split(' ')]
 setup(
     name='ncgocr',
@@ -36,6 +32,7 @@ setup(
     data_files=[('input', input_fns)],
     include_package_data=True,
     install_requires=requirements,
+    python_requires='>=3.12',
     license="MIT",
     zip_safe=False,
     keywords='ncgocr',
@@ -45,9 +42,6 @@ setup(
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
+        'Programming Language :: Python :: 3.12',
     ],
-    test_suite='tests',
-    tests_require=test_requirements
 )

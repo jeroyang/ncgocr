@@ -77,7 +77,7 @@ class NCGOCR(object):
 
 if __name__ == '__main__':
 
-    description = """
+    description = r"""
 __    _   ___    ___     ___     ___  .___
  |\   |  .'   \ .'   \  .'   `. .'   \ /   \
  | \  |  |      |       |     | |      |__-'
